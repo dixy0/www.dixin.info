@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Xin Di, PhD"
   avatar           : "profile.png"
-  bio              : "Research Assistant Professor"
-  location         : "Location"
-  employer         : "New Jersey Institute of Technology (NJIT)"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "Research Assistant Professor, NJIT"
+  location         : "Newark, NJ, USA"
+  employer         : 
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "dixy0"
   vine             :
   weibo            :
   xing             :
