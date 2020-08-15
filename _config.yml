@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Xin Di"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : "Xin Di"
 description              : &description "personal description"
 url                      : https://web.dixin.info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
