@@ -8,26 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My name is Xin Di (邸新 in Chinese). I am currently a Research Assistant Professor at the Department of Biomedical Engineering, New Jersey Institute of Technology. My research interest is mainly on understanding of brain connectivity and brain network organizations using brain imaging techniques such as functional magnetic resonance imaging (fMRI). I develop computational models to measure brain connectivity in different mental conditions, such as during cognitive tasks and watching movies. I am also interested in applying the methods to understand brain development and aging, as well as mental conditions such as autism spectrum disorder (ASD).
 
-A data-driven personal website
+Selected publications
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+### Working papers
+Di X, Biswal BB (2020): Dissecting individual differences in responses to naturalistic stimuli in functional MRI: effects of development and gender. bioRxiv; doi: https://doi.org/10.1101/2020.05.01.073163
+Di X, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (2019): Estimations of the weather effects on brain functions using functional MRI - a cautionary tale. bioRxiv; doi: https://doi.org/10.1101/646695 
+### Recently published papers
+Di X, Zhang Z, Biswal BB (2020): Understanding psychophysiological interaction and its relations to beta series correlation. Brain Imaging Behav. doi:10.1007/s11682-020-00304-8 
+Di X, Biswal BB (2020): Intersubject consistent dynamic connectivity during natural vision revealed by functional MRI. Neuroimage. doi:10.1016/j.neuroimage.2020.116698
+### Most cited papers
+Di X, Gohel S, Kim EH and Biswal BB (2013). Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks. Front Hum Neurosci. 7:493. link 
+Di X, Biswal BB, Alzheimer's Disease Neuroimaging Initiative (2012). Metabolic Brain Covariant Networks as Revealed by FDG-PET with reference to resting-state fMRI networks. Brain Connect 2(5):275-83. link
 
 Create content & metadata
 ------
