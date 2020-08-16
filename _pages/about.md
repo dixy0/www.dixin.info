@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-======
+---
 My name is Xin Di (邸新 in Chinese). I am currently a Research Assistant Professor at the Department of Biomedical Engineering, New Jersey Institute of Technology. My research interest is mainly on understanding of brain connectivity and brain network organizations using brain imaging techniques such as functional magnetic resonance imaging (fMRI). I develop computational models to measure brain connectivity in different mental conditions, such as during cognitive tasks and watching movies. I am also interested in applying the methods to understand brain development and aging, as well as mental conditions such as autism spectrum disorder (ASD).
 
 Selected publications
