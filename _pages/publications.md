@@ -13,26 +13,26 @@ A complete list of publications, see my [Google Scholar Profile](https://scholar
 {% endif %}
 
 ### Working papers
-2. **Di X**, Biswal BB (2020): Dissecting individual differences in responses to naturalistic stimuli in functional MRI: effects of development and gender. bioRxiv; doi: https://doi.org/10.1101/2020.05.01.073163 
+[2] **Di X**, Biswal BB (2020): Dissecting individual differences in responses to naturalistic stimuli in functional MRI: effects of development and gender. bioRxiv; doi: https://doi.org/10.1101/2020.05.01.073163 
 
-1. **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (2019): Estimations of the weather effects on brain functions using functional MRI - a cautionary tale. bioRxiv; doi: https://doi.org/10.1101/646695 
+[1] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (2019): Estimations of the weather effects on brain functions using functional MRI - a cautionary tale. bioRxiv; doi: https://doi.org/10.1101/646695 
 
 ### Journal articles
 #### Forthcoming
-48. Klugah-Brown B, **Di X**, Zweerings J, Mathiak K, Becker B, Biswal B (accepted): Common and separable neural alterations in substance use disorders: evidence from coordinate-based meta-analyses of functional neuroimaging studies in human. Hum Brain Mapp preprint: https://doi.org/10.1101/2020.02.19.956755
+[48] Klugah-Brown B, **Di X**, Zweerings J, Mathiak K, Becker B, Biswal B (accepted): Common and separable neural alterations in substance use disorders: evidence from coordinate-based meta-analyses of functional neuroimaging studies in human. Hum Brain Mapp preprint: https://doi.org/10.1101/2020.02.19.956755
 
-47. **Di X**, Zhang Z, Biswal BB (2020): Understanding psychophysiological interaction and its relations to beta series correlation. Brain Imaging Behav. doi:10.1007/s11682-020-00304-8
+[47] **Di X**, Zhang Z, Biswal BB (2020): Understanding psychophysiological interaction and its relations to beta series correlation. Brain Imaging Behav. doi:10.1007/s11682-020-00304-8
 
-46. Woelfer M, Li M, Colic L, Liebe T, **Di X**, Biswal B, Murrough J, Lessmann V, Brigadski T, Walter M (2020). Ketamine-induced changes in plasma brain-derived neurotrophic factor (BDNF) levels are associated with the resting-state functional connectivity of the prefrontal cortex. World J Biol Psychia. doi:10.1080/15622975.2019.1679391 
+[46] Woelfer M, Li M, Colic L, Liebe T, **Di X**, Biswal B, Murrough J, Lessmann V, Brigadski T, Walter M (2020). Ketamine-induced changes in plasma brain-derived neurotrophic factor (BDNF) levels are associated with the resting-state functional connectivity of the prefrontal cortex. World J Biol Psychia. doi:10.1080/15622975.2019.1679391 
 
 #### 2020
-45. Di X, Biswal BB (2020). Intersubject consistent dynamic connectivity during natural vision revealed by functional MRI. Neuroimage 216:1166982. doi:10.1016/j.neuroimage.2020.116698
+[45] Di X, Biswal BB (2020). Intersubject consistent dynamic connectivity during natural vision revealed by functional MRI. Neuroimage 216:1166982. doi:10.1016/j.neuroimage.2020.116698
 
-44. Yang H, Di X, Gong Q, Sweeney J, Biswal BB (2020). Investigating inhibition deficit in schizophrenia using task-modulated brain networks. Brain Struct Funct 225:1601–1613. doi:10.1007/s00429-020-02078-7
+[44] Yang H, Di X, Gong Q, Sweeney J, Biswal BB (2020). Investigating inhibition deficit in schizophrenia using task-modulated brain networks. Brain Struct Funct 225:1601–1613. doi:10.1007/s00429-020-02078-7
 
-43. Botvinik-Nezer et al., (2020): Variability in the analysis of a single neuroimaging dataset by many teams. Nature 582(7810):84-88. doi:10.1038/s41586-020-2314-9 
+[43] Botvinik-Nezer et al., (2020): Variability in the analysis of a single neuroimaging dataset by many teams. Nature 582(7810):84-88. doi:10.1038/s41586-020-2314-9 
 
-42. Di X, Zhang H, Biswal BB (2020). Anterior cingulate cortex differently modulates fronto-parietal functional connectivity between resting-state and working memory tasks. Hum Brain Mapp 41:1797–1805. doi: https://doi.org/10.1002/hbm.24912
+[42] Di X, Zhang H, Biswal BB (2020). Anterior cingulate cortex differently modulates fronto-parietal functional connectivity between resting-state and working memory tasks. Hum Brain Mapp 41:1797–1805. doi: https://doi.org/10.1002/hbm.24912
 
 #### 2019
 41. Di X, Woelfer M, Amend M, Wehrl H, Ionescu TM, Pichler BJ, Biswal BB, and Alzheimer's Disease Neuroimaging Initiative (2019). Interregional causal influences of brain metabolic activity reveal the spread of aging effects during normal aging. Hum Brain Mapp 40(16):4657-4668. doi:10.1002/hbm.24728. link
