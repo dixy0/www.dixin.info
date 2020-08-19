@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Research Assistant Professor, NJIT"
   location         : "Newark, NJ, USA"
-  employer         : "https://people.njit.edu/faculty/dixin"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en"
   email            : "xin.di@njit.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Xin_Di2"
   uri              :
   bitbucket        :
   codepen          :
