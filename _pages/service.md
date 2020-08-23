@@ -8,9 +8,7 @@ author_profile: true
 ------
 ## Journal editorial board
 
-Editor and Review records on [Publons](https://publons.com/researcher/18286/xin-di/peer-review/).
-
-A list of editorial contributions on [Fronteirs](https://loop.frontiersin.org/people/63547/editorial). 
+Editor and Review records on [Publons](https://publons.com/researcher/18286/xin-di/peer-review/) and [Fronteirs](https://loop.frontiersin.org/people/63547/editorial). 
 
 ### Associate Editor
 * Frontiers in Brain Imaging Methods section, 2020 - present.
