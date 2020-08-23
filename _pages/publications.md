@@ -6,11 +6,7 @@ author_profile: true
 ---
 
 ------
-A complete list of publications, see my [Google Scholar Profile](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en). 
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en), [Web of Science](https://publons.com/researcher/B-2009-2009/), and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
 
 ### Working papers
 [2] **Di X**, Biswal BB (2020): Dissecting individual differences in responses to naturalistic stimuli in functional MRI: effects of development and gender. bioRxiv; doi: https://doi.org/10.1101/2020.05.01.073163 
