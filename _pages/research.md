@@ -8,6 +8,7 @@ redirect_from:
   - "/nmp.html"
 ---
 
+------
 My research interests are mainly about understanding brain functional integrations and the organization of brain networks. My efforts can be summarized as three themes on how three factors modulate brain functional connectivity: 1) different task conditions, 2) other brain regions, 3) and neurophysiological factors. I use functional MRI (fMRI) as my main research tool, but also pursue combining different neuroimaging modalities including positron emission tomography (PET) and electroencephalography (EEG). My research philosophy is to utilize divergent research methodologies to approach my scientific questions. I have been using multiple methods to study brain connectivity, including psycho-(physio-)physiological interaction (PPI), dynamic causal modeling (DCM), independent component analysis (ICA), network analysis, sliding window method, machine learning, and meta-analysis. 
 
 ### 1. Brain functional connectivity in different task conditions
