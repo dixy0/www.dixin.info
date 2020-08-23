@@ -42,3 +42,9 @@ References:
 * Di X, Woelfer M, Amend M, Wehrl H, Ionescu TM, Pichler BJ, Biswal BB, and Alzheimer's Disease Neuroimaging Initiative (2019). Interregional causal influences of brain metabolic activity reveal the spread of aging effects during normal aging. Human Brain Mapping 40(16):4657-4668.
 * Di X, Gohel S, Thielcke A, Wehrl HF, Biswal BB, and Alzheimer's Disease Neuroimaging Initiative (2017). Do all roads lead to Rome? A comparison of brain networks derived from inter-subject volumetric and metabolic covariance and moment-to-moment hemodynamic correlations in old individuals. Brain Struct Funct 222(8):3833–3845.
 * Di X, Biswal BB, Alzheimer's Disease Neuroimaging Initiative (2012). Metabolic Brain Covariant Networks as Revealed by FDG-PET with reference to resting-state fMRI networks. Brain Connect 2(5):275-83.
+
+## Collaborators
+Dr. Zhiguo Zhang @ [SZU](http://zgzhang-lab.net/)
+
+## Research support
+* NJDOH – NJ Autism Center of Excellence (CAUT16APL019), 2016 - 2018, PI. Multimodal neuroimaging study of sex differences in children with autism spectrum disorder.
