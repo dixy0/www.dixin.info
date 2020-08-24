@@ -91,24 +91,24 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 [15] **Di X**, Rypma B, Biswal BB (2014). [Correspondence of Executive Function Related Functional and Anatomical Alterations in Aging Brain](https://doi.org/10.1016/j.pnpbp.2013.09.001). Prog Neuropsychopharmacol Biol Psychiatry 48(3):41–50.
 
 #### 2013
-[14] Yuan R, **Di X**, Kim EH, Barik S, Rypma B, Biswal BB (2013). Regional Homogeneity of Resting-state fMRI Contributes to Both Neurovascular and Task Activation Variations. Magn Reson Imaging 31(9):1492–1500. link 
+[14] Yuan R, **Di X**, Kim EH, Barik S, Rypma B, Biswal BB (2013). [Regional Homogeneity of Resting-state fMRI Contributes to Both Neurovascular and Task Activation Variations](https://doi.org/10.1016/j.mri.2013.07.005). Magn Reson Imaging 31(9):1492–1500.
 
-[13] **Di X**, Gohel S, Kim EH and Biswal BB (2013). Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks. Front Hum Neurosci 7:493. link
+[13] **Di X**, Gohel S, Kim EH and Biswal BB (2013). [Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks](https://doi.org/10.3389/fnhum.2013.00493). Front Hum Neurosci 7:493.
 
-[12] **Di X**, Biswal BB (2013). Modulatory interactions of resting-state brain functional connectivity. PLoS ONE 8(8): e71163. link 
+[12] **Di X**, Biswal BB (2013). [Modulatory interactions of resting-state brain functional connectivity](https://doi.org/10.1371/journal.pone.0071163). PLoS ONE 8(8): e71163.
 
-[11] **Di X**, Kim E, Huang C, Tsai S, Lin C and Biswal BB (2013). The influence of the amplitude of low-frequency fluctuations on resting-state functional connectivity. Front Hum Neurosci 7:118. link 
+[11] **Di X**, Kim E, Huang C, Tsai S, Lin C and Biswal BB (2013). [The influence of the amplitude of low-frequency fluctuations on resting-state functional connectivity](https://doi.org/10.3389/fnhum.2013.00118). Front Hum Neurosci 7:118. 
 
-[10] Huang J, Wang Y, Jin Z, **Di X**, Yang T, Gur RC, Gur RE, Shum DH, Cheung EF, Chan RC (2013). Happy facial expression processing with different social interaction cues: An fMRI study of individuals with schizotypal personality traits. Prog Neuropsychopharmacol Biol Psychiatry 44:108-17. link 
+[10] Huang J, Wang Y, Jin Z, **Di X**, Yang T, Gur RC, Gur RE, Shum DH, Cheung EF, Chan RC (2013). [Happy facial expression processing with different social interaction cues: An fMRI study of individuals with schizotypal personality traits](https://doi.org/10.1016/j.pnpbp.2013.02.004). Prog Neuropsychopharmacol Biol Psychiatry 44:108-17.
 
-[9] **Di X**, Kannurpatti SS, Rypma B, Biswal BB (2013). Calibrating BOLD fMRI activations with neuro-vascular and anatomical constraints. Cereb Cortex 23(2):255-263. link pdf supp
+[9] **Di X**, Kannurpatti SS, Rypma B, Biswal BB (2013). [Calibrating BOLD fMRI activations with neuro-vascular and anatomical constraints](https://doi.org/10.1093/cercor/bhs001). Cereb Cortex 23(2):255-263.
 
 #### 2012
-[8] **Di X**, Biswal BB, Alzheimer's Disease Neuroimaging Initiative (2012). Metabolic Brain Covariant Networks as Revealed by FDG-PET with reference to resting-state fMRI networks. Brain Connect 2(5):275-83. link pdf supp 
+[8] **Di X**, Biswal BB, Alzheimer's Disease Neuroimaging Initiative (2012). [Metabolic Brain Covariant Networks as Revealed by FDG-PET with reference to resting-state fMRI networks](https://doi.org/10.1089/brain.2012.0086). Brain Connect 2(5):275-83.
 
-[7] **Di X**, Zhu S, Jin H, Wang P, Ye Z, Zhou K, Zhuo Y, Rao H (2012). Altered resting brain function and structure in professional badminton players. Brain Connect 2(4):225-33. link pdf
+[7] **Di X**, Zhu S, Jin H, Wang P, Ye Z, Zhou K, Zhuo Y, Rao H (2012). [Altered resting brain function and structure in professional badminton players](https://doi.org/10.1089/brain.2011.0050). Brain Connect 2(4):225-33.
 
-[6] Taylor P, Gohel SR, **Di X**, Walter M, Biswal B (2012). Functional covariance networks: obtaining resting state networks from intersubject variability. Brain Connect 2(4):203-17. link pdf
+[6] Taylor P, Gohel SR, **Di X**, Walter M, Biswal B (2012). [Functional covariance networks: obtaining resting state networks from intersubject variability](https://doi.org/10.1089/brain.2012.0095). Brain Connect 2(4):203-17.
 
 #### Before 2012
 [5] Qian C, **Di X** (2011). Phase or amplitude? The relationship between ongoing and evoked neural activity. J Neurosci 31(29):10425-10426. link pdf
