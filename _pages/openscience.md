@@ -32,7 +32,7 @@ Reference: Di X, Biswal BB (2017). Psychophysiological Interactions in a Visual 
 ICA [maps](https://osf.io/4a3vt/) generated from FDG-PET images from [ADNI](http://adni.loni.usc.edu/) ([Di et al., 2019](https://doi.org/10.1002/hbm.24728)). 
 
 #### ICA maps from brain volumetric images
-ICA [maps](https://neurovault.org/collections/973/) generated from gray matter and white matter volumetric images from ([ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)) ([Di & Biswal, 2016](https://doi.org/10.1016/j.bpsc.2015.11.006)).
+ICA [maps](https://neurovault.org/collections/973/) generated from gray matter and white matter volumetric images from [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/) ([Di & Biswal, 2016](https://doi.org/10.1016/j.bpsc.2015.11.006)).
 
 #### ICA maps from fMRI images
 Six ICA [maps](https://doi.org/10.6084/m9.figshare.1402207.v1) of the default mode network (DMN) and task positive networks ([Di & Biswal, 2014](https://doi.org/10.7717/peerj.367)). 
