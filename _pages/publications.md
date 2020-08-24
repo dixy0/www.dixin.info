@@ -22,22 +22,22 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 [46] Woelfer M, Li M, Colic L, Liebe T, **Di X**, Biswal B, Murrough J, Lessmann V, Brigadski T, Walter M (2020). [Ketamine-induced changes in plasma brain-derived neurotrophic factor (BDNF) levels are associated with the resting-state functional connectivity of the prefrontal cortex](https://doi.org/10.1080/15622975.2019.1679391). World J Biol Psychia.  
 
 #### 2020
-[45] **Di X**, Biswal BB (2020). Intersubject consistent dynamic connectivity during natural vision revealed by functional MRI. Neuroimage 216:1166982. doi:10.1016/j.neuroimage.2020.116698
+[45] **Di X**, Biswal BB (2020). [Intersubject consistent dynamic connectivity during natural vision revealed by functional MRI](https://doi.org/10.1016/j.neuroimage.2020.116698). Neuroimage 216:1166982.
 
-[44] Yang H, **Di X**, Gong Q, Sweeney J, Biswal BB (2020). Investigating inhibition deficit in schizophrenia using task-modulated brain networks. Brain Struct Funct 225:1601–1613. doi:10.1007/s00429-020-02078-7
+[44] Yang H, **Di X**, Gong Q, Sweeney J, Biswal BB (2020). [Investigating inhibition deficit in schizophrenia using task-modulated brain networks](https://doi.org/10.1007/s00429-020-02078-7). Brain Struct Funct 225:1601–1613. 
 
-[43] Botvinik-Nezer et al., (2020): Variability in the analysis of a single neuroimaging dataset by many teams. Nature 582(7810):84-88. doi:10.1038/s41586-020-2314-9 
+[43] Botvinik-Nezer et al., (2020): [Variability in the analysis of a single neuroimaging dataset by many teams](https://doi.org/10.1038/s41586-020-2314-9). Nature 582(7810):84-88. 
 
-[42] **Di X**, Zhang H, Biswal BB (2020). Anterior cingulate cortex differently modulates fronto-parietal functional connectivity between resting-state and working memory tasks. Hum Brain Mapp 41:1797–1805. doi: https://doi.org/10.1002/hbm.24912
+[42] **Di X**, Zhang H, Biswal BB (2020). [Anterior cingulate cortex differently modulates fronto-parietal functional connectivity between resting-state and working memory tasks](https://doi.org/10.1002/hbm.24912). Hum Brain Mapp 41:1797–1805.
 
 #### 2019
-[41] **Di X**, Woelfer M, Amend M, Wehrl H, Ionescu TM, Pichler BJ, Biswal BB, and Alzheimer's Disease Neuroimaging Initiative (2019). Interregional causal influences of brain metabolic activity reveal the spread of aging effects during normal aging. Hum Brain Mapp 40(16):4657-4668. doi:10.1002/hbm.24728. link
+[41] **Di X**, Woelfer M, Amend M, Wehrl H, Ionescu TM, Pichler BJ, Biswal BB, and Alzheimer's Disease Neuroimaging Initiative (2019). [Interregional causal influences of brain metabolic activity reveal the spread of aging effects during normal aging](https://doi.org/10.1002/hbm.24728). Hum Brain Mapp 40(16):4657-4668. 
 
-[40] Amend M, Ionescu TM, **Di X**, Pichler BJ, Biswal BB, Wehrl HF (2019). Functional resting-state brain connectivity is accompanied by dynamic correlations of application-dependent [18F]FDG PET-tracer fluctuations. Neuroimage 196:161-172. doi:10.1016/j.neuroimage.2019.04.034. link 
+[40] Amend M, Ionescu TM, **Di X**, Pichler BJ, Biswal BB, Wehrl HF (2019). [Functional resting-state brain connectivity is accompanied by dynamic correlations of application-dependent [18F]FDG PET-tracer fluctuations](https://doi.org/10.1016/j.neuroimage.2019.04.034). Neuroimage 196:161-172.
 
-[39] Fu Z, Tu Y, **Di X**, Du Y, Sui J, Biswal BB, Zhang Z, de Lacy N, Calhoun V (2019). Transient Increased Thalamic-Sensory Connectivity and Decreased Whole-Brain Dynamism in Autism. Neuroimage 190:191-204. doi: 10.1016/j.neuroimage.2018.06.003. link 
+[39] Fu Z, Tu Y, **Di X**, Du Y, Sui J, Biswal BB, Zhang Z, de Lacy N, Calhoun V (2019). [Transient Increased Thalamic-Sensory Connectivity and Decreased Whole-Brain Dynamism in Autism](https://doi.org/10.1016/j.neuroimage.2018.06.003). Neuroimage 190:191-204.
 
-[38] **Di X**, Biswal BB (2019). Toward Task Connectomics: Examining Whole-Brain Task Modulated Connectivity in Different Task Domains. Cereb Cortex 29(4):1572-1583. doi:10.1093/cercor/bhy055. link pdf
+[38] **Di X**, Biswal BB (2019). [Toward Task Connectomics: Examining Whole-Brain Task Modulated Connectivity in Different Task Domains](https://doi.org/10.1093/cercor/bhy055). Cereb Cortex 29(4):1572-1583. 
 
 #### 2018
 [37] Fu Z, Tu Y, **Di X**, Du Y, Pearlson GD, Turner JA, Biswal BB, Zhang Z, Calhoun VD (2018). Characterizing Dynamic Amplitude of Low-Frequency Fluctuation and Its Relationship with Dynamic Functional Connectivity: An Application to Schizophrenia. Neuroimage 180:619-31. doi:10.1016/j.neuroimage.2017.09.035. link
