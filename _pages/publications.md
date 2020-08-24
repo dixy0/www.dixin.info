@@ -138,9 +138,9 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 [17] **Di X**, Yuan R, Biswal BB. Modulatory interactions between the thalamus and visual cortex in resting-state are modulated by eye open/closed conditions. Poster presentation at the Fourth Biennial Conference on Resting State / Brain Connectivity, Boston, USA (2014).
 
-[16] Fu Z, **Di X**, Chan SC, Hung YS, Biswal BB, Zhang Z. Characterizing temporal variations of functional connectivity in resting-state. Poster presentation for Joint Annual Meeting ISMRM-ESMRMB, Milano, Italy (2014). link 
+[16] Fu Z, **Di X**, Chan SC, Hung YS, Biswal BB, Zhang Z. [Characterizing temporal variations of functional connectivity in resting-state](https://cds.ismrm.org/protected/14MProceedings/files/1818.pdf). Poster presentation for Joint Annual Meeting ISMRM-ESMRMB, Milano, Italy (2014).  
 
-[15] Fu Z, **Di X**, Chan SC, Hung YS, Biswal BB, Zhang Z (2013). Time-varying correlation coefficients estimation and its application to dynamic connectivity analysis of fMRI. Conf Proc IEEE Eng Med Biol Soc. 2013:2944-2947. link 
+[15] Fu Z, **Di X**, Chan SC, Hung YS, Biswal BB, Zhang Z (2013). [Time-varying correlation coefficients estimation and its application to dynamic connectivity analysis of fMRI](https://doi.org/10.1109/EMBC.2013.6610157). Conf Proc IEEE Eng Med Biol Soc. 2013:2944-2947.
 
 [14] Zhang Z, FU Z, Chan SC, Hung YS, Motta G, **Di X**, Biswal BB. Conference Paper: Adaptive window selection in estimating dynamic functional connectivity of resting-state fMRI. 9th International Conference on Information, Communications and Signal Processing (ICICS2013). 
 
@@ -164,8 +164,8 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 [4] **Di X**, Zhou K, Rao H (2009). Individual differences of representational momentum were associated with inhibition process rather than motion perception. In: The 4th Symposium on brain and cognitive science, Chengdu, China (2009). 
 
-[3] **Di X**, Ding Y, Qu Z, Ye B, Gao D, Rao H (2008). The Role of Middle Temporal and Medial Prefrontal Cortex in Representational Momentum: a fMRI Study. In: Annual Meeting of ISMRM, Toronto, Canada (2008). pdf 
+[3] **Di X**, Ding Y, Qu Z, Ye B, Gao D, Rao H (2008). [The Role of Middle Temporal and Medial Prefrontal Cortex in Representational Momentum: a fMRI Study](https://cds.ismrm.org/ismrm-2008/files/02502.pdf). In: Annual Meeting of ISMRM, Toronto, Canada (2008).
 
-[2] **Di X**, Chan RC, Ding Y, Ye B, Qu Z, Gao D, Rao H (2007). The Role of Prefrontal Lobe in FEP: Evidence from PPI Analysis. In: Joint Annual Meeting ISMRM-ESMRMB, Berlin, Germany (2007). pdf
+[2] **Di X**, Chan RC, Ding Y, Ye B, Qu Z, Gao D, Rao H (2007). [The Role of Prefrontal Lobe in FEP: Evidence from PPI Analysis](https://cds.ismrm.org/ismrm-2007/files/00551.pdf). In: Joint Annual Meeting ISMRM-ESMRMB, Berlin, Germany (2007).
 
 [1] **Di X**, Rao H (2006). The higher and lower frequency asymmetry in pitch representational momentum. In: The 2nd Symposium on brain and cognitive science, Guilin, China (2006).  
