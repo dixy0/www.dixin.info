@@ -40,22 +40,22 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 [38] **Di X**, Biswal BB (2019). [Toward Task Connectomics: Examining Whole-Brain Task Modulated Connectivity in Different Task Domains](https://doi.org/10.1093/cercor/bhy055). Cereb Cortex 29(4):1572-1583. 
 
 #### 2018
-[37] Fu Z, Tu Y, **Di X**, Du Y, Pearlson GD, Turner JA, Biswal BB, Zhang Z, Calhoun VD (2018). Characterizing Dynamic Amplitude of Low-Frequency Fluctuation and Its Relationship with Dynamic Functional Connectivity: An Application to Schizophrenia. Neuroimage 180:619-31. doi:10.1016/j.neuroimage.2017.09.035. link
+[37] Fu Z, Tu Y, **Di X**, Du Y, Pearlson GD, Turner JA, Biswal BB, Zhang Z, Calhoun VD (2018). [Characterizing Dynamic Amplitude of Low-Frequency Fluctuation and Its Relationship with Dynamic Functional Connectivity: An Application to Schizophrenia](https://doi.org/10.1016/j.neuroimage.2017.09.035). Neuroimage 180:619-31.
 
-[36] **Di X**, Azeez A, Li X, Haque E, Biswal BB (2018). Disrupted focal white matter integrity in autism spectrum disorder: a voxel-based meta-analysis of diffusion tensor imaging studies. Prog Neuropsychopharmacol Biol Psychiatry 82:242-248. link
+[36] **Di X**, Azeez A, Li X, Haque E, Biswal BB (2018). [Disrupted focal white matter integrity in autism spectrum disorder: a voxel-based meta-analysis of diffusion tensor imaging studies](https://doi.org/10.1016/j.pnpbp.2017.11.007). Prog Neuropsychopharmacol Biol Psychiatry 82:242-248.
 
 #### 2017
-[35] Fu Z, Tu Y, **Di X**, Biswal BB, Calhoun VD, Zhang Z (2017). Associations between Functional Connectivity Dynamics and BOLD Dynamics are Heterogeneous across Brain Networks. Front Hum Neurosci 11:593. link 
+[35] Fu Z, Tu Y, **Di X**, Biswal BB, Calhoun VD, Zhang Z (2017). [Associations between Functional Connectivity Dynamics and BOLD Dynamics are Heterogeneous across Brain Networks](https://doi.org/10.3389/fnhum.2017.00593). Front Hum Neurosci 11:593.
 
-[34] **Di X**, Gohel S, Thielcke A, Wehrl HF, Biswal BB, and Alzheimer's Disease Neuroimaging Initiative (2017). Do all roads lead to Rome? A comparison of brain networks derived from inter-subject volumetric and metabolic covariance and moment-to-moment hemodynamic correlations in old individuals. Brain Struct Funct 222(8):3833–3845. link
+[34] **Di X**, Gohel S, Thielcke A, Wehrl HF, Biswal BB, and Alzheimer's Disease Neuroimaging Initiative (2017). [Do all roads lead to Rome? A comparison of brain networks derived from inter-subject volumetric and metabolic covariance and moment-to-moment hemodynamic correlations in old individuals](https://doi.org/10.1007/s00429-017-1438-7). Brain Struct Funct 222(8):3833–3845.
 
-[33] **Di X**, Biswal BB (2017). Psychophysiological Interactions in a Visual Checkerboard Task: Reproducibility, Reliability, and the Effects of Deconvolution. Front Neurosci 11:573. link 
+[33] **Di X**, Biswal BB (2017). [Psychophysiological Interactions in a Visual Checkerboard Task: Reproducibility, Reliability, and the Effects of Deconvolution](https://doi.org/10.3389/fnins.2017.00573). Front Neurosci 11:573. 
 
-[32] Jin H, Wang P, Fang Z, **Di X**, Ye Z, Xu G, Lin H, Cheng Y, Li Y, Xu Y, Rao H (2017). Effects of badminton expertise on representational momentum: A combination of cross-sectional and longitudinal studies. Front Psychol 8:1526. link  
+[32] Jin H, Wang P, Fang Z, **Di X**, Ye Z, Xu G, Lin H, Cheng Y, Li Y, Xu Y, Rao H (2017). [Effects of badminton expertise on representational momentum: A combination of cross-sectional and longitudinal studies](https://doi.org/10.3389/fpsyg.2017.01526). Front Psychol 8:1526. 
 
-[31] **Di X**, Reynolds RC, Biswal BB (2017). Imperfect (de)convolution may introduce spurious psychophysiological interactions and how to avoid it. Hum Brain Mapp 38(4), 1723–1740. link 
+[31] **Di X**, Reynolds RC, Biswal BB (2017). [Imperfect (de)convolution may introduce spurious psychophysiological interactions and how to avoid it](https://doi.org/10.1002/hbm.23413). Hum Brain Mapp 38(4), 1723–1740. 
 
-[30] **Di X**, Huang J, Biswal BB (2017). Task-modulated brain connectivity of the amygdala: a meta-analysis of psychophysiological interactions. Brain Struct Funct 222(1):619-634. link
+[30] **Di X**, Huang J, Biswal BB (2017). [Task-modulated brain connectivity of the amygdala: a meta-analysis of psychophysiological interactions](https://doi.org/10.1007/s00429-016-1239-4). Brain Struct Funct 222(1):619-634. 
 
 #### 2016
 [29] Xu H, Wang P, Ye Z, **Di X**, Xu G, Mo L, Lin H, Rao H and Jin H (2016). The Role of Medial Frontal Cortex in Action Anticipation in Professional Badminton Players. Front Psychol 7:1817. link 
