@@ -19,3 +19,7 @@ Editor and Review records on [Publons](https://publons.com/researcher/18286/xin-
 * Frontiers in Human Neuroscience Archive, 2015 - present.
 * Frontiers in Brain Imaging Methods section, 2014 - 2020.
 
+## Awards
+* Publons Top reviewers for Neuroscience And Behavior, 2018
+* Publons Top reviewers for Neuroscience, 2017
+* Publons Top reviewers in field: Neuroscience, 2016
