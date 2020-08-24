@@ -127,7 +127,7 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 [1] **邸新**, 饶恒毅 (2007). 人脑功能连通性进展. 生物化学与生物物理进展 34(1), 5-12. link pdf
 
 ### File drawer (No plan for submission)
-[1] **Di X**, Biswal BB (2016): Sex-dependent and sex-independent brain resting-state functional connectivity in children with autism spectrum disorder. bioRxiv doi: http://dx.doi.org/10.1101/038026
+[1] **Di X**, Biswal BB (2016): Sex-dependent and sex-independent brain resting-state functional connectivity in children with autism spectrum disorder. [bioRxiv](http://dx.doi.org/10.1101/038026)
 
 ### Conference abstracts
 [20] **Di X**, Biswal BB. Assessing task related brain connectivity in a fast event-related designed stop signal task using psychophysiological interaction and beta series correlation. Poster presentation at the 4th New York Metropolitan Imaging Symposium, New York, USA (2017).
