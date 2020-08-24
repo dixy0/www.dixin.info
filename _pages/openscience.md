@@ -29,28 +29,15 @@ Reference: Di X, Biswal BB (2017). Psychophysiological Interactions in a Visual 
 
 ## ICA maps
 #### ICA maps from FDG-PET images
-Maps, data paperICA Maps of FDG-PET images from ADNI
-These maps were used in our study on interregional causal influences in aging. link. 
+ICA [maps](https://osf.io/4a3vt/) generated from FDG-PET images from [ADNI](http://adni.loni.usc.edu/) ([Di et al., 2019](https://doi.org/10.1002/hbm.24728)). 
 
-Reference: Di X, Woelfer M, Amend M, Wehrl H, Ionescu TM, Pichler BJ, Biswal BB, and Alzheimer's Disease Neuroimaging Initiative (2019). Interregional causal influences of brain metabolic activity reveal the spread of aging effects during normal aging. Human Brain Mapping 40(16):4657-4668.
+#### ICA maps from brain volumetric images
+ICA [maps](https://neurovault.org/collections/973/) generated from gray matter and white matter volumetric images from ([ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)) ([Di & Biswal, 2016](https://doi.org/10.1016/j.bpsc.2015.11.006)).
 
-ICA maps for gray matter and white matter volume images
+#### ICA maps from fMRI images
+Six ICA [maps](https://doi.org/10.6084/m9.figshare.1402207.v1) of the default mode network (DMN) and task positive networks ([Di & Biswal, 2014](https://doi.org/10.7717/peerj.367)). 
 
-These maps were used in our study on sex differences of brain structural alterations in Autism Spectrum Disorder (ASD). link. 
-
-Reference: Di X, Biswal BB (2016). Similarly expanded bilateral temporal lobe volumes in female and male children with autism spectrum disorder. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging 1(2):178-185.
-
-Six ICA maps of the default mode network (DMN) and task positive networks
-
-These six ICA (independent component analysis) maps were used in our paper titled "Modulatory interactions between the default mode network and task positive networks in resting-state". link 
-
-Reference: Di X, Biswal BB (2014). Modulatory Interactions between the Default Mode Network and Task Positive Networks in Resting-State. PeerJ 2:e367.
-
-Nine major resting-state networks
-
-These nine ICA maps were used in out paper titled "Dynamic brain functional connectivity modulated by resting-state networks". link
-
-Reference: Di X, Biswal BB (2015). Dynamic Brain Functional Connectivity Modulated by Resting-State Networks. Brain Struct Funct 220(1):37-46.
+ICA [maps](https://doi.org/10.6084/m9.figshare.1402240.v1) of nine major resting-state networks ([Di & Biswal, 2015](https://doi.org/10.1007/s00429-013-0634-3))
 
 ## Network matrices
 Coactivation network vs. resting-state network
