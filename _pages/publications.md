@@ -58,17 +58,17 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 [30] **Di X**, Huang J, Biswal BB (2017). [Task-modulated brain connectivity of the amygdala: a meta-analysis of psychophysiological interactions](https://doi.org/10.1007/s00429-016-1239-4). Brain Struct Funct 222(1):619-634. 
 
 #### 2016
-[29] Xu H, Wang P, Ye Z, **Di X**, Xu G, Mo L, Lin H, Rao H and Jin H (2016). The Role of Medial Frontal Cortex in Action Anticipation in Professional Badminton Players. Front Psychol 7:1817. link 
+[29] Xu H, Wang P, Ye Z, **Di X**, Xu G, Mo L, Lin H, Rao H and Jin H (2016). [The Role of Medial Frontal Cortex in Action Anticipation in Professional Badminton Players](https://doi.org/10.3389/fpsyg.2016.01817). Front Psychol 7:1817.
 
-[28] Ray S, **Di X**, Biswal BB (2016). Effective Connectivity Within the Mesocorticolimbic System During Resting-State in Cocaine Users. Front Hum Neurosci 10:563. link
+[28] Ray S, **Di X**, Biswal BB (2016). [Effective Connectivity Within the Mesocorticolimbic System During Resting-State in Cocaine Users](https://doi.org/10.3389/fnhum.2016.00563). Front Hum Neurosci 10:563.
 
-[27] Yuan R, **Di X**, Taylor PA, Gohel S, Tsai YH, Biswal BB (2016). Functional topography of the thalamocortical system in human. Brain Struct Funct 221(4):1971-1984. link 
+[27] Yuan R, **Di X**, Taylor PA, Gohel S, Tsai YH, Biswal BB (2016). [Functional topography of the thalamocortical system in human](https://doi.org/10.1007/s00429-015-1018-7). Brain Struct Funct 221(4):1971-1984. 
 
-[26] Zhang X, **Di X**, Lei H, Yang J, Xiao J, Wang X, Yao S, Rao H (2016). Imbalanced Spontaneous Brain Activity in Orbitofrontal-Insular Circuits in Individuals with Cognitive Vulnerability to Depression. J Affect Disord 198:56-63. link 
+[26] Zhang X, **Di X**, Lei H, Yang J, Xiao J, Wang X, Yao S, Rao H (2016). [Imbalanced Spontaneous Brain Activity in Orbitofrontal-Insular Circuits in Individuals with Cognitive Vulnerability to Depression](https://doi.org/10.1016/j.jad.2016.03.001). J Affect Disord 198:56-63.
 
-[25] **Di X**, Biswal BB (2016). Similarly expanded bilateral temporal lobe volumes in female and male children with autism spectrum disorder. Biol Psychiatry Cogn Neurosci Neuroimaging 1(2):178-185. link 
+[25] **Di X**, Biswal BB (2016). [Similarly expanded bilateral temporal lobe volumes in female and male children with autism spectrum disorder](https://doi.org/10.1016/j.bpsc.2015.11.006). Biol Psychiatry Cogn Neurosci Neuroimaging 1(2):178-185.
 
-[24] Hu C, **Di X**, Eickhoff SB, Zhang M, Peng K, Guo H, Sui J (2016). Distinct and common aspects of physical and psychological self-representation in the brain: A meta-analysis of self-bias in facial and self-referential judgements. Neurosci Biobehav Rev, 61:197–207. link 
+[24] Hu C, **Di X**, Eickhoff SB, Zhang M, Peng K, Guo H, Sui J (2016). [Distinct and common aspects of physical and psychological self-representation in the brain: A meta-analysis of self-bias in facial and self-referential judgements](https://doi.org/10.1016/j.neubiorev.2015.12.003). Neurosci Biobehav Rev, 61:197–207.
 
 #### 2015
 [23] **Di X**, Biswal BB (2015). Characterizations of resting-state modulatory interactions in human brain. J Neurophysiol 114(5):2785-96. link 
