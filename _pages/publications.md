@@ -71,11 +71,11 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 [24] Hu C, **Di X**, Eickhoff SB, Zhang M, Peng K, Guo H, Sui J (2016). [Distinct and common aspects of physical and psychological self-representation in the brain: A meta-analysis of self-bias in facial and self-referential judgements](https://doi.org/10.1016/j.neubiorev.2015.12.003). Neurosci Biobehav Rev, 61:197–207.
 
 #### 2015
-[23] **Di X**, Biswal BB (2015). Characterizations of resting-state modulatory interactions in human brain. J Neurophysiol 114(5):2785-96. link 
+[23] **Di X**, Biswal BB (2015). [Characterizations of resting-state modulatory interactions in human brain](https://doi.org/10.1152/jn.00893.2014). J Neurophysiol 114(5):2785-96. 
 
-[22] **Di X**, Fu Z, Chan SC, Hung YS, Biswal BB, Zhang Z (2015). Task-related Functional Connectivity Dynamics in a Block-designed Visual Experiment. Front Hum Neurosci 9:543. link 
+[22] **Di X**, Fu Z, Chan SC, Hung YS, Biswal BB, Zhang Z (2015). [Task-related Functional Connectivity Dynamics in a Block-designed Visual Experiment](https://doi.org/10.3389/fnhum.2015.00543). Front Hum Neurosci 9:543. 
 
-[21] **Di X**, Biswal BB (2015). Dynamic Brain Functional Connectivity Modulated by Resting-State Networks. Brain Struct Funct 220(1):37-46. link 
+[21] **Di X**, Biswal BB (2015). [Dynamic Brain Functional Connectivity Modulated by Resting-State Networks](https://doi.org/10.1007/s00429-013-0634-3). Brain Struct Funct 220(1):37-46.
 
 #### 2014
 [20] **Di X**, Kim E, Chen P, Biswal BB (2014). Lateralized Resting-state Functional Connectivity in the Task-positive and Task-negative Networks. Brain Connect 4(9):641-648. link pdf 
