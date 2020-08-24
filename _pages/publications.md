@@ -78,17 +78,17 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 [21] **Di X**, Biswal BB (2015). [Dynamic Brain Functional Connectivity Modulated by Resting-State Networks](https://doi.org/10.1007/s00429-013-0634-3). Brain Struct Funct 220(1):37-46.
 
 #### 2014
-[20] **Di X**, Kim E, Chen P, Biswal BB (2014). Lateralized Resting-state Functional Connectivity in the Task-positive and Task-negative Networks. Brain Connect 4(9):641-648. link pdf 
+[20] **Di X**, Kim E, Chen P, Biswal BB (2014). [Lateralized Resting-state Functional Connectivity in the Task-positive and Task-negative Networks](https://doi.org/10.1089/brain.2013.0215). Brain Connect 4(9):641-648. 
 
 [19] Lei H, Zhang X, **Di X**, Rao H, Ming Q, Zhang J, Guo X, Jiang Y, Gao Y, Yi J, Zhu X, Yao S (2014). A Functional Polymorphism of the MAOA Gene Modulates Spontaneous Brain Activity in Pons. Biomed Res Int 2014:243280. link 
 
-[18] Fu Z, Chan SC, **Di X**, Biswal B, Zhang Z (2014). Adaptive Covariance Estimation of Non-stationary Processes and its Application to Infer Dynamic Connectivity from fMRI. IEEE Trans Biomed Circuits Syst 8(2):228–39. link 
+[18] Fu Z, Chan SC, **Di X**, Biswal B, Zhang Z (2014). [Adaptive Covariance Estimation of Non-stationary Processes and its Application to Infer Dynamic Connectivity from fMRI](https://doi.org/10.1109/TBCAS.2014.2306732). IEEE Trans Biomed Circuits Syst 8(2):228–39.
 
-[17] **Di X**, Biswal BB (2014). Modulatory Interactions between the Default Mode Network and Task Positive Networks in Resting-State. PeerJ 2:e367. link
+[17] **Di X**, Biswal BB (2014). [Modulatory Interactions between the Default Mode Network and Task Positive Networks in Resting-State](https://doi.org/10.7717/peerj.367). PeerJ 2:e367.
 
-[16] **Di X**, Biswal BB (2014). Identifying the Default Mode Network Structure Using Dynamic Causal Modeling on Resting-state Functional Magnetic Resonance Imaging. Neuroimage 86:53–9. link 
+[16] **Di X**, Biswal BB (2014). [Identifying the Default Mode Network Structure Using Dynamic Causal Modeling on Resting-state Functional Magnetic Resonance Imaging](https://doi.org/10.1016/j.neuroimage.2013.07.071). Neuroimage 86:53–9.
 
-[15] **Di X**, Rypma B, Biswal BB (2014). Correspondence of Executive Function Related Functional and Anatomical Alterations in Aging Brain. Prog Neuropsychopharmacol Biol Psychiatry 48(3):41–50. link
+[15] **Di X**, Rypma B, Biswal BB (2014). [Correspondence of Executive Function Related Functional and Anatomical Alterations in Aging Brain](https://doi.org/10.1016/j.pnpbp.2013.09.001). Prog Neuropsychopharmacol Biol Psychiatry 48(3):41–50.
 
 #### 2013
 [14] Yuan R, **Di X**, Kim EH, Barik S, Rypma B, Biswal BB (2013). Regional Homogeneity of Resting-state fMRI Contributes to Both Neurovascular and Task Activation Variations. Magn Reson Imaging 31(9):1492–1500. link 
