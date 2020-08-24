@@ -111,15 +111,15 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 [6] Taylor P, Gohel SR, **Di X**, Walter M, Biswal B (2012). [Functional covariance networks: obtaining resting state networks from intersubject variability](https://doi.org/10.1089/brain.2012.0095). Brain Connect 2(4):203-17.
 
 #### Before 2012
-[5] Qian C, **Di X** (2011). Phase or amplitude? The relationship between ongoing and evoked neural activity. J Neurosci 31(29):10425-10426. link pdf
+[5] Qian C, **Di X** (2011). [Phase or amplitude? The relationship between ongoing and evoked neural activity](https://doi.org/10.1523/JNEUROSCI.2197-11.2011). J Neurosci 31(29):10425-10426.
 
-[4] Chan RC, **Di X**, McAlonan GM, Gong QY (2011). Brain anatomical abnormalities in high-risk individuals, first-episode, and chronic schizophrenia: an activation likelihood estimation meta-analysis of illness progression. Schizophr Bull 37(1):177-88. link pdf
+[4] Chan RC, **Di X**, McAlonan GM, Gong QY (2011). [Brain anatomical abnormalities in high-risk individuals, first-episode, and chronic schizophrenia: an activation likelihood estimation meta-analysis of illness progression](https://doi.org/10.1093/schbul/sbp073). Schizophr Bull 37(1):177-88.
 
-[3] **Di X**, Chan RC, Gong QY (2009). White matter reduction in patients with schizophrenia as revealed by voxel-based morphometry: an activation likelihood estimation meta-analysis. Prog Neuropsychopharmacol Biol Psychiatry 33(8):1390-1394. link pdf
+[3] **Di X**, Chan RC, Gong QY (2009). [White matter reduction in patients with schizophrenia as revealed by voxel-based morphometry: an activation likelihood estimation meta-analysis](https://doi.org/10.1016/j.pnpbp.2009.08.020). Prog Neuropsychopharmacol Biol Psychiatry 33(8):1390-1394.
 
-[2] Chan RC, Huang J, **Di X** (2009). Dexterous movement complexity and cerebellar activation: a meta-analysis. Brain Res Rev 59(2):316-323. link pdf
+[2] Chan RC, Huang J, **Di X** (2009). [Dexterous movement complexity and cerebellar activation: a meta-analysis](https://doi.org/10.1016/j.brainresrev.2008.09.003). Brain Res Rev 59(2):316-323. 
 
-[1] Rao H, **Di X**, Chan RC, Ding Y, Ye B, Gao D (2008). A Regulation Role of Prefrontal Cortex in The Fist-Edge-Palm Task: Evidence from Functional Connectivity Analysis. Neuroimage 41(4), 1345-1351. link pdf 
+[1] Rao H, **Di X**, Chan RC, Ding Y, Ye B, Gao D (2008). [A Regulation Role of Prefrontal Cortex in The Fist-Edge-Palm Task: Evidence from Functional Connectivity Analysis](https://doi.org/10.1016/j.neuroimage.2008.04.026). Neuroimage 41(4), 1345-1351.
 
 ### Journal articles in Chinese
 [2] 胡传鹏, **邸新**, 李佳蔚, 隋洁, 彭凯平 (2015). 神经成像数据的元分析. 心理科学进展 23(7): 1118-1129. link 
