@@ -27,23 +27,9 @@ The codes for simulation of the correlations of PPI (psychophysiological interac
 
 Reference: Di X, Biswal BB (2017). Psychophysiological Interactions in a Visual Checkerboard Task: Reproducibility, Reliability, and the Effects of Deconvolution. Front Neurosci 11:573.
 
-## Network matrices
-Coactivation network vs. resting-state network
-
-This dataset includes a coactivation matrix of 140 regions of interest calculated from Neurosynth database and a correlation matrix of resting-state functional connectivity. link 
-
-Reference: Di X, Gohel S, Kim EH and Biswal BB (2013). Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks. Front Hum Neurosci 7:493. 
-
-## Regions of interest
-Symmetrical ROIs using spherical packing algorithm
-
-This is a set of symmetrical regions of interest (ROIs) defined using spherical packing algorithm. These ROIs were used to calculated functional connectivity lateralization in our paper. link 
-
-Reference:  Di X, Kim E, Chen P, Biswal BB (2014). Lateralized Resting-state Functional Connectivity in the Task-positive and Task-negative Networks. Brain Connect 4(9):641-648.
-
-## Spatial maps
-ICA maps for FDG-PET images
-
+## ICA maps
+#### ICA maps from FDG-PET images
+Maps, data paperICA Maps of FDG-PET images from ADNI
 These maps were used in our study on interregional causal influences in aging. link. 
 
 Reference: Di X, Woelfer M, Amend M, Wehrl H, Ionescu TM, Pichler BJ, Biswal BB, and Alzheimer's Disease Neuroimaging Initiative (2019). Interregional causal influences of brain metabolic activity reveal the spread of aging effects during normal aging. Human Brain Mapping 40(16):4657-4668.
@@ -65,6 +51,20 @@ Nine major resting-state networks
 These nine ICA maps were used in out paper titled "Dynamic brain functional connectivity modulated by resting-state networks". link
 
 Reference: Di X, Biswal BB (2015). Dynamic Brain Functional Connectivity Modulated by Resting-State Networks. Brain Struct Funct 220(1):37-46.
+
+## Network matrices
+Coactivation network vs. resting-state network
+
+This dataset includes a coactivation matrix of 140 regions of interest calculated from Neurosynth database and a correlation matrix of resting-state functional connectivity. link 
+
+Reference: Di X, Gohel S, Kim EH and Biswal BB (2013). Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks. Front Hum Neurosci 7:493. 
+
+## Regions of interest
+Symmetrical ROIs using spherical packing algorithm
+
+This is a set of symmetrical regions of interest (ROIs) defined using spherical packing algorithm. These ROIs were used to calculated functional connectivity lateralization in our paper. link 
+
+Reference:  Di X, Kim E, Chen P, Biswal BB (2014). Lateralized Resting-state Functional Connectivity in the Task-positive and Task-negative Networks. Brain Connect 4(9):641-648.
 
 ------
 I am also grateful for all the open-source software and open-access datasets that make my research possible.
