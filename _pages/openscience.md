@@ -9,23 +9,14 @@ author_profile: true
 In spirit of open science, I am trying to make my research outputs openly available. But it takes time and efforts. I will put some of the data, codes, and statistical maps and matrices on this page. 
 
 ## Codes
-MATLAB codes for intersubject correlation analysis of dynamic connectivity
+### Intersubject correlation during movie watching
+MATLAB [codes](https://osf.io/qyn7a/) for intersubject correlation analysis of dynamic connectivity in movie watching data ([Di & Biswal, 2020](https://doi.org/10.1016/j.neuroimage.2020.116698)). 
 
-MATLAB codes for intersubject correlation analysis of dynamic connectivity in movie watching data. code statistical maps
+### PPI and beta series analysis
+MATLAB [codes](https://osf.io/dka6g/) for whole-brain PPI analysis and beta series analysis, a.k.a. task connectome ([Di & Biswal, 2019](https://doi.org/10.1093/cercor/bhy055))
 
-Reference: Di X, Biswal BB (2020): Intersubject consistent dynamic connectivity during natural vision revealed by functional MRI. Neuroimage. doi:10.1016/j.neuroimage.2020.116698
-
-MATLAB codes for PPI and beta series analysis
-
-MATLAB codes for psychophysiological interaction (PPI) analysis and beta series analysis in our task connectomics paper published in Cerebral Cortex. link
-
-Reference: Di X, Biswal BB (2019). Toward Task Connectomics: Examining Whole-Brain Task Modulated Connectivity in Different Task Domains. Cereb Cortex 29(4):1572-1583.
-
-MATLAB simulation codes for PPI correlations
-
-The codes for simulation of the correlations of PPI (psychophysiological interaction) between two different ways of calculations, and the codes for calculating coefficient of variation using Bland and Altman’s method (Bland and Altman, 1996). link
-
-Reference: Di X, Biswal BB (2017). Psychophysiological Interactions in a Visual Checkerboard Task: Reproducibility, Reliability, and the Effects of Deconvolution. Front Neurosci 11:573.
+### Simulation for PPI correlations
+MATLAB [codes](https://github.com/dixy0/PPI_correlation_demo) for simulation of the correlations of PPIs between two different ways of calculations ([Di & Biswal, 2019](https://doi.org/10.3389/fnins.2017.00573)).
 
 ## ICA maps
 ### ICA maps from FDG-PET images
