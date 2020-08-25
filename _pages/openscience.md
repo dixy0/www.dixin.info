@@ -51,27 +51,27 @@ Symmetrical [ROIs](https://doi.org/10.6084/m9.figshare.951970.v2) using spherica
 I am also grateful for all the open-source software and open-access datasets that make my research possible.
 
 ### Software
-* Statistical Parametric Mapping (SPM)
-* Group ICA Toolbox (GIFT)
-* Brain Connectivity Toolbox
-* Resting-State fMRI Data Analysis Toolkit
-* BrainNet Viewer
-* Neurosynth
-* BrainMap
-* NeuroVault
+* [Statistical Parametric Mapping (SPM)](http://www.fil.ion.ucl.ac.uk/spm/)
+* [Group ICA Toolbox (GIFT)](https://trendscenter.org/software/)
+* [Brain Connectivity Toolbox](https://sites.google.com/site/bctnet/)
+* [Resting-State fMRI Data Analysis Toolkit](http://restfmri.net/forum/)
+* [BrainNet Viewer](https://www.nitrc.org/projects/bnv)
+* [Neurosynth](http://neurosynth.org/)
+* [BrainMap](http://brainmap.org/)
+* [NeuroVault](https://neurovault.org/)
 
 ### Data
-* 1000 Functional Connectomes Project
-* Nathan Kline Institute Sample
-* Autism Brain Imaging Data Exchange (ABIDE)
-* Alzheimer’s Disease Neuroimaging Initiative (ADNI)
-* Human Connectome Project
-* UCLA Consortium for Neuropsychiatric Phenomics LA5c Study
-* Single-subject Resting state fMRI Reproducibility Resource (Kirby)
-* MyConnectome
-* Day2day
-* Movie watching (Partly Cloudy)
+* [1000 Functional Connectomes Project](http://fcon_1000.projects.nitrc.org/fcpClassic/FcpTable.html)
+* [Nathan Kline Institute Sample](http://fcon_1000.projects.nitrc.org/indi/enhanced/)
+* [Autism Brain Imaging Data Exchange (ABIDE)](http://fcon_1000.projects.nitrc.org/indi/abide/)
+* [Alzheimer’s Disease Neuroimaging Initiative (ADNI)](http://adni.loni.usc.edu/)
+* [Human Connectome Project](https://www.humanconnectome.org/)
+* [UCLA Consortium for Neuropsychiatric Phenomics LA5c Study](https://openneuro.org/datasets/ds000030)
+* [Single-subject Resting state fMRI Reproducibility Resource (Kirby)](https://www.nitrc.org/projects/kirbyweekly)
+* [MyConnectome](http://myconnectome.org/wp/)
+* [Day2day](https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-017-0383-y)
+* [Movie watching (Partly Cloudy)](https://openneuro.org/datasets/ds000228)
 
 ### Open science platforms
-* Open Science Framework
-* figshare
+* [Open Science Framework](https://osf.io/)
+* [figshare](https://figshare.com/)
