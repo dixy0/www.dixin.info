@@ -28,32 +28,26 @@ The codes for simulation of the correlations of PPI (psychophysiological interac
 Reference: Di X, Biswal BB (2017). Psychophysiological Interactions in a Visual Checkerboard Task: Reproducibility, Reliability, and the Effects of Deconvolution. Front Neurosci 11:573.
 
 ## ICA maps
-#### ICA maps from FDG-PET images
+### ICA maps from FDG-PET images
 ICA [maps](https://osf.io/4a3vt/) generated from FDG-PET images from [ADNI](http://adni.loni.usc.edu/) ([Di et al., 2019](https://doi.org/10.1002/hbm.24728)). 
 
-#### ICA maps from brain volumetric images
+### ICA maps from brain volumetric images
 ICA [maps](https://neurovault.org/collections/973/) generated from gray matter and white matter volumetric images from [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/) ([Di & Biswal, 2016](https://doi.org/10.1016/j.bpsc.2015.11.006)).
 
-#### ICA maps from fMRI images
+### ICA maps from fMRI images
 Six ICA [maps](https://doi.org/10.6084/m9.figshare.1402207.v1) of the default mode network (DMN) and task positive networks ([Di & Biswal, 2014](https://doi.org/10.7717/peerj.367)). 
 
 ICA [maps](https://doi.org/10.6084/m9.figshare.1402240.v1) of nine major resting-state networks ([Di & Biswal, 2015](https://doi.org/10.1007/s00429-013-0634-3))
 
-## Network matrices
-Coactivation network vs. resting-state network
-
-This dataset includes a coactivation matrix of 140 regions of interest calculated from Neurosynth database and a correlation matrix of resting-state functional connectivity. link 
-
-Reference: Di X, Gohel S, Kim EH and Biswal BB (2013). Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks. Front Hum Neurosci 7:493. 
+## Brain connectivity matrices
+Task vs. Rest: Brain network [matrices](https://doi.org/10.6084/m9.figshare.3856098.v2) derived from coactivations and resting-state connectivity ([Di et al., 2013](https://doi.org/10.3389/fnhum.2013.00493)). 
 
 ## Regions of interest
-Symmetrical ROIs using spherical packing algorithm
+Symmetrical [ROIs](https://doi.org/10.6084/m9.figshare.951970.v2) using spherical packing algorithm ([Di et al., 2014](https://doi.org/10.1089/brain.2013.0215)).
 
-This is a set of symmetrical regions of interest (ROIs) defined using spherical packing algorithm. These ROIs were used to calculated functional connectivity lateralization in our paper. link 
-
-Reference:  Di X, Kim E, Chen P, Biswal BB (2014). Lateralized Resting-state Functional Connectivity in the Task-positive and Task-negative Networks. Brain Connect 4(9):641-648.
 
 ------
+## Resources
 I am also grateful for all the open-source software and open-access datasets that make my research possible.
 
 ### Software
