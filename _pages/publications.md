@@ -80,7 +80,7 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 #### 2014
 [20] **Di X**, Kim E, Chen P, Biswal BB (2014). [Lateralized Resting-state Functional Connectivity in the Task-positive and Task-negative Networks](https://doi.org/10.1089/brain.2013.0215). Brain Connect 4(9):641-648. 
 
-[19] Lei H, Zhang X, **Di X**, Rao H, Ming Q, Zhang J, Guo X, Jiang Y, Gao Y, Yi J, Zhu X, Yao S (2014). A Functional Polymorphism of the MAOA Gene Modulates Spontaneous Brain Activity in Pons. Biomed Res Int 2014:243280. link 
+[19] Lei H, Zhang X, **Di X**, Rao H, Ming Q, Zhang J, Guo X, Jiang Y, Gao Y, Yi J, Zhu X, Yao S (2014). [A Functional Polymorphism of the MAOA Gene Modulates Spontaneous Brain Activity in Pons](https://doi.org/10.1155/2014/243280). Biomed Res Int 2014:243280. 
 
 [18] Fu Z, Chan SC, **Di X**, Biswal B, Zhang Z (2014). [Adaptive Covariance Estimation of Non-stationary Processes and its Application to Infer Dynamic Connectivity from fMRI](https://doi.org/10.1109/TBCAS.2014.2306732). IEEE Trans Biomed Circuits Syst 8(2):228–39.
 
@@ -122,9 +122,9 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 [1] Rao H, **Di X**, Chan RC, Ding Y, Ye B, Gao D (2008). [A Regulation Role of Prefrontal Cortex in The Fist-Edge-Palm Task: Evidence from Functional Connectivity Analysis](https://doi.org/10.1016/j.neuroimage.2008.04.026). Neuroimage 41(4), 1345-1351.
 
 ### Journal articles in Chinese
-[2] 胡传鹏, **邸新**, 李佳蔚, 隋洁, 彭凯平 (2015). 神经成像数据的元分析. 心理科学进展 23(7): 1118-1129. link 
+[2] 胡传鹏, **邸新**, 李佳蔚, 隋洁, 彭凯平 (2015). [神经成像数据的元分析](http://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2015.01118). 心理科学进展 23(7): 1118-1129.
 
-[1] **邸新**, 饶恒毅 (2007). 人脑功能连通性进展. 生物化学与生物物理进展 34(1), 5-12. link pdf
+[1] **邸新**, 饶恒毅 (2007). [人脑功能连通性进展](http://www.pibb.ac.cn/pibbcn/ch/reader/view_abstract.aspx?file_no=20060557&flag=1). 生物化学与生物物理进展 34(1), 5-12.
 
 ### File drawer (No plan for submission)
 [1] **Di X**, Biswal BB (2016): Sex-dependent and sex-independent brain resting-state functional connectivity in children with autism spectrum disorder. [bioRxiv](http://dx.doi.org/10.1101/038026)
