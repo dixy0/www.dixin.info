@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 ------
-My research interests are mainly about understanding brain functional integrations and the organization of brain networks. My efforts can be summarized as three themes on how three factors modulate brain functional connectivity: 1) different task conditions, 2) other brain regions, 3) and neurophysiological factors. I use functional MRI (fMRI) as my main research tool, but also pursue combining different neuroimaging modalities including positron emission tomography (PET) and electroencephalography (EEG). My research philosophy is to utilize divergent research methodologies to approach my scientific questions. I have been using multiple methods to study brain connectivity, including psycho-(physio-)physiological interaction (PPI), dynamic causal modeling (DCM), independent component analysis (ICA), network analysis, sliding window method, machine learning, and meta-analysis. 
+## Research topics
 
 ### 1. Brain functional connectivity in different task conditions
-This line of research focuses on understanding of brain connectivity and network organizations in different task conditions.
+We are interested in how do brain connectivity and brain network organizations change between different different conditions, e.g. resting-state, task performance, and waching movies. 
 
 Reference:
 * Di X, Biswal BB (2019). Toward Task Connectomics: Examining Whole-Brain Task Modulated Connectivity in Different Task Domains. Cereb Cortex 29(4):1572-1583.
