@@ -9,17 +9,23 @@ redirect_from:
 ---
 
 ---
-My name is Xin Di (邸新 in Chinese). I am currently a Research Assistant Professor at the Department of Biomedical Engineering, New Jersey Institute of Technology. My research interest is mainly on understanding of brain connectivity and brain network organizations using brain imaging techniques such as functional magnetic resonance imaging (fMRI). I develop computational models to measure brain connectivity in different mental conditions, such as during cognitive tasks and watching movies. I am also interested in applying the methods to understand brain development and aging, as well as mental conditions such as autism spectrum disorder (ASD).
+My name is 邸新. My given name, 新 (Xin), means **new** in Chinese. 
+
+My research interest is mainly on understanding brain connectivity and brain network organizations using brain imaging techniques such as functional magnetic resonance imaging (fMRI). Click [here](https://web.dixin.info/research/) for my research areas.
+
+See my CV
 
 ## Selected publications
 ### Working papers
-* Di X, Biswal BB (2020): Dissecting individual differences in responses to naturalistic stimuli in functional MRI: effects of development and gender. bioRxiv; doi: https://doi.org/10.1101/2020.05.01.073163
-* Di X, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (2019): Estimations of the weather effects on brain functions using functional MRI - a cautionary tale. bioRxiv; doi: https://doi.org/10.1101/646695 
+* Dissecting individual differences in responses to naturalistic stimuli in functional MRI: effects of development and gender. [bioRxiv](https://doi.org/10.1101/2020.05.01.073163)
+* Estimations of the weather effects on brain functions using functional MRI - a cautionary tale. [bioRxiv](https://doi.org/10.1101/646695) 
 
 ### Recently published papers
-* Di X, Zhang Z, Biswal BB (2020): Understanding psychophysiological interaction and its relations to beta series correlation. Brain Imaging Behav. doi:10.1007/s11682-020-00304-8 
-* Di X, Biswal BB (2020): Intersubject consistent dynamic connectivity during natural vision revealed by functional MRI. Neuroimage. doi:10.1016/j.neuroimage.2020.116698
+* [Understanding psychophysiological interaction and its relations to beta series correlation](https://doi.org/10.1007/s11682-020-00304-8). in Brain Imaging Behav. 
+* [Intersubject consistent dynamic connectivity during natural vision revealed by functional MRI](https://doi.org/10.1016/j.neuroimage.2020.116698). in Neuroimage.
 
 ### Most cited papers
-* Di X, Gohel S, Kim EH and Biswal BB (2013). Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks. Front Hum Neurosci. 7:493. link 
-* Di X, Biswal BB, Alzheimer's Disease Neuroimaging Initiative (2012). Metabolic Brain Covariant Networks as Revealed by FDG-PET with reference to resting-state fMRI networks. Brain Connect 2(5):275-83. link
+* [Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks](https://doi.org/10.3389/fnhum.2013.00493). in Front Hum Neurosci.  
+* [Metabolic Brain Covariant Networks as Revealed by FDG-PET with reference to resting-state fMRI networks](https://doi.org/10.1089/brain.2012.0086. in Brain Connect.
+
+Click [here](https://web.dixin.info/publications/) for a full list of my publications
