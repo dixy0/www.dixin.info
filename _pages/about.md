@@ -26,6 +26,6 @@ See my CV
 
 ### Most cited papers
 * [Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks](https://doi.org/10.3389/fnhum.2013.00493). in Front Hum Neurosci.  
-* [Metabolic Brain Covariant Networks as Revealed by FDG-PET with reference to resting-state fMRI networks](https://doi.org/10.1089/brain.2012.0086. in Brain Connect.
+* [Metabolic Brain Covariant Networks as Revealed by FDG-PET with reference to resting-state fMRI networks](https://doi.org/10.1089/brain.2012.0086). in Brain Connect.
 
 Click [here](https://web.dixin.info/publications/) for a full list of my publications
