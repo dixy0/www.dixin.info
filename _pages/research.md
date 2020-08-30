@@ -31,9 +31,11 @@ Reference:
 This line of researches focuses on how brain connectivity between two brain regions is modulated by a third region.
 
 References:
-* Di X, Zhang H, Biswal BB (2020): Anterior cingulate cortex differently modulates fronto-parietal functional connectivity between resting-state and working memory tasks. Hum Brain Mapp 41:1797–1805.
-* Di X, Biswal BB (2015). Characterizations of resting-state modulatory interactions in human brain. J Neurophysiol 114(5):2785-96.
-* Di X, Biswal BB (2013). Modulatory interactions of resting-state brain functional connectivity. PLoS ONE 8(8): e71163.
+* [Anterior cingulate cortex differently modulates fronto-parietal functional connectivity between resting-state and working memory tasks](https://doi.org/10.1002/hbm.24912). in Hum Brain Mapp.
+* [Characterizations of resting-state modulatory interactions in human brain](https://doi.org/10.1152/jn.00893.2014). in J Neurophysiol.
+* [Dynamic Brain Functional Connectivity Modulated by Resting-State Networks](https://doi.org/10.1007/s00429-013-0634-3). in Brain Structure and Function.
+* [Modulatory Interactions between the Default Mode Network and Task Positive Networks in Resting-State](https://doi.org/10.7717/peerj.367). in PeerJ.
+* [Modulatory interactions of resting-state brain functional connectivity](https://doi.org/10.1371/journal.pone.0071163). in PLoS ONE.
 
 
 ### 4. Brain metabolic connectivity and networks
