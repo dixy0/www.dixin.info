@@ -15,17 +15,20 @@ redirect_from:
 We are interested in how do brain connectivity and brain network organizations change between different different conditions, e.g. resting-state, task performance, and waching movies. 
 
 Reference:
-* Di X, Biswal BB (2019). Toward Task Connectomics: Examining Whole-Brain Task Modulated Connectivity in Different Task Domains. Cereb Cortex 29(4):1572-1583.
-* Di X, Huang J, Biswal BB (2017). Task-modulated brain connectivity of the amygdala: a meta-analysis of psychophysiological interactions. Brain Struct Funct 222(1):619-634.
-* Di X, Gohel S, Kim EH and Biswal BB (2013). Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks. Front. Hum. Neurosci. 7:493.
+* [Toward Task Connectomics: Examining Whole-Brain Task Modulated Connectivity in Different Task Domains](https://doi.org/10.1093/cercor/bhy055). in Cereb Cortex.
+* [Task-modulated brain connectivity of the amygdala: a meta-analysis of psychophysiological interactions](https://doi.org/10.1007/s00429-016-1239-4). in Brain Struct Funct.
+* [Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks](https://doi.org/10.3389/fnhum.2013.00493). in Front. Hum. Neurosci.
 
 ### 2. Method developments for studying task related connectivity
 Method developments on methods for studying task related connectivity, including psychophysiological interaction (PPI), beta series, sliding window, and intersubject correlation methods on both conventional task data and naturalistic task data.
 
 Reference:
-* Di X, Zhang Z, Biswal BB (2020): Understanding psychophysiological interaction and its relations to beta series correlation. Brain Imaging Behav.
-* Di X, Biswal BB (2020). Intersubject consistent dynamic connectivity during natural vision revealed by functional MRI. Neuroimage 216:1166982.
-* Di X, Reynolds RC, Biswal BB (2017). Imperfect (de)convolution may introduce spurious psychophysiological interactions and how to avoid it. Hum Brain Mapp 38(4), 1723–1740.  
+* [Understanding psychophysiological interaction and its relations to beta series correlation](https://doi.org/10.1007/s11682-020-00304-8). in Brain Imaging Behav.
+* [Intersubject consistent dynamic connectivity during natural vision revealed by functional MRI](https://doi.org/10.1016/j.neuroimage.2020.116698). in Neuroimage.
+* [Toward Task Connectomics: Examining Whole-Brain Task Modulated Connectivity in Different Task Domains](https://doi.org/10.1093/cercor/bhy055). in Cereb Cortex. 
+* [Psychophysiological Interactions in a Visual Checkerboard Task: Reproducibility, Reliability, and the Effects of Deconvolution](https://doi.org/10.3389/fnins.2017.00573). in Front Neurosci.
+* [Imperfect (de)convolution may introduce spurious psychophysiological interactions and how to avoid it](https://doi.org/10.1002/hbm.23413). in Hum Brain Mapp.  
+* [Task-related Functional Connectivity Dynamics in a Block-designed Visual Experiment](https://doi.org/10.3389/fnhum.2015.00543). in Front Hum Neurosci.
 
 ### 3. Brain functional connectivity modulated by other regions
 This line of researches focuses on how brain connectivity between two brain regions is modulated by a third region.
