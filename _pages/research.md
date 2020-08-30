@@ -16,7 +16,7 @@ We are interested in how do brain connectivity and brain network organizations c
 
 Reference:
 * Di X, Biswal BB (2019). Toward Task Connectomics: Examining Whole-Brain Task Modulated Connectivity in Different Task Domains. Cereb Cortex 29(4):1572-1583.
-Di X, Huang J, Biswal BB (2017). Task-modulated brain connectivity of the amygdala: a meta-analysis of psychophysiological interactions. Brain Struct Funct 222(1):619-634.
+* Di X, Huang J, Biswal BB (2017). Task-modulated brain connectivity of the amygdala: a meta-analysis of psychophysiological interactions. Brain Struct Funct 222(1):619-634.
 * Di X, Gohel S, Kim EH and Biswal BB (2013). Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks. Front. Hum. Neurosci. 7:493.
 
 ### 2. Method developments for studying task related connectivity
