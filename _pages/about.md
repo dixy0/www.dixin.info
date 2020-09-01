@@ -11,7 +11,7 @@ redirect_from:
 ---
 My name is 邸新. My given name, 新 (Xin), means **new** in Chinese. 
 
-My research interest is mainly on understanding brain connectivity and brain network organizations using brain imaging techniques such as functional magnetic resonance imaging (fMRI). Click [here](https://web.dixin.info/research/) for details about my research.
+My research interest is mainly on understanding brain connectivity and brain network organizations using brain imaging techniques such as functional magnetic resonance imaging (fMRI). Click [here](https://www.dixin.info/research/) for details about my research.
 
 For more information, see my CV. 
 
@@ -28,4 +28,4 @@ For more information, see my CV.
 * [Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks](https://doi.org/10.3389/fnhum.2013.00493). in Front Hum Neurosci.  
 * [Metabolic Brain Covariant Networks as Revealed by FDG-PET with reference to resting-state fMRI networks](https://doi.org/10.1089/brain.2012.0086). in Brain Connect.
 
-Click [here](https://web.dixin.info/publications/) for a full list of my publications
+Click [here](https://www.dixin.info/publications/) for a full list of my publications
