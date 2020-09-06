@@ -11,7 +11,7 @@ redirect_from:
 ---
 My name is 邸新. My given name, 新 (Xin), means **new** in Chinese. 
 
-My research interest is mainly on understanding brain connectivity and brain network organizations using brain imaging techniques such as functional magnetic resonance imaging (fMRI). Click [here](https://www.dixin.info/research/) for details about my research.
+:brain: My research interest is mainly on understanding brain connectivity and brain network organizations using brain imaging techniques such as functional magnetic resonance imaging (fMRI). Click [here](https://www.dixin.info/research/) for details about my research.
 
 For more information, see my CV. 
 
