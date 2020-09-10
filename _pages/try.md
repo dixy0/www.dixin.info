@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /try/
 title: "Try!"
 excerpt: "About me"
 author_profile: true
