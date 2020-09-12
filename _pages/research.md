@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 ------
-## Research topics
-
 ### 1. Brain functional connectivity in different task conditions
 We are interested in how do brain connectivity and brain network organizations change between different different conditions, e.g. resting-state, task performance, and waching movies. 
 * [Toward Task Connectomics: Examining Whole-Brain Task Modulated Connectivity in Different Task Domains](https://doi.org/10.1093/cercor/bhy055). in Cereb Cortex.
