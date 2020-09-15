@@ -15,7 +15,7 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
-[48] Klugah-Brown B, **Di X**, Zweerings J, Mathiak K, Becker B, Biswal B (accepted): Common and separable neural alterations in substance use disorders: evidence from coordinate-based meta-analyses of functional neuroimaging studies in human. Hum Brain Mapp, [preprint](https://doi.org/10.1101/2020.02.19.956755)
+[48] Klugah-Brown B, **Di X**, Zweerings J, Mathiak K, Becker B, Biswal B (accepted): [Common and separable neural alterations in substance use disorders: A coordinate‐based meta‐analyses of functional neuroimaging studies in humans](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25085). Hum Brain Mapp.
 
 [47] **Di X**, Zhang Z, Biswal BB (2020): [Understanding psychophysiological interaction and its relations to beta series correlation](https://doi.org/10.1007/s11682-020-00304-8). Brain Imaging Behav.
 
