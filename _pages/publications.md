@@ -17,9 +17,9 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 #### Forthcoming
 [48] **Di X**, Zhang Z, Biswal BB (2020): [Understanding psychophysiological interaction and its relations to beta series correlation](https://doi.org/10.1007/s11682-020-00304-8). Brain Imaging Behav.
 
-[47] Woelfer M, Li M, Colic L, Liebe T, **Di X**, Biswal B, Murrough J, Lessmann V, Brigadski T, Walter M (2020). [Ketamine-induced changes in plasma brain-derived neurotrophic factor (BDNF) levels are associated with the resting-state functional connectivity of the prefrontal cortex](https://doi.org/10.1080/15622975.2019.1679391). World J Biol Psychia.  
-
 #### 2020
+[47] Woelfer M, Li M, Colic L, Liebe T, **Di X**, Biswal B, Murrough J, Lessmann V, Brigadski T, Walter M (2020). [Ketamine-induced changes in plasma brain-derived neurotrophic factor (BDNF) levels are associated with the resting-state functional connectivity of the prefrontal cortex](https://doi.org/10.1080/15622975.2019.1679391). World J Biol Psychia 21(9):696-710.  
+
 [46] Klugah-Brown B, **Di X**, Zweerings J, Mathiak K, Becker B, Biswal B (2020): [Common and separable neural alterations in substance use disorders: A coordinate‐based meta‐analyses of functional neuroimaging studies in humans](https://doi.org/10.1002/hbm.25085). Hum Brain Mapp 41(16):4459-4477.
 
 [45] **Di X**, Biswal BB (2020). [Intersubject consistent dynamic connectivity during natural vision revealed by functional MRI](https://doi.org/10.1016/j.neuroimage.2020.116698). Neuroimage 216:1166982.
