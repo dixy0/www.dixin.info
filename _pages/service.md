@@ -11,12 +11,12 @@ author_profile: true
 
 ### Editorial Board Member
 * BMC Neuroscience, 2020 - present.
+* Review Editor, Frontiers in Brain Imaging and Stimulation section, 2020 - present.
+* Review Editor, Frontiers in Speech and Language section, 2019 - present.
+* Review Editor, Frontiers in Human Neuroscience Archive, 2015 - present.
 
-### Review Editor
-* Frontiers in Brain Imaging and Stimulation section, 2020 - present.
-* Frontiers in Speech and Language section, 2019 - present.
-* Frontiers in Human Neuroscience Archive, 2015 - present.
-* Frontiers in Brain Imaging Methods section, 2014 - 2020.
+### Past
+* Review Editor, Frontiers in Brain Imaging Methods section, 2014 - 2020.
 
 Editing and Reviewing records on [Publons](https://publons.com/researcher/18286/xin-di/peer-review/) and [Fronteirs](https://loop.frontiersin.org/people/63547/editorial). 
 
