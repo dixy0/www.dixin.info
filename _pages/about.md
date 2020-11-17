@@ -24,6 +24,7 @@ For more information, see my [CV](https://www.dixin.info/files/CV_XinDi.pdf).
 
 ### Some old papers
 * [Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks](https://doi.org/10.3389/fnhum.2013.00493)
+* [Dynamic brain functional connectivity modulated by resting-state networks](https://doi.org/10.1007/s00429-013-0634-3)
 * [Metabolic Brain Covariant Networks as Revealed by FDG-PET with reference to resting-state fMRI networks](https://doi.org/10.1089/brain.2012.0086)
 
 Click [here](https://www.dixin.info/publications/) for a full list of my publications
