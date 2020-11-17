@@ -17,13 +17,13 @@ For more information, see my [CV](https://www.dixin.info/files/CV_XinDi.pdf).
 
 ## Selected publications
 ### Some new papers
-* <span style="color:red">Preprint:</span> [Dissecting individual differences in responses to naturalistic stimuli in functional MRI: effects of development and gender](https://doi.org/10.1101/2020.05.01.073163).
-* <span style="color:red">Preprint:</span> [Estimations of the weather effects on brain functions using functional MRI - a cautionary tale](https://doi.org/10.1101/646695). 
-* [Understanding psychophysiological interaction and its relations to beta series correlation](https://doi.org/10.1007/s11682-020-00304-8). 
-* [Intersubject consistent dynamic connectivity during natural vision revealed by functional MRI](https://doi.org/10.1016/j.neuroimage.2020.116698).
+* <span style="color:red">Preprint:</span> [Dissecting individual differences in responses to naturalistic stimuli in functional MRI: effects of development and gender](https://doi.org/10.1101/2020.05.01.073163)
+* <span style="color:red">Preprint:</span> [Estimations of the weather effects on brain functions using functional MRI - a cautionary tale](https://doi.org/10.1101/646695)
+* [Understanding psychophysiological interaction and its relations to beta series correlation](https://doi.org/10.1007/s11682-020-00304-8)
+* [Intersubject consistent dynamic connectivity during natural vision revealed by functional MRI](https://doi.org/10.1016/j.neuroimage.2020.116698)
 
 ### Some old papers
-* [Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks](https://doi.org/10.3389/fnhum.2013.00493).  
-* [Metabolic Brain Covariant Networks as Revealed by FDG-PET with reference to resting-state fMRI networks](https://doi.org/10.1089/brain.2012.0086).
+* [Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks](https://doi.org/10.3389/fnhum.2013.00493)
+* [Metabolic Brain Covariant Networks as Revealed by FDG-PET with reference to resting-state fMRI networks](https://doi.org/10.1089/brain.2012.0086)
 
 Click [here](https://www.dixin.info/publications/) for a full list of my publications
