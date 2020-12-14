@@ -7,10 +7,10 @@ author_profile: true
 
 ------
 ### Associate Editor
-* Frontiers in Brain Imaging Methods section, 2020 - present.
+* [Frontiers in Brain Imaging Methods section](https://www.frontiersin.org/journals/all/sections/brain-imaging-methods), 2020 - present.
 
 ### Editorial Board Member
-* BMC Neuroscience, 2020 - present.
+* [BMC Neuroscience](https://bmcneurosci.biomedcentral.com/), 2020 - present.
 * Review Editor, Frontiers in Brain Imaging and Stimulation section, 2020 - present.
 * Review Editor, Frontiers in Speech and Language section, 2019 - present.
 * Review Editor, Frontiers in Human Neuroscience Archive, 2015 - present.
