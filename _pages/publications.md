@@ -9,7 +9,7 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en), [Web of Science](https://publons.com/researcher/B-2009-2009/), and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
 
 ### Working papers
-[2] **Di X**, Biswal BB (2020): Dissecting individual differences in responses to naturalistic stimuli in functional MRI: effects of development and gender. [bioRxiv](https://doi.org/10.1101/2020.05.01.073163)  
+[2] **Di X**, Biswal BB (2020): Principal component analysis revealed multiple consistent responses to naturalistic stimuli in children and adults. [bioRxiv](https://doi.org/10.1101/2020.05.01.073163)  
 
 [1] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (2019): Estimations of the weather effects on brain functions using functional MRI - a cautionary tale. [bioRxiv](https://doi.org/10.1101/646695)
 
