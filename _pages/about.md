@@ -28,3 +28,8 @@ For more information, see my [CV](https://www.dixin.info/files/CV_XinDi.pdf) and
 * [Metabolic Brain Covariant Networks as Revealed by FDG-PET with reference to resting-state fMRI networks](https://doi.org/10.1089/brain.2012.0086)
 
 Click [here](https://www.dixin.info/publications/) for a full list of my publications
+
+### Citations from [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ)
+![Citation](/images/citation_20210227.png)
+
+Updated: 2021/02/27
