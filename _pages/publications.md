@@ -16,8 +16,8 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 [1] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (2019): Estimations of the weather effects on brain functions using functional MRI - a cautionary tale. [bioRxiv](https://doi.org/10.1101/646695)
 
 ### Journal articles
-#### Forthcoming
-[48] **Di X**, Zhang Z, Biswal BB (2020): [Understanding psychophysiological interaction and its relations to beta series correlation](https://doi.org/10.1007/s11682-020-00304-8). Brain Imaging Behav.
+#### 2021
+[48] **Di X**, Zhang Z, Biswal BB (2021): [Understanding psychophysiological interaction and its relations to beta series correlation](https://doi.org/10.1007/s11682-020-00304-8). Brain Imaging Behav 15:958–973.
 
 #### 2020
 [47] Woelfer M, Li M, Colic L, Liebe T, **Di X**, Biswal B, Murrough J, Lessmann V, Brigadski T, Walter M (2020). [Ketamine-induced changes in plasma brain-derived neurotrophic factor (BDNF) levels are associated with the resting-state functional connectivity of the prefrontal cortex](https://doi.org/10.1080/15622975.2019.1679391). World J Biol Psychia 21(9):696-710.  
