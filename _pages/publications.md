@@ -124,7 +124,7 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 [1] Rao H, **Di X**, Chan RC, Ding Y, Ye B, Gao D (2008). [A Regulation Role of Prefrontal Cortex in The Fist-Edge-Palm Task: Evidence from Functional Connectivity Analysis](https://doi.org/10.1016/j.neuroimage.2008.04.026). Neuroimage 41(4), 1345-1351.
 
 ### Journal articles in Chinese
-[3] 刘宇, 陈树铨, 樊富珉, **邸新**, 范会勇, 封春亮, 郭双双, 甘怡群, 李会杰, 吕小康, 任志洪, 徐鹏飞, 袁博, 左西年, 胡传鹏 (2021). 开放式荟萃分析的规范化报告 ([chinaXiv:201809.00177](http://chinaxiv.org/abs/201809.00177)).
+[3] 刘宇, 陈树铨, 樊富珉, **邸新**, 范会勇, 封春亮, 郭双双, 甘怡群, 李会杰, 吕小康, 任志洪, 徐鹏飞, 袁博, 左西年, 胡传鹏 (2021). 开放式荟萃分析的规范化报告. 中国科学:生命科学. [doi](https://doi.org/10.1360/SSV-2021-0009).
 
 [2] 胡传鹏, **邸新**, 李佳蔚, 隋洁, 彭凯平 (2015). [神经成像数据的元分析](http://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2015.01118). 心理科学进展 23(7): 1118-1129.
 
