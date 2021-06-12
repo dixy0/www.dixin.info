@@ -11,9 +11,9 @@ redirect_from:
 ---
 My name is 邸新. My given name, 新 (Xin), means **new** in Chinese.  
 
-My research interest is mainly on understanding brain connectivity and brain network organizations using brain imaging techniques such as functional magnetic resonance imaging (fMRI). Click [here](https://www.dixin.info/research/) for details about my research.
+I am a Research Assistant Professor in the Department of Biomedical Engineering, New Jersey Institute of Technology ([institutional webpage](https://people.njit.edu/faculty/dixin).). My research interest is mainly on understanding brain connectivity and brain network organizations using brain imaging techniques such as functional magnetic resonance imaging (fMRI). Click [here](https://www.dixin.info/research/) for details about my research.
 
-For more information, see my [CV](https://www.dixin.info/files/CV_XinDi.pdf) and my [institutional webpage](https://people.njit.edu/faculty/dixin). 
+For more information, see my [CV](https://www.dixin.info/files/CV_XinDi.pdf). 
 
 ## Selected publications
 ### Some new papers
