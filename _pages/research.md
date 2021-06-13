@@ -40,6 +40,8 @@ This line of research focuses on brain metabolic connectivity as measured by FDG
 * [Metabolic Brain Covariant Networks as Revealed by FDG-PET with reference to resting-state fMRI networks](https://doi.org/10.1089/brain.2012.0086) in Brain Connect.
 
 ## Collaborators
+Dr. Bharat Biswal @ [NJIT](https://people.njit.edu/faculty/biswal) 
+
 Dr. Zhiguo Zhang @ [SZU](http://zgzhang-lab.net/)
 
 ## Research support
