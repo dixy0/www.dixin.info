@@ -9,10 +9,12 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en), [Web of Science](https://publons.com/researcher/B-2009-2009/), and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
 
 ### Working papers
-[1] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (2021): Estimations of the weather effects on brain functions using functional MRI: a cautionary note. [bioRxiv](https://doi.org/10.1101/646695)
+...
 
 ### Journal articles
 #### Forthcoming
+[51] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (accepted): Estimations of the weather effects on brain functions using functional MRI: a cautionary note. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/646695)
+
 [50] **Di X**, Biswal BB (accepted): Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/2020.05.01.073163)  
 
 #### 2021
