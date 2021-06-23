@@ -17,7 +17,7 @@ For more information, see my [CV](https://www.dixin.info/files/CV_XinDi.pdf).
 
 ## Selected publications
 ### Some new papers
-* <span style="color:red">Preprint:</span> [Estimations of the weather effects on brain functions using functional MRI: a cautionary note](https://doi.org/10.1101/646695)
+* <span style="color:red">Accepted:</span> [Estimations of the weather effects on brain functions using functional MRI: a cautionary note](https://doi.org/10.1101/646695)
 * <span style="color:red">Accepted:</span> [Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults](https://doi.org/10.1101/2020.05.01.073163)
 * [Understanding psychophysiological interaction and its relations to beta series correlation](https://doi.org/10.1007/s11682-020-00304-8)
 
