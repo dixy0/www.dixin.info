@@ -45,4 +45,8 @@ Dr. Bharat Biswal @ [NJIT](https://people.njit.edu/faculty/biswal)
 Dr. Zhiguo Zhang @ [SZU](http://zgzhang-lab.net/)
 
 ## Research support
+### Current
+* NIH R15MH125332, 2021 - 2024, PI. Functional brain developments during movie watching and resting-state in autism spectrum disorder
+
+### Past
 * NJDOH – NJ Autism Center of Excellence (CAUT16APL019), 2016 - 2018, PI. Multimodal neuroimaging study of sex differences in children with autism spectrum disorder.
