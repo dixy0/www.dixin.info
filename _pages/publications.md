@@ -9,7 +9,7 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en), [Web of Science](https://publons.com/researcher/B-2009-2009/), and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
 
 ### Working papers
-...
+[1] Yang H, Zhang H, **Di X**, Wang S, Meng C, Tian L, Biswal BB (2021): Frequency-specific coactivation patterns in resting-state and their alterations in schizophrenia: an fMRI study. [biorxiv](https://doi.org/10.1101/2021.07.04.451042)
 
 ### Journal articles
 #### Forthcoming
