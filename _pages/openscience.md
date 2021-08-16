@@ -19,6 +19,9 @@ MATLAB [codes](https://osf.io/dka6g/) for whole-brain PPI analysis and beta seri
 MATLAB [codes](https://github.com/dixy0/PPI_correlation_demo) for simulation of the correlations of PPIs between two different ways of calculations ([Di & Biswal, 2019](https://doi.org/10.3389/fnins.2017.00573)).
 
 ## ICA maps
+### ICA maps from movie-watching fMRI images
+ICA [maps](https://identifiers.org/neurovault.collection:7173) generated from fMRI images when the participants wached a cartoom movie [Partly Cloudy](https://openneuro.org/datasets/ds000228) ([Di & Biswal, 2021](https://doi.org/10.1101/2020.05.01.073163). 
+
 ### ICA maps from FDG-PET images
 ICA [maps](https://osf.io/4a3vt/) generated from FDG-PET images from [ADNI](http://adni.loni.usc.edu/) ([Di et al., 2019](https://doi.org/10.1002/hbm.24728)). 
 
