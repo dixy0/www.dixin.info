@@ -15,15 +15,9 @@ I am a Research Assistant Professor in the Department of Biomedical Engineering,
 
 For more information, see my [CV](https://www.dixin.info/files/CV_XinDi.pdf). 
 
-## Selected publications
-### Some new papers
+## Latest publications
+* <span style="color:red">Preprint:</span> [Dynamic and stable brain connectivity during movie watching as revealed by functional MRI](https://doi.org/10.1101/2021.09.14.460293)
 * <span style="color:red">Accepted:</span> [Estimations of the weather effects on brain functions using functional MRI: a cautionary note](https://doi.org/10.1101/646695)
 * <span style="color:red">Accepted:</span> [Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults](https://doi.org/10.1101/2020.05.01.073163)
-* [Understanding psychophysiological interaction and its relations to beta series correlation](https://doi.org/10.1007/s11682-020-00304-8)
-
-### Some old papers
-* [Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks](https://doi.org/10.3389/fnhum.2013.00493)
-* [Dynamic brain functional connectivity modulated by resting-state networks](https://doi.org/10.1007/s00429-013-0634-3)
-* [Metabolic Brain Covariant Networks as Revealed by FDG-PET with reference to resting-state fMRI networks](https://doi.org/10.1089/brain.2012.0086)
 
 Click [here](https://www.dixin.info/publications/) for a full list of my publications
