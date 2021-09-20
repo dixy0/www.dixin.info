@@ -15,12 +15,10 @@ I am a Research Assistant Professor in the Department of Biomedical Engineering,
 
 For more information, see my [CV](https://www.dixin.info/files/CV_XinDi.pdf). 
 
-## Current projects
-* Functional brain developments during movie watching and resting-state in autism spectrum disorder
+### Current projects
+* **Functional brain developments during movie watching and resting-state in autism spectrum disorder**: This is a NIH funded project to study the developments of brain dynamic and stable connectivity in individuals with autism spectrum disorder and typically developing controls. Undergraduate research opportunities are available. Please contact me if you are interested. 
 
-This is a NIH funded project to study the developments of brain dynamic and stable connectivity in individuals with autism spectrum disorder and typically developing controls. Undergraduate research opportunities are available. Please contact me if you are interested. 
-
-## Latest publications
+### Latest publications
 * <span style="color:red">Preprint:</span> [Dynamic and stable brain connectivity during movie watching as revealed by functional MRI](https://doi.org/10.1101/2021.09.14.460293)
 * <span style="color:red">Accepted:</span> [Estimations of the weather effects on brain functions using functional MRI: a cautionary note](https://doi.org/10.1101/646695)
 * <span style="color:red">Accepted:</span> [Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults](https://doi.org/10.1101/2020.05.01.073163)
