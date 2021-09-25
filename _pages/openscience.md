@@ -65,6 +65,8 @@ I am also grateful for all the open-source software and open-access datasets tha
 * [MyConnectome](http://myconnectome.org/wp/)
 * [Day2day](https://bmcneurosci.biomedcentral.com/articles/10.1186/s12868-017-0383-y)
 * [Movie watching (Partly Cloudy)](https://openneuro.org/datasets/ds000228)
+* [Healthy Brain Network Serial Scanning Initiative (HBN-SSI)](https://fcon_1000.projects.nitrc.org/indi/hbn_ssi/)
+* [Healthy Brain Network](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/)
 
 ### Open science platforms
 * [Open Science Framework](https://osf.io/)
