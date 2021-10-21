@@ -15,6 +15,8 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
+[52] Li L, **Di X**, Zhang H, Huang G, Zhang L; Liang Z, Zhang Z (accepted): Characterization of whole-brain task-modulated functional connectivity in response to nociceptive pain: A multisensory comparison study. Hum Brain Mapp
+
 [51] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (accepted): Estimations of the weather effects on brain functions using functional MRI: a cautionary note. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/646695)
 
 [50] **Di X**, Biswal BB (accepted): Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/2020.05.01.073163)  
