@@ -15,7 +15,7 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
-[52] Li L, **Di X**, Zhang H, Huang G, Zhang L; Liang Z, Zhang Z (accepted): Characterization of whole-brain task-modulated functional connectivity in response to nociceptive pain: A multisensory comparison study. Hum Brain Mapp
+[52] Li L, **Di X**, Zhang H, Huang G, Zhang L; Liang Z, Zhang Z (in press): Characterization of whole-brain task-modulated functional connectivity in response to nociceptive pain: A multisensory comparison study. Hum Brain Mapp [doi](https://doi.org/10.1002/hbm.25707)
 
 [51] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (accepted): Estimations of the weather effects on brain functions using functional MRI: a cautionary note. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/646695)
 
