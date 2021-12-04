@@ -9,6 +9,8 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en), [Web of Science](https://publons.com/researcher/B-2009-2009/), and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
 
 ### Working papers
+[4] Wu Z, Cao M, **Di X**, Wu K, Gao Y, Li X (2021). Regional Topological Aberrances of White Matter- and Gray Matter-based Functional Networks for Attention Processing may Foster Traumatic Brain Injury-Related Attention Deficits in Adults. [bioRxiv](https://doi.org/10.1101/2021.11.30.470633)
+
 [3] Hafiz R, Gandhi TK, Mishra S, Prasad A, Mahajan V, **Di X**, Natelson BH, Biswal BB (2021): Higher Limbic and Basal Ganglia volumes in surviving COVID-negative patients and the relations to fatigue. [medRxiv](https://doi.org/10.1101/2021.11.23.21266761)
 
 [2] **Di X**, Zhang Z, Xu T, Biswal BB (2021): Dynamic and stationary brain connectivity during movie watching as revealed by functional MRI. [biorxiv](https://doi.org/10.1101/2021.09.14.460293)
