@@ -9,8 +9,6 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en), [Web of Science](https://publons.com/researcher/B-2009-2009/), and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
 
 ### Working papers
-[4] Wu Z, Cao M, **Di X**, Wu K, Gao Y, Li X (2021). Regional Topological Aberrances of White Matter- and Gray Matter-based Functional Networks for Attention Processing may Foster Traumatic Brain Injury-Related Attention Deficits in Adults. [bioRxiv](https://doi.org/10.1101/2021.11.30.470633)
-
 [3] Hafiz R, Gandhi TK, Mishra S, Prasad A, Mahajan V, **Di X**, Natelson BH, Biswal BB (2021): Higher Limbic and Basal Ganglia volumes in surviving COVID-negative patients and the relations to fatigue. [medRxiv](https://doi.org/10.1101/2021.11.23.21266761)
 
 [2] **Di X**, Zhang Z, Xu T, Biswal BB (2021): Dynamic and stationary brain connectivity during movie watching as revealed by functional MRI. [biorxiv](https://doi.org/10.1101/2021.09.14.460293)
@@ -19,13 +17,15 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
-[52] Li L, **Di X**, Zhang H, Huang G, Zhang L; Liang Z, Zhang Z (in press): Characterization of whole-brain task-modulated functional connectivity in response to nociceptive pain: A multisensory comparison study. Hum Brain Mapp [doi](https://doi.org/10.1002/hbm.25707)
+[53] Li L, **Di X**, Zhang H, Huang G, Zhang L; Liang Z, Zhang Z (in press): Characterization of whole-brain task-modulated functional connectivity in response to nociceptive pain: A multisensory comparison study. Hum Brain Mapp [doi](https://doi.org/10.1002/hbm.25707)
 
-[51] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (accepted): Estimations of the weather effects on brain functions using functional MRI: a cautionary note. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/646695)
+[52] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (accepted): Estimations of the weather effects on brain functions using functional MRI: a cautionary note. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/646695)
 
-[50] **Di X**, Biswal BB (accepted): Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/2020.05.01.073163)  
+[51] **Di X**, Biswal BB (accepted): Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/2020.05.01.073163)  
 
 #### 2021
+[50] Wu Z, Cao M, **Di X**, Wu K, Gao Y, Li X (2021). [Regional Topological Aberrances of White Matter- and Gray Matter-based Functional Networks for Attention Processing may Foster Traumatic Brain Injury-Related Attention Deficits in Adults](https://doi.org/10.3390/brainsci12010016). Brain Sci. 2022, 12(1), 16. 
+
 [49] Yang H, Zhang H, **Di X**, Wang S, Meng C, Tian L, Biswal BB (2021): [Reproducible Coactivation Patterns of Functional Brain Networks Reveal the Aberrant Dynamic State Transition in Schizophrenia](https://doi.org/10.1016/j.neuroimage.2021.118193). Neuroimage 237:118193. 
 
 [48] **Di X**, Zhang Z, Biswal BB (2021): [Understanding psychophysiological interaction and its relations to beta series correlation](https://doi.org/10.1007/s11682-020-00304-8). Brain Imaging Behav 15:958–973.
