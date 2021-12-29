@@ -17,30 +17,30 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
-[53] Li L, **Di X**, Zhang H, Huang G, Zhang L; Liang Z, Zhang Z (in press): Characterization of whole-brain task-modulated functional connectivity in response to nociceptive pain: A multisensory comparison study. Hum Brain Mapp [doi](https://doi.org/10.1002/hbm.25707)
+[53] Li L, **Di X**, Zhang H, Huang G, Zhang L; Liang Z, Zhang Z (in press). Characterization of whole-brain task-modulated functional connectivity in response to nociceptive pain: A multisensory comparison study. Hum Brain Mapp [doi](https://doi.org/10.1002/hbm.25707)
 
-[52] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (accepted): Estimations of the weather effects on brain functions using functional MRI: a cautionary note. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/646695)
+[52] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (accepted). Estimations of the weather effects on brain functions using functional MRI: a cautionary note. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/646695)
 
-[51] **Di X**, Biswal BB (accepted): Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/2020.05.01.073163)  
+[51] **Di X**, Biswal BB (accepted). Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/2020.05.01.073163)  
 
 #### 2022
 [50] Wu Z, Cao M, **Di X**, Wu K, Gao Y, Li X (2022). [Regional Topological Aberrances of White Matter- and Gray Matter-based Functional Networks for Attention Processing may Foster Traumatic Brain Injury-Related Attention Deficits in Adults](https://doi.org/10.3390/brainsci12010016). Brain Sci 12(1), 16. 
 
 #### 2021
-[49] Yang H, Zhang H, **Di X**, Wang S, Meng C, Tian L, Biswal BB (2021): [Reproducible Coactivation Patterns of Functional Brain Networks Reveal the Aberrant Dynamic State Transition in Schizophrenia](https://doi.org/10.1016/j.neuroimage.2021.118193). Neuroimage 237:118193. 
+[49] Yang H, Zhang H, **Di X**, Wang S, Meng C, Tian L, Biswal BB (2021). [Reproducible Coactivation Patterns of Functional Brain Networks Reveal the Aberrant Dynamic State Transition in Schizophrenia](https://doi.org/10.1016/j.neuroimage.2021.118193). Neuroimage 237:118193. 
 
-[48] **Di X**, Zhang Z, Biswal BB (2021): [Understanding psychophysiological interaction and its relations to beta series correlation](https://doi.org/10.1007/s11682-020-00304-8). Brain Imaging Behav 15:958–973.
+[48] **Di X**, Zhang Z, Biswal BB (2021). [Understanding psychophysiological interaction and its relations to beta series correlation](https://doi.org/10.1007/s11682-020-00304-8). Brain Imaging Behav 15:958–973.
 
 #### 2020
 [47] Woelfer M, Li M, Colic L, Liebe T, **Di X**, Biswal B, Murrough J, Lessmann V, Brigadski T, Walter M (2020). [Ketamine-induced changes in plasma brain-derived neurotrophic factor (BDNF) levels are associated with the resting-state functional connectivity of the prefrontal cortex](https://doi.org/10.1080/15622975.2019.1679391). World J Biol Psychia 21(9):696-710.  
 
-[46] Klugah-Brown B, **Di X**, Zweerings J, Mathiak K, Becker B, Biswal B (2020): [Common and separable neural alterations in substance use disorders: A coordinate‐based meta‐analyses of functional neuroimaging studies in humans](https://doi.org/10.1002/hbm.25085). Hum Brain Mapp 41(16):4459-4477.
+[46] Klugah-Brown B, **Di X**, Zweerings J, Mathiak K, Becker B, Biswal B (2020). [Common and separable neural alterations in substance use disorders: A coordinate‐based meta‐analyses of functional neuroimaging studies in humans](https://doi.org/10.1002/hbm.25085). Hum Brain Mapp 41(16):4459-4477.
 
 [45] **Di X**, Biswal BB (2020). [Intersubject consistent dynamic connectivity during natural vision revealed by functional MRI](https://doi.org/10.1016/j.neuroimage.2020.116698). Neuroimage 216:1166982.
 
 [44] Yang H, **Di X**, Gong Q, Sweeney J, Biswal BB (2020). [Investigating inhibition deficit in schizophrenia using task-modulated brain networks](https://doi.org/10.1007/s00429-020-02078-7). Brain Struct Funct 225:1601–1613. 
 
-[43] Botvinik-Nezer et al., (2020): [Variability in the analysis of a single neuroimaging dataset by many teams](https://doi.org/10.1038/s41586-020-2314-9). Nature 582(7810):84-88. 
+[43] Botvinik-Nezer et al., (2020). [Variability in the analysis of a single neuroimaging dataset by many teams](https://doi.org/10.1038/s41586-020-2314-9). Nature 582(7810):84-88. 
 
 [42] **Di X**, Zhang H, Biswal BB (2020). [Anterior cingulate cortex differently modulates fronto-parietal functional connectivity between resting-state and working memory tasks](https://doi.org/10.1002/hbm.24912). Hum Brain Mapp 41:1797–1805.
 
