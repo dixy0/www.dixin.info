@@ -17,13 +17,13 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
-[53] Li L, **Di X**, Zhang H, Huang G, Zhang L; Liang Z, Zhang Z (in press). Characterization of whole-brain task-modulated functional connectivity in response to nociceptive pain: A multisensory comparison study. Hum Brain Mapp [doi](https://doi.org/10.1002/hbm.25707)
+[53] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (accepted). Estimations of the weather effects on brain functions using functional MRI: a cautionary note. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/646695)
 
-[52] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (accepted). Estimations of the weather effects on brain functions using functional MRI: a cautionary note. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/646695)
-
-[51] **Di X**, Biswal BB (accepted). Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/2020.05.01.073163)  
+[52] **Di X**, Biswal BB (accepted). Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/2020.05.01.073163)  
 
 #### 2022
+[51] Li L, **Di X**, Zhang H, Huang G, Zhang L; Liang Z, Zhang Z (2022). [Characterization of whole-brain task-modulated functional connectivity in response to nociceptive pain: A multisensory comparison study](https://doi.org/10.1002/hbm.25707). Hum Brain Mapp 43(3):1061-1075.
+
 [50] Wu Z, Cao M, **Di X**, Wu K, Gao Y, Li X (2022). [Regional Topological Aberrances of White Matter- and Gray Matter-based Functional Networks for Attention Processing may Foster Traumatic Brain Injury-Related Attention Deficits in Adults](https://doi.org/10.3390/brainsci12010016). Brain Sci 12(1), 16. 
 
 #### 2021
