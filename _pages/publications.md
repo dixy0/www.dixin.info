@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ------
-For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en), [Web of Science] (https://publons.com/researcher/B-2009-2009/), and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
+For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en), [Web of Science](https://publons.com/researcher/B-2009-2009/), and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
 
 ### Working papers
 [4] Hafiz R, Gandhi TK, Misrhra S, Prasad A, Mahajan V, Natelson B, **Di X**, Biswal BB (2022). Assessing functional connectivity differences and work-related fatigue in surviving COVID-negative patients. [bioRxiv](https://doi.org/10.1101/2022.02.01.478677)
@@ -19,6 +19,8 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
+[54] Li M, Danyeli LV, Colic L, Wagner G, Smesny S, Chand T, **Di X**, Biswal BB, Kaufmann J, Reichenbach JR, Speck O, Walter M, Sen ZD (in press). T[he differential association between local neurotransmitter levels and whole-brain resting-state functional connectivity in two distinct cingulate cortex subregions](https://doi.org/10.1002/hbm.25819). Hum Brain Mapp
+
 [53] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (accepted). Estimations of the weather effects on brain functions using functional MRI: a cautionary note. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/646695)
 
 [52] **Di X**, Biswal BB (accepted). Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/2020.05.01.073163)  
