@@ -17,7 +17,7 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
-[55] Yang H, Zhang H, **Di X**, Wang S, Meng C, Tian L, Biswal BB (2021): Frequency-specific coactivation patterns in resting-state and their alterations in schizophrenia: an fMRI study. Hum Brain Mapp [biorxiv](https://doi.org/10.1101/2021.07.04.451042)
+[55] Yang H, Zhang H, **Di X**, Wang S, Meng C, Tian L, Biswal BB (accepted): Frequency-specific coactivation patterns in resting-state and their alterations in schizophrenia: an fMRI study. Hum Brain Mapp [biorxiv](https://doi.org/10.1101/2021.07.04.451042)
 
 [54] Li M, Danyeli LV, Colic L, Wagner G, Smesny S, Chand T, **Di X**, Biswal BB, Kaufmann J, Reichenbach JR, Speck O, Walter M, Sen ZD (in press). T[he differential association between local neurotransmitter levels and whole-brain resting-state functional connectivity in two distinct cingulate cortex subregions](https://doi.org/10.1002/hbm.25819). Hum Brain Mapp
 
