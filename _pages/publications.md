@@ -15,17 +15,17 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
-[56] Hafiz R, Gandhi TK, Mishra S, Prasad A, Mahajan V, **Di X**, Natelson BH, Biswal BB (accepted): Higher Limbic and Basal Ganglia volumes in surviving COVID-negative patients and the relations to fatigue. Neuroimage:Reports [medRxiv](https://doi.org/10.1101/2021.11.23.21266761)
+[56] Yang H, Zhang H, **Di X**, Wang S, Meng C, Tian L, Biswal BB (accepted): Frequency-specific coactivation patterns in resting-state and their alterations in schizophrenia: an fMRI study. Hum Brain Mapp [biorxiv](https://doi.org/10.1101/2021.07.04.451042)
 
-[55] Yang H, Zhang H, **Di X**, Wang S, Meng C, Tian L, Biswal BB (accepted): Frequency-specific coactivation patterns in resting-state and their alterations in schizophrenia: an fMRI study. Hum Brain Mapp [biorxiv](https://doi.org/10.1101/2021.07.04.451042)
+[55] Li M, Danyeli LV, Colic L, Wagner G, Smesny S, Chand T, **Di X**, Biswal BB, Kaufmann J, Reichenbach JR, Speck O, Walter M, Sen ZD (in press). [The differential association between local neurotransmitter levels and whole-brain resting-state functional connectivity in two distinct cingulate cortex subregions](https://doi.org/10.1002/hbm.25819). Hum Brain Mapp
 
-[54] Li M, Danyeli LV, Colic L, Wagner G, Smesny S, Chand T, **Di X**, Biswal BB, Kaufmann J, Reichenbach JR, Speck O, Walter M, Sen ZD (in press). [The differential association between local neurotransmitter levels and whole-brain resting-state functional connectivity in two distinct cingulate cortex subregions](https://doi.org/10.1002/hbm.25819). Hum Brain Mapp
+[54] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (accepted). Estimations of the weather effects on brain functions using functional MRI: a cautionary note. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/646695)
 
-[53] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (accepted). Estimations of the weather effects on brain functions using functional MRI: a cautionary note. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/646695)
-
-[52] **Di X**, Biswal BB (accepted). Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/2020.05.01.073163)  
+[53] **Di X**, Biswal BB (accepted). Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/2020.05.01.073163)  
 
 #### 2022
+[52] Hafiz R, Gandhi TK, Mishra S, Prasad A, Mahajan V, **Di X**, Natelson BH, Biswal BB (2022): [Higher Limbic and Basal Ganglia volumes in surviving COVID-negative patients and the relations to fatigue](https://doi.org/10.1016/j.ynirp.2022.100095). Neuroimage:Reports 2(2):100095.
+
 [51] Li L, **Di X**, Zhang H, Huang G, Zhang L; Liang Z, Zhang Z (2022). [Characterization of whole-brain task-modulated functional connectivity in response to nociceptive pain: A multisensory comparison study](https://doi.org/10.1002/hbm.25707). Hum Brain Mapp 43(3):1061-1075.
 
 [50] Wu Z, Cao M, **Di X**, Wu K, Gao Y, Li X (2022). [Regional Topological Aberrances of White Matter- and Gray Matter-based Functional Networks for Attention Processing may Foster Traumatic Brain Injury-Related Attention Deficits in Adults](https://doi.org/10.3390/brainsci12010016). Brain Sci 12(1), 16. 
