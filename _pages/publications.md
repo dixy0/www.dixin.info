@@ -19,9 +19,9 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 [55] Li M, Danyeli LV, Colic L, Wagner G, Smesny S, Chand T, **Di X**, Biswal BB, Kaufmann J, Reichenbach JR, Speck O, Walter M, Sen ZD (in press). [The differential association between local neurotransmitter levels and whole-brain resting-state functional connectivity in two distinct cingulate cortex subregions](https://doi.org/10.1002/hbm.25819). Hum Brain Mapp
 
-[54] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (accepted). Estimations of the weather effects on brain functions using functional MRI: a cautionary note. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/646695)
+[54] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (in press). [Estimations of the weather effects on brain functions using functional MRI: a cautionary note](https://doi.org/10.1002/hbm.25576). Hum Brain Mapp
 
-[53] **Di X**, Biswal BB (accepted). Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/2020.05.01.073163)  
+[53] **Di X**, Biswal BB (in press). [Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults](https://doi.org/10.1002/hbm.25568). Hum Brain Mapp   
 
 #### 2022
 [52] Hafiz R, Gandhi TK, Mishra S, Prasad A, Mahajan V, **Di X**, Natelson BH, Biswal BB (2022): [Higher Limbic and Basal Ganglia volumes in surviving COVID-negative patients and the relations to fatigue](https://doi.org/10.1016/j.ynirp.2022.100095). Neuroimage:Reports 2(2):100095.
