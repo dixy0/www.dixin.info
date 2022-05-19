@@ -20,7 +20,7 @@ For more information, see my [CV](https://www.dixin.info/files/CV_XinDi.pdf).
 
 ### Latest publications
 * <span style="color:red">Preprint:</span> [Dynamic and stationary brain connectivity during movie watching as revealed by functional MRI](https://doi.org/10.1101/2021.09.14.460293)
-* <span style="color:red">Accepted:</span> [Estimations of the weather effects on brain functions using functional MRI: a cautionary note](https://doi.org/10.1101/646695)
-* <span style="color:red">Accepted:</span> [Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults](https://doi.org/10.1101/2020.05.01.073163)
+* [Estimations of the weather effects on brain functions using functional MRI: a cautionary note](https://doi.org/10.1002/hbm.25576)
+* [Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults](https://doi.org/10.1002/hbm.25568)
 
 Click [here](https://www.dixin.info/publications/) for a full list of my publications
