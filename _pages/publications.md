@@ -17,13 +17,13 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 #### Forthcoming
 [56] Yang H, Zhang H, **Di X**, Wang S, Meng C, Tian L, Biswal BB (in press): [Frequency-specific coactivation patterns in resting-state and their alterations in schizophrenia: an fMRI study](https://doi.org/10.1002/hbm.25884). Hum Brain Mapp 
 
-[55] Li M, Danyeli LV, Colic L, Wagner G, Smesny S, Chand T, **Di X**, Biswal BB, Kaufmann J, Reichenbach JR, Speck O, Walter M, Sen ZD (in press). [The differential association between local neurotransmitter levels and whole-brain resting-state functional connectivity in two distinct cingulate cortex subregions](https://doi.org/10.1002/hbm.25819). Hum Brain Mapp
+[55] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (in press). [Estimations of the weather effects on brain functions using functional MRI: a cautionary note](https://doi.org/10.1002/hbm.25576). Hum Brain Mapp
 
-[54] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (in press). [Estimations of the weather effects on brain functions using functional MRI: a cautionary note](https://doi.org/10.1002/hbm.25576). Hum Brain Mapp
-
-[53] **Di X**, Biswal BB (in press). [Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults](https://doi.org/10.1002/hbm.25568). Hum Brain Mapp   
+[54] **Di X**, Biswal BB (in press). [Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults](https://doi.org/10.1002/hbm.25568). Hum Brain Mapp   
 
 #### 2022
+[53] Li M, Danyeli LV, Colic L, Wagner G, Smesny S, Chand T, **Di X**, Biswal BB, Kaufmann J, Reichenbach JR, Speck O, Walter M, Sen ZD (2022). [The differential association between local neurotransmitter levels and whole-brain resting-state functional connectivity in two distinct cingulate cortex subregions](https://doi.org/10.1002/hbm.25819). Hum Brain Mapp 43(9):2833-2844.
+
 [52] Hafiz R, Gandhi TK, Mishra S, Prasad A, Mahajan V, **Di X**, Natelson BH, Biswal BB (2022): [Higher Limbic and Basal Ganglia volumes in surviving COVID-negative patients and the relations to fatigue](https://doi.org/10.1016/j.ynirp.2022.100095). Neuroimage:Reports 2(2):100095.
 
 [51] Li L, **Di X**, Zhang H, Huang G, Zhang L; Liang Z, Zhang Z (2022). [Characterization of whole-brain task-modulated functional connectivity in response to nociceptive pain: A multisensory comparison study](https://doi.org/10.1002/hbm.25707). Hum Brain Mapp 43(3):1061-1075.
