@@ -9,12 +9,12 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en), [Web of Science](https://publons.com/researcher/B-2009-2009/), and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
 
 ### Working papers
-[2] Hafiz R, Gandhi TK, Misrhra S, Prasad A, Mahajan V, Natelson B, **Di X**, Biswal BB (2022). Assessing functional connectivity differences and work-related fatigue in surviving COVID-negative patients. [bioRxiv](https://doi.org/10.1101/2022.02.01.478677)
-
-[1] **Di X**, Zhang Z, Xu T, Biswal BB (2021): Dynamic and stationary brain connectivity during movie watching as revealed by functional MRI. [biorxiv](https://doi.org/10.1101/2021.09.14.460293)
+[1] Hafiz R, Gandhi TK, Misrhra S, Prasad A, Mahajan V, Natelson B, **Di X**, Biswal BB (2022). Assessing functional connectivity differences and work-related fatigue in surviving COVID-negative patients. [bioRxiv](https://doi.org/10.1101/2022.02.01.478677)
 
 ### Journal articles
 #### Forthcoming
+[57] **Di X**, Zhang Z, Xu T, Biswal BB (accepted): Dynamic and stationary brain connectivity during movie watching as revealed by functional MRI. Brain Struct Funct [preprint](https://doi.org/10.1101/2021.09.14.460293)
+
 [56] Yang H, Zhang H, **Di X**, Wang S, Meng C, Tian L, Biswal BB (in press): [Frequency-specific coactivation patterns in resting-state and their alterations in schizophrenia: an fMRI study](https://doi.org/10.1002/hbm.25884). Hum Brain Mapp 
 
 [55] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (in press). [Estimations of the weather effects on brain functions using functional MRI: a cautionary note](https://doi.org/10.1002/hbm.25576). Hum Brain Mapp
