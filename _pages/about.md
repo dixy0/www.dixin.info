@@ -19,7 +19,7 @@ For more information, see my [CV](https://www.dixin.info/files/CV_XinDi.pdf).
 * **Functional brain developments during movie watching and resting-state in autism spectrum disorder**: This is a NIH funded project to study the developments of brain dynamic and stable connectivity in individuals with autism spectrum disorder and typically developing controls. Undergraduate research opportunities are available. Please contact me if you are interested. 
 
 ### Latest publications
-* <span style="color:red">Accepted:</span> [Dynamic and stationary brain connectivity during movie watching as revealed by functional MRI](https://doi.org/10.1101/2021.09.14.460293)
+* <span style="color:red">New:</span> [Dynamic and stationary brain connectivity during movie watching as revealed by functional MRI](https://doi.org/10.1007/s00429-022-02522-w)
 * [Estimations of the weather effects on brain functions using functional MRI: a cautionary note](https://doi.org/10.1002/hbm.25576)
 * [Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults](https://doi.org/10.1002/hbm.25568)
 
