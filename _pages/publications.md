@@ -13,7 +13,7 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
-[57] **Di X**, Zhang Z, Xu T, Biswal BB (accepted): Dynamic and stationary brain connectivity during movie watching as revealed by functional MRI. Brain Struct Funct [preprint](https://doi.org/10.1101/2021.09.14.460293)
+[57] **Di X**, Zhang Z, Xu T, Biswal BB (accepted): [Dynamic and stationary brain connectivity during movie watching as revealed by functional MRI](https://doi.org/10.1007/s00429-022-02522-w). Brain Struct Funct 
 
 [56] Yang H, Zhang H, **Di X**, Wang S, Meng C, Tian L, Biswal BB (in press): [Frequency-specific coactivation patterns in resting-state and their alterations in schizophrenia: an fMRI study](https://doi.org/10.1002/hbm.25884). Hum Brain Mapp 
 
