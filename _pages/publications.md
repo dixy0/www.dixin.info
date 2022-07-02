@@ -13,15 +13,15 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
-[57] **Di X**, Zhang Z, Xu T, Biswal BB (accepted): [Dynamic and stationary brain connectivity during movie watching as revealed by functional MRI](https://doi.org/10.1007/s00429-022-02522-w). Brain Struct Funct 
+[57] **Di X**, Zhang Z, Xu T, Biswal BB (in press): [Dynamic and stationary brain connectivity during movie watching as revealed by functional MRI](https://doi.org/10.1007/s00429-022-02522-w). Brain Struct Funct 
 
 [56] Yang H, Zhang H, **Di X**, Wang S, Meng C, Tian L, Biswal BB (in press): [Frequency-specific coactivation patterns in resting-state and their alterations in schizophrenia: an fMRI study](https://doi.org/10.1002/hbm.25884). Hum Brain Mapp 
 
-[55] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (in press). [Estimations of the weather effects on brain functions using functional MRI: a cautionary note](https://doi.org/10.1002/hbm.25576). Hum Brain Mapp
-
-[54] **Di X**, Biswal BB (in press). [Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults](https://doi.org/10.1002/hbm.25568). Hum Brain Mapp   
-
 #### 2022
+[55] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (2022). [Estimations of the weather effects on brain functions using functional MRI: a cautionary note](https://doi.org/10.1002/hbm.25576). Hum Brain Mapp 43(11):3346-3356.
+
+[54] **Di X**, Biswal BB (2022). [Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults](https://doi.org/10.1002/hbm.25568). Hum Brain Mapp 43(11):3332-3345.
+
 [53] Li M, Danyeli LV, Colic L, Wagner G, Smesny S, Chand T, **Di X**, Biswal BB, Kaufmann J, Reichenbach JR, Speck O, Walter M, Sen ZD (2022). [The differential association between local neurotransmitter levels and whole-brain resting-state functional connectivity in two distinct cingulate cortex subregions](https://doi.org/10.1002/hbm.25819). Hum Brain Mapp 43(9):2833-2844.
 
 [52] Hafiz R, Gandhi TK, Mishra S, Prasad A, Mahajan V, **Di X**, Natelson BH, Biswal BB (2022): [Higher Limbic and Basal Ganglia volumes in surviving COVID-negative patients and the relations to fatigue](https://doi.org/10.1016/j.ynirp.2022.100095). Neuroimage:Reports 2(2):100095.
