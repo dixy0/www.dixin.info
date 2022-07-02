@@ -11,15 +11,15 @@ redirect_from:
 ------
 ### 1. Brain functional connectivity during movie watching
 Method developments to study dynamic connectivity and individual differences during movie watching.  
-* [Dynamic and stable brain connectivity during movie watching as revealed by functional MRI](https://doi.org/10.1101/2021.09.14.460293) preprint.
-* [Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults](https://doi.org/10.1101/2020.05.01.073163) preprint.
+* [Dynamic and stationary brain connectivity during movie watching as revealed by functional MRI](https://doi.org/10.1007/s00429-022-02522-w) in Brain Struct Funct.
+* [Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults](https://doi.org/10.1002/hbm.25568) in Hum Brain Mapp.
 * [Intersubject consistent dynamic connectivity during natural vision revealed by functional MRI](https://doi.org/10.1016/j.neuroimage.2020.116698) in Neuroimage.
 
 ### 2. Brain functional connectivity in different task conditions
 We are interested in how do brain connectivity and brain network organizations change between different different conditions, e.g. resting-state, task performance, and waching movies. 
 * [Toward Task Connectomics: Examining Whole-Brain Task Modulated Connectivity in Different Task Domains](https://doi.org/10.1093/cercor/bhy055) in Cereb Cortex.
 * [Task-modulated brain connectivity of the amygdala: a meta-analysis of psychophysiological interactions](https://doi.org/10.1007/s00429-016-1239-4) in Brain Struct Funct.
-* [Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks](https://doi.org/10.3389/fnhum.2013.00493) in Front. Hum. Neurosci.
+* [Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks](https://doi.org/10.3389/fnhum.2013.00493) in Front Hum Neurosci.
 
 ### 3. Method developments for studying task related connectivity
 Method developments on methods for studying task related connectivity, including psychophysiological interaction (PPI), beta series, sliding window, and intersubject correlation methods on both conventional task data and naturalistic task data.
