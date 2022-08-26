@@ -13,12 +13,12 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
-[58] Zhang H, **Di X**, Rypma B, Yang H, Meng C, Biswal BB (Accepted): Interaction between memory load and experimental design on brain connectivity and network topology. Neurosci Bull 
+[58] Zhang H, **Di X**, Rypma B, Yang H, Meng C, Biswal BB (Accepted). Interaction between memory load and experimental design on brain connectivity and network topology. Neurosci Bull 
 
 #### 2022
-[57] **Di X**, Zhang Z, Xu T, Biswal BB (2022): [Dynamic and stationary brain connectivity during movie watching as revealed by functional MRI](https://doi.org/10.1007/s00429-022-02522-w). Brain Struct Funct 227:2299–2312.
+[57] **Di X**, Zhang Z, Xu T, Biswal BB (2022). [Dynamic and stationary brain connectivity during movie watching as revealed by functional MRI](https://doi.org/10.1007/s00429-022-02522-w). Brain Struct Funct 227:2299–2312.
 
-[56] Yang H, Zhang H, Meng C, Wohlschläger A, Brandl F, **Di X**, Tian L, Biswal BB (2022): [Frequency-specific coactivation patterns in resting-state and their alterations in schizophrenia: an fMRI study](https://doi.org/10.1002/hbm.25884). Hum Brain Mapp 43(12):3792-3808.
+[56] Yang H, Zhang H, Meng C, Wohlschläger A, Brandl F, **Di X**, Tian L, Biswal BB (2022). [Frequency-specific coactivation patterns in resting-state and their alterations in schizophrenia: an fMRI study](https://doi.org/10.1002/hbm.25884). Hum Brain Mapp 43(12):3792-3808.
 
 [55] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (2022). [Estimations of the weather effects on brain functions using functional MRI: a cautionary note](https://doi.org/10.1002/hbm.25576). Hum Brain Mapp 43(11):3346-3356.
 
@@ -26,7 +26,7 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 [53] Li M, Danyeli LV, Colic L, Wagner G, Smesny S, Chand T, **Di X**, Biswal BB, Kaufmann J, Reichenbach JR, Speck O, Walter M, Sen ZD (2022). [The differential association between local neurotransmitter levels and whole-brain resting-state functional connectivity in two distinct cingulate cortex subregions](https://doi.org/10.1002/hbm.25819). Hum Brain Mapp 43(9):2833-2844.
 
-[52] Hafiz R, Gandhi TK, Mishra S, Prasad A, Mahajan V, **Di X**, Natelson BH, Biswal BB (2022): [Higher Limbic and Basal Ganglia volumes in surviving COVID-negative patients and the relations to fatigue](https://doi.org/10.1016/j.ynirp.2022.100095). Neuroimage:Reports 2(2):100095.
+[52] Hafiz R, Gandhi TK, Mishra S, Prasad A, Mahajan V, **Di X**, Natelson BH, Biswal BB (2022). [Higher Limbic and Basal Ganglia volumes in surviving COVID-negative patients and the relations to fatigue](https://doi.org/10.1016/j.ynirp.2022.100095). Neuroimage:Reports 2(2):100095.
 
 [51] Li L, **Di X**, Zhang H, Huang G, Zhang L; Liang Z, Zhang Z (2022). [Characterization of whole-brain task-modulated functional connectivity in response to nociceptive pain: A multisensory comparison study](https://doi.org/10.1002/hbm.25707). Hum Brain Mapp 43(3):1061-1075.
 
