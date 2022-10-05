@@ -47,7 +47,7 @@ This line of research focuses on brain metabolic connectivity as measured by FDG
 ## Collaborators
 Dr. Bharat Biswal @ [NJIT](https://people.njit.edu/faculty/biswal) 
 
-Dr. Zhiguo Zhang @ [SZU](http://zgzhang-lab.net/)
+Dr. Zhiguo Zhang @ [HIT](http://zgzhang-lab.net/)
 
 Dr. Ting Xu @ [CMI](https://childmind.org/bio/ting-xu-phd/)
 
