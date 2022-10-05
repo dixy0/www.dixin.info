@@ -49,6 +49,8 @@ Dr. Bharat Biswal @ [NJIT](https://people.njit.edu/faculty/biswal)
 
 Dr. Zhiguo Zhang @ [SZU](http://zgzhang-lab.net/)
 
+Dr. Ting Xu @ [CMI](https://childmind.org/bio/ting-xu-phd/)
+
 ## Research support
 ### Current
 * NIH R15MH125332, 2021 - 2024, PI. Functional brain developments during movie watching and resting-state in autism spectrum disorder
