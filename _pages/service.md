@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ------
+### Scientific Committees
+* [Molecular Connectivity Working Group](https://molecularconnectivity.com/team/), 2022 – present
+
 ### Associate Editor
 * [Frontiers in Brain Imaging Methods section](https://www.frontiersin.org/journals/all/sections/brain-imaging-methods), 2020 - present.
 
