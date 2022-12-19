@@ -13,6 +13,8 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
+[59] **Di X**, Biswal BB (Accepted). A functional MRI preprocessing and quality control protocol based on statistical parametric mapping (SPM) and MATLAB. Front Neuroimaging 
+
 [58] Zhang H, **Di X**, Rypma B, Yang H, Meng C, Biswal BB (Accepted). Interaction between memory load and experimental design on brain connectivity and network topology. Neurosci Bull 
 
 #### 2022
