@@ -15,9 +15,10 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
-[59] **Di X**, Biswal BB (Accepted). [A functional MRI preprocessing and quality control protocol based on statistical parametric mapping (SPM) and MATLAB](https://www.frontiersin.org/articles/10.3389/fnimg.2022.1070151/abstract). Front Neuroimaging 
+[59] Zhang H, **Di X**, Rypma B, Yang H, Meng C, Biswal BB (In press). [Interaction between memory load and experimental design on brain connectivity and network topology](https://doi.org/10.1007/s12264-022-00982-y). Neurosci Bull 
 
-[58] Zhang H, **Di X**, Rypma B, Yang H, Meng C, Biswal BB (In press). [Interaction between memory load and experimental design on brain connectivity and network topology](https://doi.org/10.1007/s12264-022-00982-y). Neurosci Bull 
+#### 2023
+[58] **Di X**, Biswal BB (2023). [A functional MRI preprocessing and quality control protocol based on statistical parametric mapping (SPM) and MATLAB](https://www.frontiersin.org/articles/10.3389/fnimg.2022.1070151/abstract). Front Neuroimaging 1:1070151.
 
 #### 2022
 [57] **Di X**, Zhang Z, Xu T, Biswal BB (2022). [Dynamic and stationary brain connectivity during movie watching as revealed by functional MRI](https://doi.org/10.1007/s00429-022-02522-w). Brain Struct Funct 227:2299–2312.
