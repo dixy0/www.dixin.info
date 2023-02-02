@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ------
-In spirit of open science, I am trying to make my research outputs openly available. But it takes time and efforts. I will put some of the data, codes, and statistical maps and matrices on this page. 
+I am committed to the principles of open science and aim to make my research results accessible to all. This requires significant time and effort, but I will publish some of the data, code, and statistical maps and matrices on this page.
 
 ## Protocols
 ### A protocol for fMRI preprocessing and quality control
