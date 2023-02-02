@@ -8,6 +8,10 @@ author_profile: true
 ------
 In spirit of open science, I am trying to make my research outputs openly available. But it takes time and efforts. I will put some of the data, codes, and statistical maps and matrices on this page. 
 
+## Protocols
+### A protocol for fMRI preprocessing and quality control
+[Codes](https://github.com/Brain-Connectivity-Lab/Preprocessing_and_QC) for our protocol paper ([Di & Biswal, 2023](https://doi.org/10.3389/fnimg.2022.1070151))
+
 ## Codes
 ### Intersubject correlation during movie watching
 MATLAB [codes](https://osf.io/qyn7a/) for intersubject correlation analysis of dynamic connectivity in movie watching data ([Di & Biswal, 2020](https://doi.org/10.1016/j.neuroimage.2020.116698)). 
