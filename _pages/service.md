@@ -13,7 +13,7 @@ author_profile: true
 * [Frontiers in Brain Imaging Methods section](https://www.frontiersin.org/journals/all/sections/brain-imaging-methods), 2020 - present.
 
 ### Guest Associate Editor
-* [Frontiers in Brain Imaging and Stimulation section](https://www.frontiersin.org/journals/human-neuroscience/sections/brain-imaging-and-stimulation), 2021 - present.
+* Edited Research Topic "[Shared responses and individual differences in the human brain during naturalistic stimulations](https://www.frontiersin.org/research-topics/20766/shared-responses-and-individual-differences-in-the-human-brain-during-naturalistic-stimulations#articles)" for [Frontiers in Brain Imaging and Stimulation section](https://www.frontiersin.org/journals/human-neuroscience/sections/brain-imaging-and-stimulation), 2021 - 2023.
 
 ### Editorial Board Member
 * [BMC Neuroscience](https://bmcneurosci.biomedcentral.com/), 2020 - present.
