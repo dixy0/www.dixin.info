@@ -9,11 +9,20 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en), [Web of Science](https://publons.com/researcher/B-2009-2009/), and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
 
 ### Working papers
+[3] **Di X**, Xu T, Uddin LQ Biswal BB (2023). Individual differences in time-varying and stationary brain connectivity during movie watching from childhood to early adulthood: Effects of age, sex, and behavioral associations. [bioRxiv](https://doi.org/10.1101/2023.01.30.526311)
+
+[2] Chen DY, **Di X**, Biswal BB (2023). Neurovascular reactivity increases across development in the visual and frontal pole networks as revealed by a breath-holding task: a longitudinal fMRI study. [bioRxiv](https://doi.org/10.1101/2023.01.05.522905)
+
 [1] Hafiz R, Gandhi TK, Misrhra S, Prasad A, Mahajan V, Natelson B, **Di X**, Biswal BB (2022). Assessing functional connectivity differences and work-related fatigue in surviving COVID-negative patients. [bioRxiv](https://doi.org/10.1101/2022.02.01.478677)
 
 ### Journal articles
 #### Forthcoming
-[58] Zhang H, **Di X**, Rypma B, Yang H, Meng C, Biswal BB (Accepted). Interaction between memory load and experimental design on brain connectivity and network topology. Neurosci Bull 
+[60] Zhang H, Meng C, **Di X**, Wu X, Biswal BB (In press). [Static and Dynamic Functional Connectome Reveals Reconfiguration Profiles of Whole Brain Network across Cognitive States](https://doi.org/10.1162/netn_a_00314). Network Neuroscience 
+
+#### 2023
+[59] Zhang H, **Di X**, Rypma B, Yang H, Meng C, Biswal BB (2023). [Interaction between memory load and experimental design on brain connectivity and network topology](https://doi.org/10.1007/s12264-022-00982-y). Neurosci Bull 39:631–644.
+
+[58] **Di X**, Biswal BB (2023). [A functional MRI preprocessing and quality control protocol based on statistical parametric mapping (SPM) and MATLAB](https://www.frontiersin.org/articles/10.3389/fnimg.2022.1070151/abstract). Front Neuroimaging 1:1070151.
 
 #### 2022
 [57] **Di X**, Zhang Z, Xu T, Biswal BB (2022). [Dynamic and stationary brain connectivity during movie watching as revealed by functional MRI](https://doi.org/10.1007/s00429-022-02522-w). Brain Struct Funct 227:2299–2312.
