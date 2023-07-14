@@ -18,7 +18,7 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
-[63] **Di X**, Xu T, Uddin LQ, Biswal BB (accepted). Individual differences in time-varying and stationary brain connectivity during movie watching from childhood to early adulthood: age, sex, and behavioral associations. Dev Cogn Neurosci [bioRxiv](https://doi.org/10.1101/2023.01.30.526311)
+[61] **Di X**, Xu T, Uddin LQ, Biswal BB (accepted). Individual differences in time-varying and stationary brain connectivity during movie watching from childhood to early adulthood: age, sex, and behavioral associations. Dev Cogn Neurosci [bioRxiv](https://doi.org/10.1101/2023.01.30.526311)
 
 [60] Zhang H, Meng C, **Di X**, Wu X, Biswal BB (In press). [Static and Dynamic Functional Connectome Reveals Reconfiguration Profiles of Whole Brain Network across Cognitive States](https://doi.org/10.1162/netn_a_00314). Network Neuroscience 
 
