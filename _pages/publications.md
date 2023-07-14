@@ -9,14 +9,17 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en), [Web of Science](https://publons.com/researcher/B-2009-2009/), and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
 
 ### Working papers
-[3] **Di X**, Xu T, Uddin LQ Biswal BB (2023). Individual differences in time-varying and stationary brain connectivity during movie watching from childhood to early adulthood: Effects of age, sex, and behavioral associations. [bioRxiv](https://doi.org/10.1101/2023.01.30.526311)
-
-[2] Chen DY, **Di X**, Biswal BB (2023). Neurovascular reactivity increases across development in the visual and frontal pole networks as revealed by a breath-holding task: a longitudinal fMRI study. [bioRxiv](https://doi.org/10.1101/2023.01.05.522905)
+[2] Chen DY, **Di X**, Biswal BB (2023). Cerebrovascular reactivity increases across development in multiple networks as revealed by a breath-holding task: a longitudinal fMRI study. [bioRxiv](https://doi.org/10.1101/2023.01.05.522905)
 
 [1] Hafiz R, Gandhi TK, Misrhra S, Prasad A, Mahajan V, Natelson B, **Di X**, Biswal BB (2022). Assessing functional connectivity differences and work-related fatigue in surviving COVID-negative patients. [bioRxiv](https://doi.org/10.1101/2022.02.01.478677)
 
+### Editorials and Reviews
+[1] Hu Z, **Di X** and Yang Z (2023). Editorial: [Shared responses and individual differences in the human brain during naturalistic stimulations](https://doi.org/10.3389/fnhum.2023.1201728). Front. Hum. Neurosci. 17:1201728. 
+
 ### Journal articles
 #### Forthcoming
+[63] **Di X**, Xu T, Uddin LQ, Biswal BB (accepted). Individual differences in time-varying and stationary brain connectivity during movie watching from childhood to early adulthood: age, sex, and behavioral associations. Dev Cogn Neurosci [bioRxiv](https://doi.org/10.1101/2023.01.30.526311)
+
 [60] Zhang H, Meng C, **Di X**, Wu X, Biswal BB (In press). [Static and Dynamic Functional Connectome Reveals Reconfiguration Profiles of Whole Brain Network across Cognitive States](https://doi.org/10.1162/netn_a_00314). Network Neuroscience 
 
 #### 2023
