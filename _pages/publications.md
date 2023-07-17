@@ -13,16 +13,15 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 [1] Hafiz R, Gandhi TK, Misrhra S, Prasad A, Mahajan V, Natelson B, **Di X**, Biswal BB (2022). Assessing functional connectivity differences and work-related fatigue in surviving COVID-negative patients. [bioRxiv](https://doi.org/10.1101/2022.02.01.478677)
 
-### Editorials and Reviews
-[1] Hu Z, **Di X** and Yang Z (2023). Editorial: [Shared responses and individual differences in the human brain during naturalistic stimulations](https://doi.org/10.3389/fnhum.2023.1201728). Front. Hum. Neurosci. 17:1201728. 
-
 ### Journal articles
 #### Forthcoming
-[61] **Di X**, Xu T, Uddin LQ, Biswal BB (accepted). Individual differences in time-varying and stationary brain connectivity during movie watching from childhood to early adulthood: age, sex, and behavioral associations. Dev Cogn Neurosci [bioRxiv](https://doi.org/10.1101/2023.01.30.526311)
+[62] **Di X**, Xu T, Uddin LQ, Biswal BB (in press). [Individual differences in time-varying and stationary brain connectivity during movie watching from childhood to early adulthood: age, sex, and behavioral associations](https://doi.org/10.1016/j.dcn.2023.101280). Dev Cogn Neurosci
 
-[60] Zhang H, Meng C, **Di X**, Wu X, Biswal BB (In press). [Static and Dynamic Functional Connectome Reveals Reconfiguration Profiles of Whole Brain Network across Cognitive States](https://doi.org/10.1162/netn_a_00314). Network Neuroscience 
+[61] Zhang H, Meng C, **Di X**, Wu X, Biswal BB (In press). [Static and Dynamic Functional Connectome Reveals Reconfiguration Profiles of Whole Brain Network across Cognitive States](https://doi.org/10.1162/netn_a_00314). Network Neuroscience 
 
 #### 2023
+[60] Hu Z, **Di X** and Yang Z (2023). [Editorial: Shared responses and individual differences in the human brain during naturalistic stimulations](https://doi.org/10.3389/fnhum.2023.1201728). Front. Hum. Neurosci. 17:1201728. 
+
 [59] Zhang H, **Di X**, Rypma B, Yang H, Meng C, Biswal BB (2023). [Interaction between memory load and experimental design on brain connectivity and network topology](https://doi.org/10.1007/s12264-022-00982-y). Neurosci Bull 39:631–644.
 
 [58] **Di X**, Biswal BB (2023). [A functional MRI preprocessing and quality control protocol based on statistical parametric mapping (SPM) and MATLAB](https://www.frontiersin.org/articles/10.3389/fnimg.2022.1070151/abstract). Front Neuroimaging 1:1070151.
