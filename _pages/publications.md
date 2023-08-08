@@ -15,12 +15,12 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
-[62] **Di X**, Xu T, Uddin LQ, Biswal BB (in press). [Individual differences in time-varying and stationary brain connectivity during movie watching from childhood to early adulthood: age, sex, and behavioral associations](https://doi.org/10.1016/j.dcn.2023.101280). Dev Cogn Neurosci
-
-[61] Zhang H, Meng C, **Di X**, Wu X, Biswal BB (In press). [Static and Dynamic Functional Connectome Reveals Reconfiguration Profiles of Whole Brain Network across Cognitive States](https://doi.org/10.1162/netn_a_00314). Network Neuroscience 
+[62] Zhang H, Meng C, **Di X**, Wu X, Biswal BB (In press). [Static and Dynamic Functional Connectome Reveals Reconfiguration Profiles of Whole Brain Network across Cognitive States](https://doi.org/10.1162/netn_a_00314). Network Neuroscience 
 
 #### 2023
-[60] Hu Z, **Di X** and Yang Z (2023). [Editorial: Shared responses and individual differences in the human brain during naturalistic stimulations](https://doi.org/10.3389/fnhum.2023.1201728). Front. Hum. Neurosci. 17:1201728. 
+[61] **Di X**, Xu T, Uddin LQ, Biswal BB (2023). [Individual differences in time-varying and stationary brain connectivity during movie watching from childhood to early adulthood: age, sex, and behavioral associations](https://doi.org/10.1016/j.dcn.2023.101280). Dev Cogn Neurosci 63:101280.
+
+[60] Hu Z, **Di X** and Yang Z (2023). [Editorial: Shared responses and individual differences in the human brain during naturalistic stimulations](https://doi.org/10.3389/fnhum.2023.1201728). Front Hum Neurosci 17:1201728. 
 
 [59] Zhang H, **Di X**, Rypma B, Yang H, Meng C, Biswal BB (2023). [Interaction between memory load and experimental design on brain connectivity and network topology](https://doi.org/10.1007/s12264-022-00982-y). Neurosci Bull 39:631–644.
 
