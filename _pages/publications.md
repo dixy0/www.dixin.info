@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ------
-For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en), [Web of Science](https://publons.com/researcher/B-2009-2009/), and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
+For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
 
 ### Working papers
 [2] Chen DY, **Di X**, Biswal BB (2023). Cerebrovascular reactivity increases across development in multiple networks as revealed by a breath-holding task: a longitudinal fMRI study. [bioRxiv](https://doi.org/10.1101/2023.01.05.522905)
