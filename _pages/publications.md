@@ -9,6 +9,8 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
 
 ### Working papers
+[3] Chen DY, **Di X**, Yu X, Biswal BB (2023). The Significance and Limited Influence of Cerebrovascular Reactivity on Age and Sex Effects in Task- and Resting-State Brain Activity. [bioRxiv](https://doi.org/10.1101/2023.08.18.553848)
+
 [2] Chen DY, **Di X**, Biswal BB (2023). Cerebrovascular reactivity increases across development in multiple networks as revealed by a breath-holding task: a longitudinal fMRI study. [bioRxiv](https://doi.org/10.1101/2023.01.05.522905)
 
 [1] Hafiz R, Gandhi TK, Misrhra S, Prasad A, Mahajan V, Natelson B, **Di X**, Biswal BB (2022). Assessing functional connectivity differences and work-related fatigue in surviving COVID-negative patients. [bioRxiv](https://doi.org/10.1101/2022.02.01.478677)
