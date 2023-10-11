@@ -9,17 +9,17 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
 
 ### Working papers
-[3] Chen DY, **Di X**, Yu X, Biswal BB (2023). The Significance and Limited Influence of Cerebrovascular Reactivity on Age and Sex Effects in Task- and Resting-State Brain Activity. [bioRxiv](https://doi.org/10.1101/2023.08.18.553848)
-
-[2] Chen DY, **Di X**, Biswal BB (2023). Cerebrovascular reactivity increases across development in multiple networks as revealed by a breath-holding task: a longitudinal fMRI study. [bioRxiv](https://doi.org/10.1101/2023.01.05.522905)
+[2] Chen DY, **Di X**, Yu X, Biswal BB (2023). The Significance and Limited Influence of Cerebrovascular Reactivity on Age and Sex Effects in Task- and Resting-State Brain Activity. [bioRxiv](https://doi.org/10.1101/2023.08.18.553848)
 
 [1] Hafiz R, Gandhi TK, Misrhra S, Prasad A, Mahajan V, Natelson B, **Di X**, Biswal BB (2022). Assessing functional connectivity differences and work-related fatigue in surviving COVID-negative patients. [bioRxiv](https://doi.org/10.1101/2022.02.01.478677)
 
 ### Journal articles
 #### Forthcoming
-[62] Zhang H, Meng C, **Di X**, Wu X, Biswal BB (In press). [Static and Dynamic Functional Connectome Reveals Reconfiguration Profiles of Whole Brain Network across Cognitive States](https://doi.org/10.1162/netn_a_00314). Network Neuroscience 
+[63] Chen DY, **Di X**, Biswal BB (accepted). Cerebrovascular reactivity increases across development in multiple networks as revealed by a breath-holding task: a longitudinal fMRI study. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/2023.01.05.522905)
 
 #### 2023
+[62] Zhang H, Meng C, **Di X**, Wu X, Biswal BB (2023). [Static and Dynamic Functional Connectome Reveals Reconfiguration Profiles of Whole Brain Network across Cognitive States](https://doi.org/10.1162/netn_a_00314). Network Neuroscience 7 (3): 1034–1050.
+
 [61] **Di X**, Xu T, Uddin LQ, Biswal BB (2023). [Individual differences in time-varying and stationary brain connectivity during movie watching from childhood to early adulthood: age, sex, and behavioral associations](https://doi.org/10.1016/j.dcn.2023.101280). Dev Cogn Neurosci 63:101280.
 
 [60] Hu Z, **Di X** and Yang Z (2023). [Editorial: Shared responses and individual differences in the human brain during naturalistic stimulations](https://doi.org/10.3389/fnhum.2023.1201728). Front Hum Neurosci 17:1201728. 
