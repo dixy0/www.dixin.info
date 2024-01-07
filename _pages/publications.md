@@ -15,7 +15,8 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 #### Forthcoming
 [64] Chen DY, **Di X**, Yu X, Biswal BB (accepted). The Significance and Limited Influence of Cerebrovascular Reactivity on Age and Sex Effects in Task- and Resting-State Brain Activity. Cereb Cortex [bioRxiv](https://doi.org/10.1101/2023.08.18.553848)
 
-[63] Chen DY, **Di X**, Biswal BB (accepted). Cerebrovascular reactivity increases across development in multiple networks as revealed by a breath-holding task: a longitudinal fMRI study. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/2023.01.05.522905)
+#### 2024
+[63] Chen DY, **Di X**, Biswal BB (2024). [Cerebrovascular reactivity increases across development in multiple networks as revealed by a breath-holding task: a longitudinal fMRI study](https://doi.org/10.1002/hbm.26515). Hum Brain Mapp
 
 #### 2023
 [62] Zhang H, Meng C, **Di X**, Wu X, Biswal BB (2023). [Static and Dynamic Functional Connectome Reveals Reconfiguration Profiles of Whole Brain Network across Cognitive States](https://doi.org/10.1162/netn_a_00314). Network Neuroscience 7 (3): 1034–1050.
