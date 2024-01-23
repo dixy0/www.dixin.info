@@ -19,8 +19,8 @@ For more information, see my [CV](https://www.dixin.info/files/CV_XinDi.pdf).
 * **Functional brain developments during movie watching and resting-state in autism spectrum disorder**: This is a NIH funded project to study the developments of brain dynamic and stable connectivity in individuals with autism spectrum disorder and typically developing controls. Undergraduate research opportunities are available. Please contact me if you are interested. 
 
 ### Latest publications
-* <span style="color:red">New:</span> [The Significance and Limited Influence of Cerebrovascular Reactivity on Age and Sex Effects in Task- and Resting-State Brain Activity](https://doi.org/10.1093/cercor/bhad448)
+* <span style="color:red">Preprint:</span> [Explorations of using a convolutional neural network to understand brain activations during movie watching](https://doi.org/10.1101/2024.01.20.576341)
+* [The Significance and Limited Influence of Cerebrovascular Reactivity on Age and Sex Effects in Task- and Resting-State Brain Activity](https://doi.org/10.1093/cercor/bhad448)
 * [Individual differences in time-varying and stationary brain connectivity during movie watching from childhood to early adulthood: Effects of age, sex, and behavioral associations](https://doi.org/10.1016/j.dcn.2023.101280)
-* [Dynamic and stationary brain connectivity during movie watching as revealed by functional MRI](https://doi.org/10.1007/s00429-022-02522-w)
 
 Click [here](https://www.dixin.info/publications/) for a full list of my publications
