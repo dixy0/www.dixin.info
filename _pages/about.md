@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ---
-Di pronounces as 'Dee', not 'Dye'. My Chinese name is 邸新.  
+Xin is pronounced like 'Seen,' and Di is pronounced as 'Dee,' not 'Dye.' My Chinese name is 邸新.  
 
 I am a Research Assistant Professor in the Department of Biomedical Engineering, New Jersey Institute of Technology ([NJIT](https://people.njit.edu/faculty/dixin)). My research interest is mainly on understanding brain connectivity and brain network organizations using brain imaging techniques such as functional magnetic resonance imaging (fMRI). Click [here](https://www.dixin.info/research/) for details about my research.
 
