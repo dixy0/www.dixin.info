@@ -17,6 +17,8 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### 2024
+[65] Mittal P, Sao AK, Biswal BB, Di X, Dileep AD (2004). [Network-wise analysis of movie-specific information in dynamic functional connectivity using COBE](https://doi.org/10.1093/cercor/bhae170), Cereb Cortex 34(4):bhae170. 
+
 [64] Chen DY, **Di X**, Yu X, Biswal BB (2024). [The Significance and Limited Influence of Cerebrovascular Reactivity on Age and Sex Effects in Task- and Resting-State Brain Activity](https://doi.org/10.1093/cercor/bhad448). Cereb Cortex 34(2):bhad448.
 
 [63] Chen DY, **Di X**, Biswal BB (2024). [Cerebrovascular reactivity increases across development in multiple networks as revealed by a breath-holding task: a longitudinal fMRI study](https://doi.org/10.1002/hbm.26515). Hum Brain Mapp 45(1):e26515.
