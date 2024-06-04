@@ -9,6 +9,8 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
 
 ### Working papers
+[4] **Di X**, Pratik Jain, Bharat B Biswal (2024). Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data. [bioRxiv](https://doi.org/10.1101/2024.06.02.597063)
+
 [3] Chen DY, **Di X**, Amaya N, Sun H, Pal S, Biswal BB (2024). Brain activation during the N-back working memory task in individuals with spinal cord injury: a functional near-infrared spectroscopy study. [bioRxiv](https://doi.org/10.1101/2024.02.09.579655)
 
 [2] Sohn W, **Di X**, Liang Z, Zhang Z, Biswal BB (2024). Explorations of using a convolutional neural network to understand brain activations during movie watching. [bioRxiv](https://doi.org/10.1101/2024.01.20.576341)
@@ -17,7 +19,7 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### 2024
-[65] Mittal P, Sao AK, Biswal BB, Di X, Dileep AD (2004). [Network-wise analysis of movie-specific information in dynamic functional connectivity using COBE](https://doi.org/10.1093/cercor/bhae170), Cereb Cortex 34(4):bhae170. 
+[65] Mittal P, Sao AK, Biswal BB, **Di X**, Dileep AD (2004). [Network-wise analysis of movie-specific information in dynamic functional connectivity using COBE](https://doi.org/10.1093/cercor/bhae170), Cereb Cortex 34(4):bhae170. 
 
 [64] Chen DY, **Di X**, Yu X, Biswal BB (2024). [The Significance and Limited Influence of Cerebrovascular Reactivity on Age and Sex Effects in Task- and Resting-State Brain Activity](https://doi.org/10.1093/cercor/bhad448). Cereb Cortex 34(2):bhad448.
 
