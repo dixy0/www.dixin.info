@@ -9,6 +9,8 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
 
 ### Working papers
+[5] Chen DY, **Di X**, Karunakaran KD, Sun H, Pal S, Biswal BB (2024). Delayed cerebrovascular reactivity in individuals with spinal cord injury in the right inferior parietal lobe: a breath-hold functional near-infrared spectroscopy study. [medRxiv](https://doi.org/10.1101/2024.06.03.24307819)
+
 [4] **Di X**, Pratik Jain, Bharat B Biswal (2024). Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data. [bioRxiv](https://doi.org/10.1101/2024.06.02.597063)
 
 [3] Chen DY, **Di X**, Amaya N, Sun H, Pal S, Biswal BB (2024). Brain activation during the N-back working memory task in individuals with spinal cord injury: a functional near-infrared spectroscopy study. [bioRxiv](https://doi.org/10.1101/2024.02.09.579655)
