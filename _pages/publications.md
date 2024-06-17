@@ -9,16 +9,26 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
 
 ### Working papers
+[5] Chen DY, **Di X**, Karunakaran KD, Sun H, Pal S, Biswal BB (2024). Delayed cerebrovascular reactivity in individuals with spinal cord injury in the right inferior parietal lobe: a breath-hold functional near-infrared spectroscopy study. [medRxiv](https://doi.org/10.1101/2024.06.03.24307819)
+
+[4] **Di X**, Pratik Jain, Bharat B Biswal (2024). Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data. [bioRxiv](https://doi.org/10.1101/2024.06.02.597063)
+
+[3] Chen DY, **Di X**, Amaya N, Sun H, Pal S, Biswal BB (2024). Brain activation during the N-back working memory task in individuals with spinal cord injury: a functional near-infrared spectroscopy study. [bioRxiv](https://doi.org/10.1101/2024.02.09.579655)
+
+[2] Sohn W, **Di X**, Liang Z, Zhang Z, Biswal BB (2024). Explorations of using a convolutional neural network to understand brain activations during movie watching. [bioRxiv](https://doi.org/10.1101/2024.01.20.576341)
+
 [1] Hafiz R, Gandhi TK, Misrhra S, Prasad A, Mahajan V, Natelson B, **Di X**, Biswal BB (2022). Assessing functional connectivity differences and work-related fatigue in surviving COVID-negative patients. [bioRxiv](https://doi.org/10.1101/2022.02.01.478677)
 
 ### Journal articles
-#### Forthcoming
-[64] Chen DY, **Di X**, Yu X, Biswal BB (accepted). The Significance and Limited Influence of Cerebrovascular Reactivity on Age and Sex Effects in Task- and Resting-State Brain Activity. Cereb Cortex [bioRxiv](https://doi.org/10.1101/2023.08.18.553848)
+#### 2024
+[65] Mittal P, Sao AK, Biswal BB, **Di X**, Dileep AD (2004). [Network-wise analysis of movie-specific information in dynamic functional connectivity using COBE](https://doi.org/10.1093/cercor/bhae170), Cereb Cortex 34(4):bhae170. 
 
-[63] Chen DY, **Di X**, Biswal BB (accepted). Cerebrovascular reactivity increases across development in multiple networks as revealed by a breath-holding task: a longitudinal fMRI study. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/2023.01.05.522905)
+[64] Chen DY, **Di X**, Yu X, Biswal BB (2024). [The Significance and Limited Influence of Cerebrovascular Reactivity on Age and Sex Effects in Task- and Resting-State Brain Activity](https://doi.org/10.1093/cercor/bhad448). Cereb Cortex 34(2):bhad448.
+
+[63] Chen DY, **Di X**, Biswal BB (2024). [Cerebrovascular reactivity increases across development in multiple networks as revealed by a breath-holding task: a longitudinal fMRI study](https://doi.org/10.1002/hbm.26515). Hum Brain Mapp 45(1):e26515.
 
 #### 2023
-[62] Zhang H, Meng C, **Di X**, Wu X, Biswal BB (2023). [Static and Dynamic Functional Connectome Reveals Reconfiguration Profiles of Whole Brain Network across Cognitive States](https://doi.org/10.1162/netn_a_00314). Network Neuroscience 7 (3): 1034–1050.
+[62] Zhang H, Meng C, **Di X**, Wu X, Biswal BB (2023). [Static and Dynamic Functional Connectome Reveals Reconfiguration Profiles of Whole Brain Network across Cognitive States](https://doi.org/10.1162/netn_a_00314). Network Neuroscience 7(3):1034–1050.
 
 [61] **Di X**, Xu T, Uddin LQ, Biswal BB (2023). [Individual differences in time-varying and stationary brain connectivity during movie watching from childhood to early adulthood: age, sex, and behavioral associations](https://doi.org/10.1016/j.dcn.2023.101280). Dev Cogn Neurosci 63:101280.
 
