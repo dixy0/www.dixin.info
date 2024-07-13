@@ -28,13 +28,13 @@ I am interested in how brain connectivity and network organization change under 
 * [Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks](https://doi.org/10.3389/fnhum.2013.00493)
 
 ### 4. Brain functional connectivity modulated by other regions
-This line of researches focuses on how brain connectivity between two brain regions is modulated by a third region.
+This line of researches focuses on how brain connectivity between two brain regions is modulated by a third region. Related publications: 
 * [Anterior cingulate cortex differently modulates fronto-parietal functional connectivity between resting-state and working memory tasks](https://doi.org/10.1002/hbm.24912) 
 * [Characterizations of resting-state modulatory interactions in human brain](https://doi.org/10.1152/jn.00893.2014) 
 * [Modulatory Interactions between the Default Mode Network and Task Positive Networks in Resting-State](https://doi.org/10.7717/peerj.367)
 
 ### 5. Brain metabolic connectivity and molecular connectivity
-This line of research focuses on brain metabolic connectivity as measured by FDG-PET.
+This line of research focuses on brain metabolic connectivity as measured by FDG-PET. Related publications: 
 * [Interregional causal influences of brain metabolic activity reveal the spread of aging effects during normal aging](https://doi.org/10.1002/hbm.24728) 
 * [Do all roads lead to Rome? A comparison of brain networks derived from inter-subject volumetric and metabolic covariance and moment-to-moment hemodynamic correlations in old individuals](https://doi.org/10.1007/s00429-017-1438-7) 
 * [Metabolic Brain Covariant Networks as Revealed by FDG-PET with reference to resting-state fMRI networks](https://doi.org/10.1089/brain.2012.0086)
