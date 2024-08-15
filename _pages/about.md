@@ -15,6 +15,8 @@ I am a Research Assistant Professor in the Department of Biomedical Engineering,
 For more information, see my [CV](https://www.dixin.info/files/CV_XinDi.pdf). 
 
 ### Current projects
+* **Exploring eye-movement patterns and brain activity in autism spectrum disorder through deep learning-based eye-tracking with functional MRI**: This project, funded by NJDOH, aims to validate the use of deep neural network models to extract eye gaze information from fMRI data and investigate gaze and brain activity alterations in autism spectrum disorder.
+
 * **Functional brain developments during movie watching and resting-state in autism spectrum disorder**: This is a NIH funded project to study the developments of brain dynamic and stable connectivity in individuals with autism spectrum disorder and typically developing controls. Undergraduate research opportunities are available. Please contact me if you are interested. 
 
 ### Latest publications
