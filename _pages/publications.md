@@ -20,6 +20,9 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 [1] Hafiz R, Gandhi TK, Misrhra S, Prasad A, Mahajan V, Natelson B, **Di X**, Biswal BB (2022). Assessing functional connectivity differences and work-related fatigue in surviving COVID-negative patients. [bioRxiv](https://doi.org/10.1101/2022.02.01.478677)
 
 ### Journal articles
+#### Forthcoming
+[66] **Di X**, Zhang L, Zhang Z, Biswal BB (accepted). Opportunities and Challenges in Connectivity Analysis for Task-Based fMRI, Phys Life Rev.
+
 #### 2024
 [65] Mittal P, Sao AK, Biswal BB, **Di X**, Dileep AD (2004). [Network-wise analysis of movie-specific information in dynamic functional connectivity using COBE](https://doi.org/10.1093/cercor/bhae170), Cereb Cortex 34(4):bhae170. 
 
