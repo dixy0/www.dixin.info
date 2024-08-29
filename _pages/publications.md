@@ -21,10 +21,10 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
-[66] **Di X**, Zhang L, Zhang Z, Biswal BB (accepted). Opportunities and Challenges in Connectivity Analysis for Task-Based fMRI, Phys Life Rev.
+[66] **Di X**, Zhang L, Zhang Z, Biswal BB (accepted). [Opportunities and Challenges in Connectivity Analysis for Task-Based fMRI](https://doi.org/10.1016/j.plrev.2024.08.011). Phys Life Rev.
 
 #### 2024
-[65] Mittal P, Sao AK, Biswal BB, **Di X**, Dileep AD (2004). [Network-wise analysis of movie-specific information in dynamic functional connectivity using COBE](https://doi.org/10.1093/cercor/bhae170), Cereb Cortex 34(4):bhae170. 
+[65] Mittal P, Sao AK, Biswal BB, **Di X**, Dileep AD (2004). [Network-wise analysis of movie-specific information in dynamic functional connectivity using COBE](https://doi.org/10.1093/cercor/bhae170). Cereb Cortex 34(4):bhae170. 
 
 [64] Chen DY, **Di X**, Yu X, Biswal BB (2024). [The Significance and Limited Influence of Cerebrovascular Reactivity on Age and Sex Effects in Task- and Resting-State Brain Activity](https://doi.org/10.1093/cercor/bhad448). Cereb Cortex 34(2):bhad448.
 
