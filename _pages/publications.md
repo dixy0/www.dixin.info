@@ -9,21 +9,21 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
 
 ### Working papers
-[5] Chen DY, **Di X**, Karunakaran KD, Sun H, Pal S, Biswal BB (2024). Delayed cerebrovascular reactivity in individuals with spinal cord injury in the right inferior parietal lobe: a breath-hold functional near-infrared spectroscopy study. [medRxiv](https://doi.org/10.1101/2024.06.03.24307819)
+[4] Chen DY, **Di X**, Karunakaran KD, Sun H, Pal S, Biswal BB (2024). Delayed cerebrovascular reactivity in individuals with spinal cord injury in the right inferior parietal lobe: a breath-hold functional near-infrared spectroscopy study. [medRxiv](https://doi.org/10.1101/2024.06.03.24307819)
 
-[4] **Di X**, Pratik Jain, Bharat B Biswal (2024). Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data. [bioRxiv](https://doi.org/10.1101/2024.06.02.597063)
+[3] **Di X**, Pratik Jain, Bharat B Biswal (2024). Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data. [bioRxiv](https://doi.org/10.1101/2024.06.02.597063)
 
-[3] Chen DY, **Di X**, Amaya N, Sun H, Pal S, Biswal BB (2024). Brain activation during the N-back working memory task in individuals with spinal cord injury: a functional near-infrared spectroscopy study. [bioRxiv](https://doi.org/10.1101/2024.02.09.579655)
-
-[2] Sohn W, **Di X**, Liang Z, Zhang Z, Biswal BB (2024). Explorations of using a convolutional neural network to understand brain activations during movie watching. [bioRxiv](https://doi.org/10.1101/2024.01.20.576341)
+[2] Chen DY, **Di X**, Amaya N, Sun H, Pal S, Biswal BB (2024). Brain activation during the N-back working memory task in individuals with spinal cord injury: a functional near-infrared spectroscopy study. [bioRxiv](https://doi.org/10.1101/2024.02.09.579655)
 
 [1] Hafiz R, Gandhi TK, Misrhra S, Prasad A, Mahajan V, Natelson B, **Di X**, Biswal BB (2022). Assessing functional connectivity differences and work-related fatigue in surviving COVID-negative patients. [bioRxiv](https://doi.org/10.1101/2022.02.01.478677)
 
 ### Journal articles
 #### Forthcoming
-[66] **Di X**, Zhang L, Zhang Z, Biswal BB (accepted). [Opportunities and Challenges in Connectivity Analysis for Task-Based fMRI](https://doi.org/10.1016/j.plrev.2024.08.011). Phys Life Rev.
+[67] Sohn W, **Di X**, Liang Z, Zhang Z, Biswal BB (accepted). Explorations of using a convolutional neural network to understand brain activations during movie watching. Psychoradiology [bioRxiv](https://doi.org/10.1101/2024.01.20.576341)
 
 #### 2024
+[66] **Di X**, Zhang L, Zhang Z, Biswal BB (2024). [Opportunities and Challenges in Connectivity Analysis for Task-Based fMRI](https://doi.org/10.1016/j.plrev.2024.08.011). Phys Life Rev 51:13-17.
+
 [65] Mittal P, Sao AK, Biswal BB, **Di X**, Dileep AD (2004). [Network-wise analysis of movie-specific information in dynamic functional connectivity using COBE](https://doi.org/10.1093/cercor/bhae170). Cereb Cortex 34(4):bhae170. 
 
 [64] Chen DY, **Di X**, Yu X, Biswal BB (2024). [The Significance and Limited Influence of Cerebrovascular Reactivity on Age and Sex Effects in Task- and Resting-State Brain Activity](https://doi.org/10.1093/cercor/bhad448). Cereb Cortex 34(2):bhad448.
