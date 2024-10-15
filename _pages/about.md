@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 ---
-My name is pronounced as 'Seen Dee.' My Chinese name is 邸新.  
+Hello! My name is pronounced as 'Seen Dee,' and my Chinese name is 邸新.
 
-I am a Research Assistant Professor in the Department of Biomedical Engineering, New Jersey Institute of Technology ([NJIT](https://people.njit.edu/faculty/dixin)). My research interest is mainly on understanding brain connectivity and brain network organizations using brain imaging techniques such as functional magnetic resonance imaging (fMRI). Click [here](https://www.dixin.info/research/) for details about my research.
+I am a Research Assistant Professor in the Department of Biomedical Engineering at the New Jersey Institute of Technology ([NJIT](https://people.njit.edu/faculty/dixin)). My research primarily focuses on understanding brain connectivity and the organization of brain networks using advanced neuroimaging techniques like functional magnetic resonance imaging (fMRI). For more details about my work, you can explore my [research page](https://www.dixin.info/research/).
 
-For more information, see my [CV](https://www.dixin.info/files/CV_XinDi.pdf). 
+If you're interested in my academic background and professional journey, please take a look at my [CV](https://www.dixin.info/files/CV_XinDi.pdf). 
 
 ### Current projects
 * **Exploring eye-movement patterns and brain activity in autism spectrum disorder through deep learning-based eye-tracking with functional MRI**: This project, funded by NJDOH, aims to validate the use of deep neural network models to extract eye gaze information from fMRI data and investigate gaze and brain activity alterations in autism spectrum disorder.
