@@ -21,7 +21,7 @@ If you're interested in my academic background and professional journey, please 
 
 ### Latest publications
 * <span style="color:red">Preprint:</span> [Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data](https://doi.org/10.1101/2024.06.02.597063) 
-* <span style="color:red">Preprint:</span> [Explorations of using a convolutional neural network to understand brain activations during movie watching](https://doi.org/10.1101/2024.01.20.576341)
+* <span style="color:red">New:</span> [Explorations of using a convolutional neural network to understand brain activations during movie watching](http://dx.doi.org/10.1093/psyrad/kkae021)
 * [The Significance and Limited Influence of Cerebrovascular Reactivity on Age and Sex Effects in Task- and Resting-State Brain Activity](https://doi.org/10.1093/cercor/bhad448)
 
 Click [here](https://www.dixin.info/publications/) for a full list of my publications
