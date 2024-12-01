@@ -18,10 +18,9 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 [1] Hafiz R, Gandhi TK, Misrhra S, Prasad A, Mahajan V, Natelson B, **Di X**, Biswal BB (2022). Assessing functional connectivity differences and work-related fatigue in surviving COVID-negative patients. [bioRxiv](https://doi.org/10.1101/2022.02.01.478677)
 
 ### Journal articles
-#### Forthcoming
-[67] Sohn W, **Di X**, Liang Z, Zhang Z, Biswal BB (accepted). Explorations of using a convolutional neural network to understand brain activations during movie watching. Psychoradiology [bioRxiv](https://doi.org/10.1101/2024.01.20.576341)
-
 #### 2024
+[67] Sohn W, **Di X**, Liang Z, Zhang Z, Biswal BB (2024). [Explorations of using a convolutional neural network to understand brain activations during movie watching](http://dx.doi.org/10.1093/psyrad/kkae021). Psychoradiology 4:kkae021.
+
 [66] **Di X**, Zhang L, Zhang Z, Biswal BB (2024). [Opportunities and Challenges in Connectivity Analysis for Task-Based fMRI](https://doi.org/10.1016/j.plrev.2024.08.011). Phys Life Rev 51:13-17.
 
 [65] Mittal P, Sao AK, Biswal BB, **Di X**, Dileep AD (2004). [Network-wise analysis of movie-specific information in dynamic functional connectivity using COBE](https://doi.org/10.1093/cercor/bhae170). Cereb Cortex 34(4):bhae170. 
