@@ -9,6 +9,8 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
 
 ### Working papers
+[6] **Di X**, Biswal BB, ADNI (2024). Comparing Intra- and Inter-individual Correlational Brain Connectivity from Functional and Structural Neuroimaging Data. [bioRxiv](https://doi.org/10.1101/2024.12.03.626661)
+
 [5] Severino M, et al. (2024). Molecular connectivity studies in neurotransmission: a scoping review. [ResearchSquare](https://doi.org/10.21203/rs.3.rs-5498198/v1)
 
 [4] Chen DY, **Di X**, Karunakaran KD, Sun H, Pal S, Biswal BB (2024). Delayed cerebrovascular reactivity in individuals with spinal cord injury in the right inferior parietal lobe: a breath-hold functional near-infrared spectroscopy study. [medRxiv](https://doi.org/10.1101/2024.06.03.24307819)
