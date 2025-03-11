@@ -9,19 +9,18 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
 
 ### Working papers
-[6] **Di X**, Biswal BB, ADNI (2024). Comparing Intra- and Inter-individual Correlational Brain Connectivity from Functional and Structural Neuroimaging Data. [bioRxiv](https://doi.org/10.1101/2024.12.03.626661)
+[4] **Di X**, Biswal BB, ADNI (2024). Comparing Intra- and Inter-individual Correlational Brain Connectivity from Functional and Structural Neuroimaging Data. [bioRxiv](https://doi.org/10.1101/2024.12.03.626661)
 
-[5] Severino M, et al. (2024). Molecular connectivity studies in neurotransmission: a scoping review. [ResearchSquare](https://doi.org/10.21203/rs.3.rs-5498198/v1)
+[3] Chen DY, **Di X**, Karunakaran KD, Sun H, Pal S, Biswal BB (2024). Delayed cerebrovascular reactivity in individuals with spinal cord injury in the right inferior parietal lobe: a breath-hold functional near-infrared spectroscopy study. [medRxiv](https://doi.org/10.1101/2024.06.03.24307819)
 
-[4] Chen DY, **Di X**, Karunakaran KD, Sun H, Pal S, Biswal BB (2024). Delayed cerebrovascular reactivity in individuals with spinal cord injury in the right inferior parietal lobe: a breath-hold functional near-infrared spectroscopy study. [medRxiv](https://doi.org/10.1101/2024.06.03.24307819)
+[2] **Di X**, Pratik Jain, Bharat B Biswal (2024). Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data. [bioRxiv](https://doi.org/10.1101/2024.06.02.597063)
 
-[3] **Di X**, Pratik Jain, Bharat B Biswal (2024). Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data. [bioRxiv](https://doi.org/10.1101/2024.06.02.597063)
-
-[2] Chen DY, **Di X**, Amaya N, Sun H, Pal S, Biswal BB (2024). Brain activation during the N-back working memory task in individuals with spinal cord injury: a functional near-infrared spectroscopy study. [bioRxiv](https://doi.org/10.1101/2024.02.09.579655)
-
-[1] Hafiz R, Gandhi TK, Misrhra S, Prasad A, Mahajan V, Natelson B, **Di X**, Biswal BB (2022). Assessing functional connectivity differences and work-related fatigue in surviving COVID-negative patients. [bioRxiv](https://doi.org/10.1101/2022.02.01.478677)
+[1] Chen DY, **Di X**, Amaya N, Sun H, Pal S, Biswal BB (2024). Brain activation during the N-back working memory task in individuals with spinal cord injury: a functional near-infrared spectroscopy study. [bioRxiv](https://doi.org/10.1101/2024.02.09.579655)
 
 ### Journal articles
+#### Forthcoming
+[68] Severino M, et al. (2024). Molecular connectivity studies in neurotransmission: a scoping review. Imaging Neuroscience [preprint](https://doi.org/10.21203/rs.3.rs-5498198/v1)
+
 #### 2024
 [67] Sohn W, **Di X**, Liang Z, Zhang Z, Biswal BB (2024). [Explorations of using a convolutional neural network to understand brain activations during movie watching](http://dx.doi.org/10.1093/psyrad/kkae021). Psychoradiology 4:kkae021.
 
@@ -178,6 +177,8 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 [1] **邸新**, 饶恒毅 (2007). [人脑功能连通性进展](http://www.pibb.ac.cn/pibbcn/ch/reader/view_abstract.aspx?file_no=20060557&flag=1). 生物化学与生物物理进展 34(1), 5-12.
 
 ### File drawer (No plan for submission)
+[2] Hafiz R, Gandhi TK, Misrhra S, Prasad A, Mahajan V, Natelson B, **Di X**, Biswal BB (2022). Assessing functional connectivity differences and work-related fatigue in surviving COVID-negative patients. [bioRxiv](https://doi.org/10.1101/2022.02.01.478677)
+
 [1] **Di X**, Biswal BB (2016): Sex-dependent and sex-independent brain resting-state functional connectivity in children with autism spectrum disorder. [bioRxiv](http://dx.doi.org/10.1101/038026)
 
 ### Conference abstracts
