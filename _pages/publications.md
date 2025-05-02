@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ------
-For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500). 
+For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500).
 
 ### Working papers
 [4] **Di X**, Biswal BB, ADNI (2024). Comparing Intra- and Inter-individual Correlational Brain Connectivity from Functional and Structural Neuroimaging Data. [bioRxiv](https://doi.org/10.1101/2024.12.03.626661) 
@@ -19,7 +19,7 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
-[68] Severino M, et al. (accepted). Molecular connectivity studies in neurotransmission: a scoping review. Imaging Neuroscience, [preprint](https://doi.org/10.21203/rs.3.rs-5498198/v1) 
+[68] Severino M, et al. (accepted). Molecular connectivity studies in neurotransmission: a scoping review. Imaging Neuroscience, [preprint](https://doi.org/10.21203/rs.3.rs-5498198/v1)
 
 #### 2024
 [67] Sohn W, **Di X**, Liang Z, Zhang Z, Biswal BB (2024). [Explorations of using a convolutional neural network to understand brain activations during movie watching](http://dx.doi.org/10.1093/psyrad/kkae021). Psychoradiology 4:kkae021.
