@@ -22,6 +22,8 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 [68] Severino M, et al. (accepted). Molecular connectivity studies in neurotransmission: a scoping review. Imaging Neuroscience, [preprint](https://doi.org/10.21203/rs.3.rs-5498198/v1)
 
 #### 2024
+[68] Severino M, et al. (2025). [Molecular connectivity studies in neurotransmission: a scoping review](https://doi.org/10.1162/imag_a_00530). Imaging Neuroscience 3:imag_a_00530.  
+
 [67] Sohn W, **Di X**, Liang Z, Zhang Z, Biswal BB (2024). [Explorations of using a convolutional neural network to understand brain activations during movie watching](http://dx.doi.org/10.1093/psyrad/kkae021). Psychoradiology 4:kkae021.
 
 [66] **Di X**, Zhang L, Zhang Z, Biswal BB (2024). [Opportunities and Challenges in Connectivity Analysis for Task-Based fMRI](https://doi.org/10.1016/j.plrev.2024.08.011). Phys Life Rev 51:13-17.
