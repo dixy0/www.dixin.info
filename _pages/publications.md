@@ -19,7 +19,7 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
-[68] Severino M, et al. (accepted). Molecular connectivity studies in neurotransmission: a scoping review. Imaging Neuroscience, [preprint](https://doi.org/10.21203/rs.3.rs-5498198/v1)
+Coming soon...
 
 #### 2024
 [68] Severino M, et al. (2025). [Molecular connectivity studies in neurotransmission: a scoping review](https://doi.org/10.1162/imag_a_00530). Imaging Neuroscience 3:imag_a_00530.  
