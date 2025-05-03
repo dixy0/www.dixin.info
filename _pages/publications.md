@@ -19,7 +19,7 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
-Coming soon...
+[69] Jain P, Michael AM, Wang P, **Di X**, Biswal BB (accepted). [WhiFuN: A Toolbox to Map the White Matter Functional Networks of the Human Brain](https://doi.org/10.1162/IMAG.a.3). Imaging Neuroscience   
 
 #### 2024
 [68] Severino M, et al. (2025). [Molecular connectivity studies in neurotransmission: a scoping review](https://doi.org/10.1162/imag_a_00530). Imaging Neuroscience 3:imag_a_00530.  
