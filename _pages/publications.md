@@ -9,21 +9,23 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500).
 
 ### Working papers
-[4] **Di X**, Biswal BB, ADNI (2024). Comparing Intra- and Inter-individual Correlational Brain Connectivity from Functional and Structural Neuroimaging Data. [bioRxiv](https://doi.org/10.1101/2024.12.03.626661) 
+[3] **Di X**, Biswal BB, ADNI (2024). Comparing Intra- and Inter-individual Correlational Brain Connectivity from Functional and Structural Neuroimaging Data. [bioRxiv](https://doi.org/10.1101/2024.12.03.626661) 
 
-[3] Chen DY, **Di X**, Karunakaran KD, Sun H, Pal S, Biswal BB (2024). Delayed cerebrovascular reactivity in individuals with spinal cord injury in the right inferior parietal lobe: a breath-hold functional near-infrared spectroscopy study. [medRxiv](https://doi.org/10.1101/2024.06.03.24307819)
-
-[2] **Di X**, Pratik Jain, Bharat B Biswal (2024). Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data. [bioRxiv](https://doi.org/10.1101/2024.06.02.597063)
+[2] Chen DY, **Di X**, Karunakaran KD, Sun H, Pal S, Biswal BB (2024). Delayed cerebrovascular reactivity in individuals with spinal cord injury in the right inferior parietal lobe: a breath-hold functional near-infrared spectroscopy study. [medRxiv](https://doi.org/10.1101/2024.06.03.24307819)
 
 [1] Chen DY, **Di X**, Amaya N, Sun H, Pal S, Biswal BB (2024). Brain activation during the N-back working memory task in individuals with spinal cord injury: a functional near-infrared spectroscopy study. [bioRxiv](https://doi.org/10.1101/2024.02.09.579655)
 
 ### Journal articles
 #### Forthcoming
-[69] Jain P, Michael AM, Wang P, **Di X**, Biswal BB (accepted). [WhiFuN: A Toolbox to Map the White Matter Functional Networks of the Human Brain](https://doi.org/10.1162/IMAG.a.3). Imaging Neuroscience   
 
-#### 2024
+[70] **Di X**, Pratik Jain, Bharat B Biswal (accepted). Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data. Brain Connectivity [bioRxiv](https://doi.org/10.1101/2024.06.02.597063)
+
+#### 2025
+[69] Jain P, Michael AM, Wang P, **Di X**, Biswal BB (2025). [WhiFuN: A Toolbox to Map the White Matter Functional Networks of the Human Brain](https://doi.org/10.1162/IMAG.a.3). Imaging Neuroscience 3:IMAG.a.3.
+
 [68] Severino M, et al. (2025). [Molecular connectivity studies in neurotransmission: a scoping review](https://doi.org/10.1162/imag_a_00530). Imaging Neuroscience 3:imag_a_00530.  
 
+#### 2024
 [67] Sohn W, **Di X**, Liang Z, Zhang Z, Biswal BB (2024). [Explorations of using a convolutional neural network to understand brain activations during movie watching](http://dx.doi.org/10.1093/psyrad/kkae021). Psychoradiology 4:kkae021.
 
 [66] **Di X**, Zhang L, Zhang Z, Biswal BB (2024). [Opportunities and Challenges in Connectivity Analysis for Task-Based fMRI](https://doi.org/10.1016/j.plrev.2024.08.011). Phys Life Rev 51:13-17.
