@@ -17,8 +17,9 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
+[71] **Di X**, Pratik Jain, Bharat B Biswal (accepted). Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data. Brain Connectivity [bioRxiv](https://doi.org/10.1101/2024.06.02.597063)
 
-[70] **Di X**, Pratik Jain, Bharat B Biswal (accepted). Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data. Brain Connectivity [bioRxiv](https://doi.org/10.1101/2024.06.02.597063)
+[70] Galli A, Inglese M, Presotto L, Malito R, **Di X**, Toschi N, Pilotto A, Padovani A, Tassorelli C, Perani D, Sala A, Caminiti SP (2025). [Glucose metabolism in hyper-connected regions predicts neurodegeneration and speed of conversion in Alzheimer's disease](https://doi.org/10.1007/s00259-025-07379-9). Eur J Nucl Med Mol Imaging doi: 10.1007/s00259-025-07379-9.
 
 #### 2025
 [69] Jain P, Michael AM, Wang P, **Di X**, Biswal BB (2025). [WhiFuN: A Toolbox to Map the White Matter Functional Networks of the Human Brain](https://doi.org/10.1162/IMAG.a.3). Imaging Neuroscience 3:IMAG.a.3.
