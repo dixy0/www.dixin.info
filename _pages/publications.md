@@ -9,14 +9,14 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500).
 
 ### Working papers
-[3] **Di X**, Biswal BB, ADNI (2024). Comparing Intra- and Inter-individual Correlational Brain Connectivity from Functional and Structural Neuroimaging Data. [bioRxiv](https://doi.org/10.1101/2024.12.03.626661) 
-
 [2] Chen DY, **Di X**, Karunakaran KD, Sun H, Pal S, Biswal BB (2024). Delayed cerebrovascular reactivity in individuals with spinal cord injury in the right inferior parietal lobe: a breath-hold functional near-infrared spectroscopy study. [medRxiv](https://doi.org/10.1101/2024.06.03.24307819)
 
 [1] Chen DY, **Di X**, Amaya N, Sun H, Pal S, Biswal BB (2024). Brain activation during the N-back working memory task in individuals with spinal cord injury: a functional near-infrared spectroscopy study. [bioRxiv](https://doi.org/10.1101/2024.02.09.579655)
 
 ### Journal articles
 #### Forthcoming
+[72] **Di X**, Biswal BB, ADNI (accepted). Comparing Intra- and Inter-individual Correlational Brain Connectivity from Functional and Structural Neuroimaging Data. Brain Struct Funct [bioRxiv](https://doi.org/10.1101/2024.12.03.626661) 
+
 [71] **Di X**, Pratik Jain, Bharat B Biswal (accepted). Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data. Brain Connectivity [bioRxiv](https://doi.org/10.1101/2024.06.02.597063)
 
 [70] Galli A, Inglese M, Presotto L, Malito R, **Di X**, Toschi N, Pilotto A, Padovani A, Tassorelli C, Perani D, Sala A, Caminiti SP (2025). [Glucose metabolism in hyper-connected regions predicts neurodegeneration and speed of conversion in Alzheimer's disease](https://doi.org/10.1007/s00259-025-07379-9). Eur J Nucl Med Mol Imaging doi: 10.1007/s00259-025-07379-9.
