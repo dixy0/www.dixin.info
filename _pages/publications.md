@@ -15,9 +15,9 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Journal articles
 #### Forthcoming
-[72] **Di X**, Biswal BB, ADNI (accepted). Comparing Intra- and Inter-individual Correlational Brain Connectivity from Functional and Structural Neuroimaging Data. Brain Struct Funct [bioRxiv](https://doi.org/10.1101/2024.12.03.626661) 
+[72] **Di X**, Biswal BB, ADNI (2025). [Comparing Intra- and Inter-individual Correlational Brain Connectivity from Functional and Structural Neuroimaging Data](https://doi.org/10.1007/s00429-025-02972-y). Brain Struct Funct 230:113.
 
-[71] **Di X**, Pratik Jain, Bharat B Biswal (accepted). Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data. Brain Connectivity [bioRxiv](https://doi.org/10.1101/2024.06.02.597063)
+[71] **Di X**, Pratik Jain, Bharat B Biswal (2025). [Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data](https://doi.org/10.1089/brain.2024.0044). Brain Connectivity.
 
 [70] Galli A, Inglese M, Presotto L, Malito R, **Di X**, Toschi N, Pilotto A, Padovani A, Tassorelli C, Perani D, Sala A, Caminiti SP (2025). [Glucose metabolism in hyper-connected regions predicts neurodegeneration and speed of conversion in Alzheimer's disease](https://doi.org/10.1007/s00259-025-07379-9). Eur J Nucl Med Mol Imaging doi: 10.1007/s00259-025-07379-9.
 
