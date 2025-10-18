@@ -9,16 +9,16 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500).
 
 ### Working papers
-[3] Chen DY, **Di X**, Karunakaran KD, Sun H, Pal S, Biswal BB (2024). Delayed cerebrovascular reactivity in individuals with spinal cord injury in the right inferior parietal lobe: a breath-hold functional near-infrared spectroscopy study. [medRxiv](https://doi.org/10.1101/2024.06.03.24307819)
+[2] Chen DY, **Di X**, Karunakaran KD, Sun H, Pal S, Biswal BB (2024). Delayed cerebrovascular reactivity in individuals with spinal cord injury in the right inferior parietal lobe: a breath-hold functional near-infrared spectroscopy study. [medRxiv](https://doi.org/10.1101/2024.06.03.24307819)
 
-[2] Chen DY, **Di X**, Amaya N, Sun H, Pal S, Biswal BB (2024). Brain activation during the N-back working memory task in individuals with spinal cord injury: a functional near-infrared spectroscopy study. [bioRxiv](htComtps://doi.org/10.1101/2024.02.09.579655)
-
-[1] Hu Z, **Di X** and Yang Z (2023). [Editorial: Shared responses and individual differences in the human brain during naturalistic stimulations](https://doi.org/10.3389/fnhum.2023.1201728). Front Hum Neurosci 17:1201728. 
+[1] Chen DY, **Di X**, Amaya N, Sun H, Pal S, Biswal BB (2024). Brain activation during the N-back working memory task in individuals with spinal cord injury: a functional near-infrared spectroscopy study. [bioRxiv](htComtps://doi.org/10.1101/2024.02.09.579655)
 
 ### Reviews and Comentary 
-[2] **Di X**, Xu T, Miao X (2026). Future perspectives of functional connectivity: Advances in data acquisition and analysis. In Functional Connectivity of the Human Brain (pp. 281-309). Academic Press.
+[3] **Di X**, Xu T, Miao X (2026). Future perspectives of functional connectivity: Advances in data acquisition and analysis. In Functional Connectivity of the Human Brain (pp. 281-309). Academic Press.
 
-[1] **Di X**, Zhang L, Zhang Z, Biswal BB (2024). [Opportunities and Challenges in Connectivity Analysis for Task-Based fMRI](https://doi.org/10.1016/j.plrev.2024.08.011). Phys Life Rev 51:13-17.
+[2] **Di X**, Zhang L, Zhang Z, Biswal BB (2024). [Opportunities and Challenges in Connectivity Analysis for Task-Based fMRI](https://doi.org/10.1016/j.plrev.2024.08.011). Phys Life Rev 51:13-17.
+
+[1] Hu Z, **Di X** and Yang Z (2023). [Editorial: Shared responses and individual differences in the human brain during naturalistic stimulations](https://doi.org/10.3389/fnhum.2023.1201728). Front Hum Neurosci 17:1201728. 
 
 ### Research articles
 #### Forthcoming
