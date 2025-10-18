@@ -48,7 +48,7 @@ This line of research focuses on brain metabolic connectivity as measured by FDG
 ### Current
 * NJDOH CAUT25BRP005, 2024 - 2026, PI. Exploring eye-movement patterns and brain activity in autism spectrum disorder through deep learning-based eye-tracking with functional MRI
 
-* NIH R15MH125332, 2021 - 2024, PI. Functional brain developments during movie watching and resting-state in autism spectrum disorder
-
 ### Past
-* NJDOH CAUT16APL019, 2016 - 2018, PI. Multimodal neuroimaging study of sex differences in children with autism spectrum disorder.
+* NIH R15MH125332, 2021 - 2025, PI. Functional brain developments during movie watching and resting-state in autism spectrum disorder
+
+* NJDOH CAUT16APL019, 2016 - 2018, PI. Multimodal neuroimaging study of sex differences in children with autism spectrum disorder 
