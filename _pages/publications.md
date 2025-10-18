@@ -9,40 +9,43 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500).
 
 ### Working papers
-[2] Chen DY, **Di X**, Karunakaran KD, Sun H, Pal S, Biswal BB (2024). Delayed cerebrovascular reactivity in individuals with spinal cord injury in the right inferior parietal lobe: a breath-hold functional near-infrared spectroscopy study. [medRxiv](https://doi.org/10.1101/2024.06.03.24307819)
+[3] Chen DY, **Di X**, Karunakaran KD, Sun H, Pal S, Biswal BB (2024). Delayed cerebrovascular reactivity in individuals with spinal cord injury in the right inferior parietal lobe: a breath-hold functional near-infrared spectroscopy study. [medRxiv](https://doi.org/10.1101/2024.06.03.24307819)
 
-[1] Chen DY, **Di X**, Amaya N, Sun H, Pal S, Biswal BB (2024). Brain activation during the N-back working memory task in individuals with spinal cord injury: a functional near-infrared spectroscopy study. [bioRxiv](https://doi.org/10.1101/2024.02.09.579655)
+[2] Chen DY, **Di X**, Amaya N, Sun H, Pal S, Biswal BB (2024). Brain activation during the N-back working memory task in individuals with spinal cord injury: a functional near-infrared spectroscopy study. [bioRxiv](htComtps://doi.org/10.1101/2024.02.09.579655)
 
-### Journal articles
+[1] Hu Z, **Di X** and Yang Z (2023). [Editorial: Shared responses and individual differences in the human brain during naturalistic stimulations](https://doi.org/10.3389/fnhum.2023.1201728). Front Hum Neurosci 17:1201728. 
+
+### Reviews and Comentary 
+[2] **Di X**, Xu T, Miao X (2026). Future perspectives of functional connectivity: Advances in data acquisition and analysis. In Functional Connectivity of the Human Brain (pp. 281-309). Academic Press.
+
+[1] **Di X**, Zhang L, Zhang Z, Biswal BB (2024). [Opportunities and Challenges in Connectivity Analysis for Task-Based fMRI](https://doi.org/10.1016/j.plrev.2024.08.011). Phys Life Rev 51:13-17.
+
+### Research articles
 #### Forthcoming
-[72] **Di X**, Biswal BB, ADNI (2025). [Comparing Intra- and Inter-individual Correlational Brain Connectivity from Functional and Structural Neuroimaging Data](https://doi.org/10.1007/s00429-025-02972-y). Brain Struct Funct 230:113.
+[70] **Di X**, Biswal BB, ADNI (2025). [Comparing Intra- and Inter-individual Correlational Brain Connectivity from Functional and Structural Neuroimaging Data](https://doi.org/10.1007/s00429-025-02972-y). Brain Struct Funct 230:113.
 
-[71] **Di X**, Pratik Jain, Bharat B Biswal (2025). [Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data](https://doi.org/10.1089/brain.2024.0044). Brain Connectivity.
+[69] **Di X**, Pratik Jain, Bharat B Biswal (2025). [Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data](https://doi.org/10.1089/brain.2024.0044). Brain Connectivity.
 
-[70] Galli A, Inglese M, Presotto L, Malito R, **Di X**, Toschi N, Pilotto A, Padovani A, Tassorelli C, Perani D, Sala A, Caminiti SP (2025). [Glucose metabolism in hyper-connected regions predicts neurodegeneration and speed of conversion in Alzheimer's disease](https://doi.org/10.1007/s00259-025-07379-9). Eur J Nucl Med Mol Imaging doi: 10.1007/s00259-025-07379-9.
+[68] Galli A, Inglese M, Presotto L, Malito R, **Di X**, Toschi N, Pilotto A, Padovani A, Tassorelli C, Perani D, Sala A, Caminiti SP (2025). [Glucose metabolism in hyper-connected regions predicts neurodegeneration and speed of conversion in Alzheimer's disease](https://doi.org/10.1007/s00259-025-07379-9). Eur J Nucl Med Mol Imaging doi: 10.1007/s00259-025-07379-9.
 
 #### 2025
-[69] Jain P, Michael AM, Wang P, **Di X**, Biswal BB (2025). [WhiFuN: A Toolbox to Map the White Matter Functional Networks of the Human Brain](https://doi.org/10.1162/IMAG.a.3). Imaging Neuroscience 3:IMAG.a.3.
+[67] Jain P, Michael AM, Wang P, **Di X**, Biswal BB (2025). [WhiFuN: A Toolbox to Map the White Matter Functional Networks of the Human Brain](https://doi.org/10.1162/IMAG.a.3). Imaging Neuroscience 3:IMAG.a.3.
 
-[68] Severino M, et al. (2025). [Molecular connectivity studies in neurotransmission: a scoping review](https://doi.org/10.1162/imag_a_00530). Imaging Neuroscience 3:imag_a_00530.  
+[66] Severino M, et al. (2025). [Molecular connectivity studies in neurotransmission: a scoping review](https://doi.org/10.1162/imag_a_00530). Imaging Neuroscience 3:imag_a_00530.  
 
 #### 2024
-[67] Sohn W, **Di X**, Liang Z, Zhang Z, Biswal BB (2024). [Explorations of using a convolutional neural network to understand brain activations during movie watching](http://dx.doi.org/10.1093/psyrad/kkae021). Psychoradiology 4:kkae021.
+[65] Sohn W, **Di X**, Liang Z, Zhang Z, Biswal BB (2024). [Explorations of using a convolutional neural network to understand brain activations during movie watching](http://dx.doi.org/10.1093/psyrad/kkae021). Psychoradiology 4:kkae021.
 
-[66] **Di X**, Zhang L, Zhang Z, Biswal BB (2024). [Opportunities and Challenges in Connectivity Analysis for Task-Based fMRI](https://doi.org/10.1016/j.plrev.2024.08.011). Phys Life Rev 51:13-17.
+[64] Mittal P, Sao AK, Biswal BB, **Di X**, Dileep AD (2004). [Network-wise analysis of movie-specific information in dynamic functional connectivity using COBE](https://doi.org/10.1093/cercor/bhae170). Cereb Cortex 34(4):bhae170. 
 
-[65] Mittal P, Sao AK, Biswal BB, **Di X**, Dileep AD (2004). [Network-wise analysis of movie-specific information in dynamic functional connectivity using COBE](https://doi.org/10.1093/cercor/bhae170). Cereb Cortex 34(4):bhae170. 
+[63] Chen DY, **Di X**, Yu X, Biswal BB (2024). [The Significance and Limited Influence of Cerebrovascular Reactivity on Age and Sex Effects in Task- and Resting-State Brain Activity](https://doi.org/10.1093/cercor/bhad448). Cereb Cortex 34(2):bhad448.
 
-[64] Chen DY, **Di X**, Yu X, Biswal BB (2024). [The Significance and Limited Influence of Cerebrovascular Reactivity on Age and Sex Effects in Task- and Resting-State Brain Activity](https://doi.org/10.1093/cercor/bhad448). Cereb Cortex 34(2):bhad448.
-
-[63] Chen DY, **Di X**, Biswal BB (2024). [Cerebrovascular reactivity increases across development in multiple networks as revealed by a breath-holding task: a longitudinal fMRI study](https://doi.org/10.1002/hbm.26515). Hum Brain Mapp 45(1):e26515.
+[62] Chen DY, **Di X**, Biswal BB (2024). [Cerebrovascular reactivity increases across development in multiple networks as revealed by a breath-holding task: a longitudinal fMRI study](https://doi.org/10.1002/hbm.26515). Hum Brain Mapp 45(1):e26515.
 
 #### 2023
-[62] Zhang H, Meng C, **Di X**, Wu X, Biswal BB (2023). [Static and Dynamic Functional Connectome Reveals Reconfiguration Profiles of Whole Brain Network across Cognitive States](https://doi.org/10.1162/netn_a_00314). Network Neuroscience 7(3):1034–1050.
+[61] Zhang H, Meng C, **Di X**, Wu X, Biswal BB (2023). [Static and Dynamic Functional Connectome Reveals Reconfiguration Profiles of Whole Brain Network across Cognitive States](https://doi.org/10.1162/netn_a_00314). Network Neuroscience 7(3):1034–1050.
 
-[61] **Di X**, Xu T, Uddin LQ, Biswal BB (2023). [Individual differences in time-varying and stationary brain connectivity during movie watching from childhood to early adulthood: age, sex, and behavioral associations](https://doi.org/10.1016/j.dcn.2023.101280). Dev Cogn Neurosci 63:101280.
-
-[60] Hu Z, **Di X** and Yang Z (2023). [Editorial: Shared responses and individual differences in the human brain during naturalistic stimulations](https://doi.org/10.3389/fnhum.2023.1201728). Front Hum Neurosci 17:1201728. 
+[60] **Di X**, Xu T, Uddin LQ, Biswal BB (2023). [Individual differences in time-varying and stationary brain connectivity during movie watching from childhood to early adulthood: age, sex, and behavioral associations](https://doi.org/10.1016/j.dcn.2023.101280). Dev Cogn Neurosci 63:101280.
 
 [59] Zhang H, **Di X**, Rypma B, Yang H, Meng C, Biswal BB (2023). [Interaction between memory load and experimental design on brain connectivity and network topology](https://doi.org/10.1007/s12264-022-00982-y). Neurosci Bull 39:631–644.
 
