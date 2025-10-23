@@ -13,161 +13,162 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 [1] Chen DY, **Di X**, Amaya N, Sun H, Pal S, Biswal BB (2024). Brain activation during the N-back working memory task in individuals with spinal cord injury: a functional near-infrared spectroscopy study. [bioRxiv](htComtps://doi.org/10.1101/2024.02.09.579655)
 
-### Reviews and Comentary 
-[3] **Di X**, Xu T, Miao X (2026). [Future perspectives of functional connectivity: Advances in data acquisition and analysis](https://doi.org/10.1016/B978-0-443-19099-5.00020-9). In Functional Connectivity of the Human Brain (pp. 281-309). Academic Press.
+### Reviews and Comentaries
+[5] **Di X**, Xu T, Miao X (2026). [Future perspectives of functional connectivity: Advances in data acquisition and analysis](https://doi.org/10.1016/B978-0-443-19099-5.00020-9). In Functional Connectivity of the Human Brain (pp. 281-309). Academic Press.
 
-[2] **Di X**, Zhang L, Zhang Z, Biswal BB (2024). [Opportunities and Challenges in Connectivity Analysis for Task-Based fMRI](https://doi.org/10.1016/j.plrev.2024.08.011). Phys Life Rev 51:13-17.
+[4] Severino M, et al. (2025). [Molecular connectivity studies in neurotransmission: a scoping review](https://doi.org/10.1162/imag_a_00530). Imaging Neuroscience 3:imag_a_00530.  
 
-[1] Hu Z, **Di X** and Yang Z (2023). [Editorial: Shared responses and individual differences in the human brain during naturalistic stimulations](https://doi.org/10.3389/fnhum.2023.1201728). Front Hum Neurosci 17:1201728. 
+[3] **Di X**, Zhang L, Zhang Z, Biswal BB (2024). [Opportunities and Challenges in Connectivity Analysis for Task-Based fMRI](https://doi.org/10.1016/j.plrev.2024.08.011). Phys Life Rev 51:13-17.
+
+[2] Hu Z, **Di X** and Yang Z (2023). [Editorial: Shared responses and individual differences in the human brain during naturalistic stimulations](https://doi.org/10.3389/fnhum.2023.1201728). Front Hum Neurosci 17:1201728. 
+
+[1] Qian C, **Di X** (2011). [Phase or amplitude? The relationship between ongoing and evoked neural activity](https://doi.org/10.1523/JNEUROSCI.2197-11.2011). J Neurosci 31(29):10425-10426.
 
 ### Research articles
-#### Forthcoming
-[70] **Di X**, Biswal BB, ADNI (2025). [Comparing Intra- and Inter-individual Correlational Brain Connectivity from Functional and Structural Neuroimaging Data](https://doi.org/10.1007/s00429-025-02972-y). Brain Struct Funct 230:113.
-
-[69] **Di X**, Pratik Jain, Bharat B Biswal (2025). [Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data](https://doi.org/10.1089/brain.2024.0044). Brain Connectivity.
-
-[68] Galli A, Inglese M, Presotto L, Malito R, **Di X**, Toschi N, Pilotto A, Padovani A, Tassorelli C, Perani D, Sala A, Caminiti SP (2025). [Glucose metabolism in hyper-connected regions predicts neurodegeneration and speed of conversion in Alzheimer's disease](https://doi.org/10.1007/s00259-025-07379-9). Eur J Nucl Med Mol Imaging doi: 10.1007/s00259-025-07379-9.
-
 #### 2025
-[67] Jain P, Michael AM, Wang P, **Di X**, Biswal BB (2025). [WhiFuN: A Toolbox to Map the White Matter Functional Networks of the Human Brain](https://doi.org/10.1162/IMAG.a.3). Imaging Neuroscience 3:IMAG.a.3.
+[68] **Di X**, Biswal BB, ADNI (2025). [Comparing Intra- and Inter-individual Correlational Brain Connectivity from Functional and Structural Neuroimaging Data](https://doi.org/10.1007/s00429-025-02972-y). Brain Struct Funct 230:113.
 
-[66] Severino M, et al. (2025). [Molecular connectivity studies in neurotransmission: a scoping review](https://doi.org/10.1162/imag_a_00530). Imaging Neuroscience 3:imag_a_00530.  
+[67] **Di X**, Pratik Jain, Bharat B Biswal (2025). [Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data](https://doi.org/10.1089/brain.2024.0044). Brain Connectivity 15(6):207–216.
+
+[66] Galli A, Inglese M, Presotto L, Malito R, **Di X**, Toschi N, Pilotto A, Padovani A, Tassorelli C, Perani D, Sala A, Caminiti SP (2025). [Glucose metabolism in hyper-connected regions predicts neurodegeneration and speed of conversion in Alzheimer's disease](https://doi.org/10.1007/s00259-025-07379-9). Eur J Nucl Med Mol Imaging 52:4639–4651.
+
+[65] Jain P, Michael AM, Wang P, **Di X**, Biswal BB (2025). [WhiFuN: A Toolbox to Map the White Matter Functional Networks of the Human Brain](https://doi.org/10.1162/IMAG.a.3). Imaging Neuroscience 3:IMAG.a.3.
 
 #### 2024
-[65] Sohn W, **Di X**, Liang Z, Zhang Z, Biswal BB (2024). [Explorations of using a convolutional neural network to understand brain activations during movie watching](http://dx.doi.org/10.1093/psyrad/kkae021). Psychoradiology 4:kkae021.
+[64] Sohn W, **Di X**, Liang Z, Zhang Z, Biswal BB (2024). [Explorations of using a convolutional neural network to understand brain activations during movie watching](http://dx.doi.org/10.1093/psyrad/kkae021). Psychoradiology 4:kkae021.
 
-[64] Mittal P, Sao AK, Biswal BB, **Di X**, Dileep AD (2004). [Network-wise analysis of movie-specific information in dynamic functional connectivity using COBE](https://doi.org/10.1093/cercor/bhae170). Cereb Cortex 34(4):bhae170. 
+[63] Mittal P, Sao AK, Biswal BB, **Di X**, Dileep AD (2004). [Network-wise analysis of movie-specific information in dynamic functional connectivity using COBE](https://doi.org/10.1093/cercor/bhae170). Cereb Cortex 34(4):bhae170. 
 
-[63] Chen DY, **Di X**, Yu X, Biswal BB (2024). [The Significance and Limited Influence of Cerebrovascular Reactivity on Age and Sex Effects in Task- and Resting-State Brain Activity](https://doi.org/10.1093/cercor/bhad448). Cereb Cortex 34(2):bhad448.
+[62] Chen DY, **Di X**, Yu X, Biswal BB (2024). [The Significance and Limited Influence of Cerebrovascular Reactivity on Age and Sex Effects in Task- and Resting-State Brain Activity](https://doi.org/10.1093/cercor/bhad448). Cereb Cortex 34(2):bhad448.
 
-[62] Chen DY, **Di X**, Biswal BB (2024). [Cerebrovascular reactivity increases across development in multiple networks as revealed by a breath-holding task: a longitudinal fMRI study](https://doi.org/10.1002/hbm.26515). Hum Brain Mapp 45(1):e26515.
+[61] Chen DY, **Di X**, Biswal BB (2024). [Cerebrovascular reactivity increases across development in multiple networks as revealed by a breath-holding task: a longitudinal fMRI study](https://doi.org/10.1002/hbm.26515). Hum Brain Mapp 45(1):e26515.
 
 #### 2023
-[61] Zhang H, Meng C, **Di X**, Wu X, Biswal BB (2023). [Static and Dynamic Functional Connectome Reveals Reconfiguration Profiles of Whole Brain Network across Cognitive States](https://doi.org/10.1162/netn_a_00314). Network Neuroscience 7(3):1034–1050.
+[60] Zhang H, Meng C, **Di X**, Wu X, Biswal BB (2023). [Static and Dynamic Functional Connectome Reveals Reconfiguration Profiles of Whole Brain Network across Cognitive States](https://doi.org/10.1162/netn_a_00314). Network Neuroscience 7(3):1034–1050.
 
-[60] **Di X**, Xu T, Uddin LQ, Biswal BB (2023). [Individual differences in time-varying and stationary brain connectivity during movie watching from childhood to early adulthood: age, sex, and behavioral associations](https://doi.org/10.1016/j.dcn.2023.101280). Dev Cogn Neurosci 63:101280.
+[59] **Di X**, Xu T, Uddin LQ, Biswal BB (2023). [Individual differences in time-varying and stationary brain connectivity during movie watching from childhood to early adulthood: age, sex, and behavioral associations](https://doi.org/10.1016/j.dcn.2023.101280). Dev Cogn Neurosci 63:101280.
 
-[59] Zhang H, **Di X**, Rypma B, Yang H, Meng C, Biswal BB (2023). [Interaction between memory load and experimental design on brain connectivity and network topology](https://doi.org/10.1007/s12264-022-00982-y). Neurosci Bull 39:631–644.
+[58] Zhang H, **Di X**, Rypma B, Yang H, Meng C, Biswal BB (2023). [Interaction between memory load and experimental design on brain connectivity and network topology](https://doi.org/10.1007/s12264-022-00982-y). Neurosci Bull 39:631–644.
 
-[58] **Di X**, Biswal BB (2023). [A functional MRI preprocessing and quality control protocol based on statistical parametric mapping (SPM) and MATLAB](https://www.frontiersin.org/articles/10.3389/fnimg.2022.1070151/abstract). Front Neuroimaging 1:1070151.
+[57] **Di X**, Biswal BB (2023). [A functional MRI preprocessing and quality control protocol based on statistical parametric mapping (SPM) and MATLAB](https://www.frontiersin.org/articles/10.3389/fnimg.2022.1070151/abstract). Front Neuroimaging 1:1070151.
 
 #### 2022
-[57] **Di X**, Zhang Z, Xu T, Biswal BB (2022). [Dynamic and stationary brain connectivity during movie watching as revealed by functional MRI](https://doi.org/10.1007/s00429-022-02522-w). Brain Struct Funct 227:2299–2312.
+[56] **Di X**, Zhang Z, Xu T, Biswal BB (2022). [Dynamic and stationary brain connectivity during movie watching as revealed by functional MRI](https://doi.org/10.1007/s00429-022-02522-w). Brain Struct Funct 227:2299–2312.
 
-[56] Yang H, Zhang H, Meng C, Wohlschläger A, Brandl F, **Di X**, Tian L, Biswal BB (2022). [Frequency-specific coactivation patterns in resting-state and their alterations in schizophrenia: an fMRI study](https://doi.org/10.1002/hbm.25884). Hum Brain Mapp 43(12):3792-3808.
+[55] Yang H, Zhang H, Meng C, Wohlschläger A, Brandl F, **Di X**, Tian L, Biswal BB (2022). [Frequency-specific coactivation patterns in resting-state and their alterations in schizophrenia: an fMRI study](https://doi.org/10.1002/hbm.25884). Hum Brain Mapp 43(12):3792-3808.
 
-[55] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (2022). [Estimations of the weather effects on brain functions using functional MRI: a cautionary note](https://doi.org/10.1002/hbm.25576). Hum Brain Mapp 43(11):3346-3356.
+[54] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (2022). [Estimations of the weather effects on brain functions using functional MRI: a cautionary note](https://doi.org/10.1002/hbm.25576). Hum Brain Mapp 43(11):3346-3356.
 
-[54] **Di X**, Biswal BB (2022). [Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults](https://doi.org/10.1002/hbm.25568). Hum Brain Mapp 43(11):3332-3345.
+[53] **Di X**, Biswal BB (2022). [Principal component analysis reveals multiple consistent responses to naturalistic stimuli in children and adults](https://doi.org/10.1002/hbm.25568). Hum Brain Mapp 43(11):3332-3345.
 
-[53] Li M, Danyeli LV, Colic L, Wagner G, Smesny S, Chand T, **Di X**, Biswal BB, Kaufmann J, Reichenbach JR, Speck O, Walter M, Sen ZD (2022). [The differential association between local neurotransmitter levels and whole-brain resting-state functional connectivity in two distinct cingulate cortex subregions](https://doi.org/10.1002/hbm.25819). Hum Brain Mapp 43(9):2833-2844.
+[52] Li M, Danyeli LV, Colic L, Wagner G, Smesny S, Chand T, **Di X**, Biswal BB, Kaufmann J, Reichenbach JR, Speck O, Walter M, Sen ZD (2022). [The differential association between local neurotransmitter levels and whole-brain resting-state functional connectivity in two distinct cingulate cortex subregions](https://doi.org/10.1002/hbm.25819). Hum Brain Mapp 43(9):2833-2844.
 
-[52] Hafiz R, Gandhi TK, Mishra S, Prasad A, Mahajan V, **Di X**, Natelson BH, Biswal BB (2022). [Higher Limbic and Basal Ganglia volumes in surviving COVID-negative patients and the relations to fatigue](https://doi.org/10.1016/j.ynirp.2022.100095). Neuroimage:Reports 2(2):100095.
+[51] Hafiz R, Gandhi TK, Mishra S, Prasad A, Mahajan V, **Di X**, Natelson BH, Biswal BB (2022). [Higher Limbic and Basal Ganglia volumes in surviving COVID-negative patients and the relations to fatigue](https://doi.org/10.1016/j.ynirp.2022.100095). Neuroimage:Reports 2(2):100095.
 
-[51] Li L, **Di X**, Zhang H, Huang G, Zhang L; Liang Z, Zhang Z (2022). [Characterization of whole-brain task-modulated functional connectivity in response to nociceptive pain: A multisensory comparison study](https://doi.org/10.1002/hbm.25707). Hum Brain Mapp 43(3):1061-1075.
+[50] Li L, **Di X**, Zhang H, Huang G, Zhang L; Liang Z, Zhang Z (2022). [Characterization of whole-brain task-modulated functional connectivity in response to nociceptive pain: A multisensory comparison study](https://doi.org/10.1002/hbm.25707). Hum Brain Mapp 43(3):1061-1075.
 
-[50] Wu Z, Cao M, **Di X**, Wu K, Gao Y, Li X (2022). [Regional Topological Aberrances of White Matter- and Gray Matter-based Functional Networks for Attention Processing may Foster Traumatic Brain Injury-Related Attention Deficits in Adults](https://doi.org/10.3390/brainsci12010016). Brain Sci 12(1), 16. 
+[49] Wu Z, Cao M, **Di X**, Wu K, Gao Y, Li X (2022). [Regional Topological Aberrances of White Matter- and Gray Matter-based Functional Networks for Attention Processing may Foster Traumatic Brain Injury-Related Attention Deficits in Adults](https://doi.org/10.3390/brainsci12010016). Brain Sci 12(1), 16. 
 
 #### 2021
-[49] Yang H, Zhang H, **Di X**, Wang S, Meng C, Tian L, Biswal BB (2021). [Reproducible Coactivation Patterns of Functional Brain Networks Reveal the Aberrant Dynamic State Transition in Schizophrenia](https://doi.org/10.1016/j.neuroimage.2021.118193). Neuroimage 237:118193. 
+[48] Yang H, Zhang H, **Di X**, Wang S, Meng C, Tian L, Biswal BB (2021). [Reproducible Coactivation Patterns of Functional Brain Networks Reveal the Aberrant Dynamic State Transition in Schizophrenia](https://doi.org/10.1016/j.neuroimage.2021.118193). Neuroimage 237:118193. 
 
-[48] **Di X**, Zhang Z, Biswal BB (2021). [Understanding psychophysiological interaction and its relations to beta series correlation](https://doi.org/10.1007/s11682-020-00304-8). Brain Imaging Behav 15:958–973.
+[47] **Di X**, Zhang Z, Biswal BB (2021). [Understanding psychophysiological interaction and its relations to beta series correlation](https://doi.org/10.1007/s11682-020-00304-8). Brain Imaging Behav 15:958–973.
 
 #### 2020
-[47] Woelfer M, Li M, Colic L, Liebe T, **Di X**, Biswal B, Murrough J, Lessmann V, Brigadski T, Walter M (2020). [Ketamine-induced changes in plasma brain-derived neurotrophic factor (BDNF) levels are associated with the resting-state functional connectivity of the prefrontal cortex](https://doi.org/10.1080/15622975.2019.1679391). World J Biol Psychia 21(9):696-710.  
+[46] Woelfer M, Li M, Colic L, Liebe T, **Di X**, Biswal B, Murrough J, Lessmann V, Brigadski T, Walter M (2020). [Ketamine-induced changes in plasma brain-derived neurotrophic factor (BDNF) levels are associated with the resting-state functional connectivity of the prefrontal cortex](https://doi.org/10.1080/15622975.2019.1679391). World J Biol Psychia 21(9):696-710.  
 
-[46] Klugah-Brown B, **Di X**, Zweerings J, Mathiak K, Becker B, Biswal B (2020). [Common and separable neural alterations in substance use disorders: A coordinate‐based meta‐analyses of functional neuroimaging studies in humans](https://doi.org/10.1002/hbm.25085). Hum Brain Mapp 41(16):4459-4477.
+[45] Klugah-Brown B, **Di X**, Zweerings J, Mathiak K, Becker B, Biswal B (2020). [Common and separable neural alterations in substance use disorders: A coordinate‐based meta‐analyses of functional neuroimaging studies in humans](https://doi.org/10.1002/hbm.25085). Hum Brain Mapp 41(16):4459-4477.
 
-[45] **Di X**, Biswal BB (2020). [Intersubject consistent dynamic connectivity during natural vision revealed by functional MRI](https://doi.org/10.1016/j.neuroimage.2020.116698). Neuroimage 216:1166982.
+[44] **Di X**, Biswal BB (2020). [Intersubject consistent dynamic connectivity during natural vision revealed by functional MRI](https://doi.org/10.1016/j.neuroimage.2020.116698). Neuroimage 216:1166982.
 
-[44] Yang H, **Di X**, Gong Q, Sweeney J, Biswal BB (2020). [Investigating inhibition deficit in schizophrenia using task-modulated brain networks](https://doi.org/10.1007/s00429-020-02078-7). Brain Struct Funct 225:1601–1613. 
+[43] Yang H, **Di X**, Gong Q, Sweeney J, Biswal BB (2020). [Investigating inhibition deficit in schizophrenia using task-modulated brain networks](https://doi.org/10.1007/s00429-020-02078-7). Brain Struct Funct 225:1601–1613. 
 
-[43] Botvinik-Nezer et al., (2020). [Variability in the analysis of a single neuroimaging dataset by many teams](https://doi.org/10.1038/s41586-020-2314-9). Nature 582(7810):84-88. 
+[42] Botvinik-Nezer et al., (2020). [Variability in the analysis of a single neuroimaging dataset by many teams](https://doi.org/10.1038/s41586-020-2314-9). Nature 582(7810):84-88. 
 
-[42] **Di X**, Zhang H, Biswal BB (2020). [Anterior cingulate cortex differently modulates fronto-parietal functional connectivity between resting-state and working memory tasks](https://doi.org/10.1002/hbm.24912). Hum Brain Mapp 41:1797–1805.
+[41] **Di X**, Zhang H, Biswal BB (2020). [Anterior cingulate cortex differently modulates fronto-parietal functional connectivity between resting-state and working memory tasks](https://doi.org/10.1002/hbm.24912). Hum Brain Mapp 41:1797–1805.
 
 #### 2019
-[41] **Di X**, Woelfer M, Amend M, Wehrl H, Ionescu TM, Pichler BJ, Biswal BB, and Alzheimer's Disease Neuroimaging Initiative (2019). [Interregional causal influences of brain metabolic activity reveal the spread of aging effects during normal aging](https://doi.org/10.1002/hbm.24728). Hum Brain Mapp 40(16):4657-4668. 
+[40] **Di X**, Woelfer M, Amend M, Wehrl H, Ionescu TM, Pichler BJ, Biswal BB, and Alzheimer's Disease Neuroimaging Initiative (2019). [Interregional causal influences of brain metabolic activity reveal the spread of aging effects during normal aging](https://doi.org/10.1002/hbm.24728). Hum Brain Mapp 40(16):4657-4668. 
 
-[40] Amend M, Ionescu TM, **Di X**, Pichler BJ, Biswal BB, Wehrl HF (2019). [Functional resting-state brain connectivity is accompanied by dynamic correlations of application-dependent [18F]FDG PET-tracer fluctuations](https://doi.org/10.1016/j.neuroimage.2019.04.034). Neuroimage 196:161-172.
+[39] Amend M, Ionescu TM, **Di X**, Pichler BJ, Biswal BB, Wehrl HF (2019). [Functional resting-state brain connectivity is accompanied by dynamic correlations of application-dependent [18F]FDG PET-tracer fluctuations](https://doi.org/10.1016/j.neuroimage.2019.04.034). Neuroimage 196:161-172.
 
-[39] Fu Z, Tu Y, **Di X**, Du Y, Sui J, Biswal BB, Zhang Z, de Lacy N, Calhoun V (2019). [Transient Increased Thalamic-Sensory Connectivity and Decreased Whole-Brain Dynamism in Autism](https://doi.org/10.1016/j.neuroimage.2018.06.003). Neuroimage 190:191-204.
+[38] Fu Z, Tu Y, **Di X**, Du Y, Sui J, Biswal BB, Zhang Z, de Lacy N, Calhoun V (2019). [Transient Increased Thalamic-Sensory Connectivity and Decreased Whole-Brain Dynamism in Autism](https://doi.org/10.1016/j.neuroimage.2018.06.003). Neuroimage 190:191-204.
 
-[38] **Di X**, Biswal BB (2019). [Toward Task Connectomics: Examining Whole-Brain Task Modulated Connectivity in Different Task Domains](https://doi.org/10.1093/cercor/bhy055). Cereb Cortex 29(4):1572-1583. 
+[37] **Di X**, Biswal BB (2019). [Toward Task Connectomics: Examining Whole-Brain Task Modulated Connectivity in Different Task Domains](https://doi.org/10.1093/cercor/bhy055). Cereb Cortex 29(4):1572-1583. 
 
 #### 2018
-[37] Fu Z, Tu Y, **Di X**, Du Y, Pearlson GD, Turner JA, Biswal BB, Zhang Z, Calhoun VD (2018). [Characterizing Dynamic Amplitude of Low-Frequency Fluctuation and Its Relationship with Dynamic Functional Connectivity: An Application to Schizophrenia](https://doi.org/10.1016/j.neuroimage.2017.09.035). Neuroimage 180:619-31.
+[36] Fu Z, Tu Y, **Di X**, Du Y, Pearlson GD, Turner JA, Biswal BB, Zhang Z, Calhoun VD (2018). [Characterizing Dynamic Amplitude of Low-Frequency Fluctuation and Its Relationship with Dynamic Functional Connectivity: An Application to Schizophrenia](https://doi.org/10.1016/j.neuroimage.2017.09.035). Neuroimage 180:619-31.
 
-[36] **Di X**, Azeez A, Li X, Haque E, Biswal BB (2018). [Disrupted focal white matter integrity in autism spectrum disorder: a voxel-based meta-analysis of diffusion tensor imaging studies](https://doi.org/10.1016/j.pnpbp.2017.11.007). Prog Neuropsychopharmacol Biol Psychiatry 82:242-248.
+[35] **Di X**, Azeez A, Li X, Haque E, Biswal BB (2018). [Disrupted focal white matter integrity in autism spectrum disorder: a voxel-based meta-analysis of diffusion tensor imaging studies](https://doi.org/10.1016/j.pnpbp.2017.11.007). Prog Neuropsychopharmacol Biol Psychiatry 82:242-248.
 
 #### 2017
-[35] Fu Z, Tu Y, **Di X**, Biswal BB, Calhoun VD, Zhang Z (2017). [Associations between Functional Connectivity Dynamics and BOLD Dynamics are Heterogeneous across Brain Networks](https://doi.org/10.3389/fnhum.2017.00593). Front Hum Neurosci 11:593.
+[34] Fu Z, Tu Y, **Di X**, Biswal BB, Calhoun VD, Zhang Z (2017). [Associations between Functional Connectivity Dynamics and BOLD Dynamics are Heterogeneous across Brain Networks](https://doi.org/10.3389/fnhum.2017.00593). Front Hum Neurosci 11:593.
 
-[34] **Di X**, Gohel S, Thielcke A, Wehrl HF, Biswal BB, and Alzheimer's Disease Neuroimaging Initiative (2017). [Do all roads lead to Rome? A comparison of brain networks derived from inter-subject volumetric and metabolic covariance and moment-to-moment hemodynamic correlations in old individuals](https://doi.org/10.1007/s00429-017-1438-7). Brain Struct Funct 222(8):3833–3845.
+[33] **Di X**, Gohel S, Thielcke A, Wehrl HF, Biswal BB, and Alzheimer's Disease Neuroimaging Initiative (2017). [Do all roads lead to Rome? A comparison of brain networks derived from inter-subject volumetric and metabolic covariance and moment-to-moment hemodynamic correlations in old individuals](https://doi.org/10.1007/s00429-017-1438-7). Brain Struct Funct 222(8):3833–3845.
 
-[33] **Di X**, Biswal BB (2017). [Psychophysiological Interactions in a Visual Checkerboard Task: Reproducibility, Reliability, and the Effects of Deconvolution](https://doi.org/10.3389/fnins.2017.00573). Front Neurosci 11:573. 
+[32] **Di X**, Biswal BB (2017). [Psychophysiological Interactions in a Visual Checkerboard Task: Reproducibility, Reliability, and the Effects of Deconvolution](https://doi.org/10.3389/fnins.2017.00573). Front Neurosci 11:573. 
 
-[32] Jin H, Wang P, Fang Z, **Di X**, Ye Z, Xu G, Lin H, Cheng Y, Li Y, Xu Y, Rao H (2017). [Effects of badminton expertise on representational momentum: A combination of cross-sectional and longitudinal studies](https://doi.org/10.3389/fpsyg.2017.01526). Front Psychol 8:1526. 
+[31] Jin H, Wang P, Fang Z, **Di X**, Ye Z, Xu G, Lin H, Cheng Y, Li Y, Xu Y, Rao H (2017). [Effects of badminton expertise on representational momentum: A combination of cross-sectional and longitudinal studies](https://doi.org/10.3389/fpsyg.2017.01526). Front Psychol 8:1526. 
 
-[31] **Di X**, Reynolds RC, Biswal BB (2017). [Imperfect (de)convolution may introduce spurious psychophysiological interactions and how to avoid it](https://doi.org/10.1002/hbm.23413). Hum Brain Mapp 38(4), 1723–1740. 
+[30] **Di X**, Reynolds RC, Biswal BB (2017). [Imperfect (de)convolution may introduce spurious psychophysiological interactions and how to avoid it](https://doi.org/10.1002/hbm.23413). Hum Brain Mapp 38(4), 1723–1740. 
 
-[30] **Di X**, Huang J, Biswal BB (2017). [Task-modulated brain connectivity of the amygdala: a meta-analysis of psychophysiological interactions](https://doi.org/10.1007/s00429-016-1239-4). Brain Struct Funct 222(1):619-634. 
+[29] **Di X**, Huang J, Biswal BB (2017). [Task-modulated brain connectivity of the amygdala: a meta-analysis of psychophysiological interactions](https://doi.org/10.1007/s00429-016-1239-4). Brain Struct Funct 222(1):619-634. 
 
 #### 2016
-[29] Xu H, Wang P, Ye Z, **Di X**, Xu G, Mo L, Lin H, Rao H and Jin H (2016). [The Role of Medial Frontal Cortex in Action Anticipation in Professional Badminton Players](https://doi.org/10.3389/fpsyg.2016.01817). Front Psychol 7:1817.
+[28] Xu H, Wang P, Ye Z, **Di X**, Xu G, Mo L, Lin H, Rao H and Jin H (2016). [The Role of Medial Frontal Cortex in Action Anticipation in Professional Badminton Players](https://doi.org/10.3389/fpsyg.2016.01817). Front Psychol 7:1817.
 
-[28] Ray S, **Di X**, Biswal BB (2016). [Effective Connectivity Within the Mesocorticolimbic System During Resting-State in Cocaine Users](https://doi.org/10.3389/fnhum.2016.00563). Front Hum Neurosci 10:563.
+[27] Ray S, **Di X**, Biswal BB (2016). [Effective Connectivity Within the Mesocorticolimbic System During Resting-State in Cocaine Users](https://doi.org/10.3389/fnhum.2016.00563). Front Hum Neurosci 10:563.
 
-[27] Yuan R, **Di X**, Taylor PA, Gohel S, Tsai YH, Biswal BB (2016). [Functional topography of the thalamocortical system in human](https://doi.org/10.1007/s00429-015-1018-7). Brain Struct Funct 221(4):1971-1984. 
+[26] Yuan R, **Di X**, Taylor PA, Gohel S, Tsai YH, Biswal BB (2016). [Functional topography of the thalamocortical system in human](https://doi.org/10.1007/s00429-015-1018-7). Brain Struct Funct 221(4):1971-1984. 
 
-[26] Zhang X, **Di X**, Lei H, Yang J, Xiao J, Wang X, Yao S, Rao H (2016). [Imbalanced Spontaneous Brain Activity in Orbitofrontal-Insular Circuits in Individuals with Cognitive Vulnerability to Depression](https://doi.org/10.1016/j.jad.2016.03.001). J Affect Disord 198:56-63.
+[25] Zhang X, **Di X**, Lei H, Yang J, Xiao J, Wang X, Yao S, Rao H (2016). [Imbalanced Spontaneous Brain Activity in Orbitofrontal-Insular Circuits in Individuals with Cognitive Vulnerability to Depression](https://doi.org/10.1016/j.jad.2016.03.001). J Affect Disord 198:56-63.
 
-[25] **Di X**, Biswal BB (2016). [Similarly expanded bilateral temporal lobe volumes in female and male children with autism spectrum disorder](https://doi.org/10.1016/j.bpsc.2015.11.006). Biol Psychiatry Cogn Neurosci Neuroimaging 1(2):178-185.
+[24] **Di X**, Biswal BB (2016). [Similarly expanded bilateral temporal lobe volumes in female and male children with autism spectrum disorder](https://doi.org/10.1016/j.bpsc.2015.11.006). Biol Psychiatry Cogn Neurosci Neuroimaging 1(2):178-185.
 
-[24] Hu C, **Di X**, Eickhoff SB, Zhang M, Peng K, Guo H, Sui J (2016). [Distinct and common aspects of physical and psychological self-representation in the brain: A meta-analysis of self-bias in facial and self-referential judgements](https://doi.org/10.1016/j.neubiorev.2015.12.003). Neurosci Biobehav Rev, 61:197–207.
+[23] Hu C, **Di X**, Eickhoff SB, Zhang M, Peng K, Guo H, Sui J (2016). [Distinct and common aspects of physical and psychological self-representation in the brain: A meta-analysis of self-bias in facial and self-referential judgements](https://doi.org/10.1016/j.neubiorev.2015.12.003). Neurosci Biobehav Rev, 61:197–207.
 
 #### 2015
-[23] **Di X**, Biswal BB (2015). [Characterizations of resting-state modulatory interactions in human brain](https://doi.org/10.1152/jn.00893.2014). J Neurophysiol 114(5):2785-96. 
+[22] **Di X**, Biswal BB (2015). [Characterizations of resting-state modulatory interactions in human brain](https://doi.org/10.1152/jn.00893.2014). J Neurophysiol 114(5):2785-96. 
 
-[22] **Di X**, Fu Z, Chan SC, Hung YS, Biswal BB, Zhang Z (2015). [Task-related Functional Connectivity Dynamics in a Block-designed Visual Experiment](https://doi.org/10.3389/fnhum.2015.00543). Front Hum Neurosci 9:543. 
+[21] **Di X**, Fu Z, Chan SC, Hung YS, Biswal BB, Zhang Z (2015). [Task-related Functional Connectivity Dynamics in a Block-designed Visual Experiment](https://doi.org/10.3389/fnhum.2015.00543). Front Hum Neurosci 9:543. 
 
-[21] **Di X**, Biswal BB (2015). [Dynamic Brain Functional Connectivity Modulated by Resting-State Networks](https://doi.org/10.1007/s00429-013-0634-3). Brain Struct Funct 220(1):37-46.
+[20] **Di X**, Biswal BB (2015). [Dynamic Brain Functional Connectivity Modulated by Resting-State Networks](https://doi.org/10.1007/s00429-013-0634-3). Brain Struct Funct 220(1):37-46.
 
 #### 2014
-[20] **Di X**, Kim E, Chen P, Biswal BB (2014). [Lateralized Resting-state Functional Connectivity in the Task-positive and Task-negative Networks](https://doi.org/10.1089/brain.2013.0215). Brain Connect 4(9):641-648. 
+[19] **Di X**, Kim E, Chen P, Biswal BB (2014). [Lateralized Resting-state Functional Connectivity in the Task-positive and Task-negative Networks](https://doi.org/10.1089/brain.2013.0215). Brain Connect 4(9):641-648. 
 
-[19] Lei H, Zhang X, **Di X**, Rao H, Ming Q, Zhang J, Guo X, Jiang Y, Gao Y, Yi J, Zhu X, Yao S (2014). [A Functional Polymorphism of the MAOA Gene Modulates Spontaneous Brain Activity in Pons](https://doi.org/10.1155/2014/243280). Biomed Res Int 2014:243280. 
+[18] Lei H, Zhang X, **Di X**, Rao H, Ming Q, Zhang J, Guo X, Jiang Y, Gao Y, Yi J, Zhu X, Yao S (2014). [A Functional Polymorphism of the MAOA Gene Modulates Spontaneous Brain Activity in Pons](https://doi.org/10.1155/2014/243280). Biomed Res Int 2014:243280. 
 
-[18] Fu Z, Chan SC, **Di X**, Biswal B, Zhang Z (2014). [Adaptive Covariance Estimation of Non-stationary Processes and its Application to Infer Dynamic Connectivity from fMRI](https://doi.org/10.1109/TBCAS.2014.2306732). IEEE Trans Biomed Circuits Syst 8(2):228–39.
+[17] Fu Z, Chan SC, **Di X**, Biswal B, Zhang Z (2014). [Adaptive Covariance Estimation of Non-stationary Processes and its Application to Infer Dynamic Connectivity from fMRI](https://doi.org/10.1109/TBCAS.2014.2306732). IEEE Trans Biomed Circuits Syst 8(2):228–39.
 
-[17] **Di X**, Biswal BB (2014). [Modulatory Interactions between the Default Mode Network and Task Positive Networks in Resting-State](https://doi.org/10.7717/peerj.367). PeerJ 2:e367.
+[16] **Di X**, Biswal BB (2014). [Modulatory Interactions between the Default Mode Network and Task Positive Networks in Resting-State](https://doi.org/10.7717/peerj.367). PeerJ 2:e367.
 
-[16] **Di X**, Biswal BB (2014). [Identifying the Default Mode Network Structure Using Dynamic Causal Modeling on Resting-state Functional Magnetic Resonance Imaging](https://doi.org/10.1016/j.neuroimage.2013.07.071). Neuroimage 86:53–9.
+[15] **Di X**, Biswal BB (2014). [Identifying the Default Mode Network Structure Using Dynamic Causal Modeling on Resting-state Functional Magnetic Resonance Imaging](https://doi.org/10.1016/j.neuroimage.2013.07.071). Neuroimage 86:53–9.
 
-[15] **Di X**, Rypma B, Biswal BB (2014). [Correspondence of Executive Function Related Functional and Anatomical Alterations in Aging Brain](https://doi.org/10.1016/j.pnpbp.2013.09.001). Prog Neuropsychopharmacol Biol Psychiatry 48(3):41–50.
+[14] **Di X**, Rypma B, Biswal BB (2014). [Correspondence of Executive Function Related Functional and Anatomical Alterations in Aging Brain](https://doi.org/10.1016/j.pnpbp.2013.09.001). Prog Neuropsychopharmacol Biol Psychiatry 48(3):41–50.
 
 #### 2013
-[14] Yuan R, **Di X**, Kim EH, Barik S, Rypma B, Biswal BB (2013). [Regional Homogeneity of Resting-state fMRI Contributes to Both Neurovascular and Task Activation Variations](https://doi.org/10.1016/j.mri.2013.07.005). Magn Reson Imaging 31(9):1492–1500.
+[13] Yuan R, **Di X**, Kim EH, Barik S, Rypma B, Biswal BB (2013). [Regional Homogeneity of Resting-state fMRI Contributes to Both Neurovascular and Task Activation Variations](https://doi.org/10.1016/j.mri.2013.07.005). Magn Reson Imaging 31(9):1492–1500.
 
-[13] **Di X**, Gohel S, Kim EH and Biswal BB (2013). [Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks](https://doi.org/10.3389/fnhum.2013.00493). Front Hum Neurosci 7:493.
+[12] **Di X**, Gohel S, Kim EH and Biswal BB (2013). [Task vs. Rest - Different Network Configurations between the Coactivation and the Resting-State Brain Networks](https://doi.org/10.3389/fnhum.2013.00493). Front Hum Neurosci 7:493.
 
-[12] **Di X**, Biswal BB (2013). [Modulatory interactions of resting-state brain functional connectivity](https://doi.org/10.1371/journal.pone.0071163). PLoS ONE 8(8): e71163.
+[11] **Di X**, Biswal BB (2013). [Modulatory interactions of resting-state brain functional connectivity](https://doi.org/10.1371/journal.pone.0071163). PLoS ONE 8(8): e71163.
 
-[11] **Di X**, Kim E, Huang C, Tsai S, Lin C and Biswal BB (2013). [The influence of the amplitude of low-frequency fluctuations on resting-state functional connectivity](https://doi.org/10.3389/fnhum.2013.00118). Front Hum Neurosci 7:118. 
+[10] **Di X**, Kim E, Huang C, Tsai S, Lin C and Biswal BB (2013). [The influence of the amplitude of low-frequency fluctuations on resting-state functional connectivity](https://doi.org/10.3389/fnhum.2013.00118). Front Hum Neurosci 7:118. 
 
-[10] Huang J, Wang Y, Jin Z, **Di X**, Yang T, Gur RC, Gur RE, Shum DH, Cheung EF, Chan RC (2013). [Happy facial expression processing with different social interaction cues: An fMRI study of individuals with schizotypal personality traits](https://doi.org/10.1016/j.pnpbp.2013.02.004). Prog Neuropsychopharmacol Biol Psychiatry 44:108-17.
+[9] Huang J, Wang Y, Jin Z, **Di X**, Yang T, Gur RC, Gur RE, Shum DH, Cheung EF, Chan RC (2013). [Happy facial expression processing with different social interaction cues: An fMRI study of individuals with schizotypal personality traits](https://doi.org/10.1016/j.pnpbp.2013.02.004). Prog Neuropsychopharmacol Biol Psychiatry 44:108-17.
 
-[9] **Di X**, Kannurpatti SS, Rypma B, Biswal BB (2013). [Calibrating BOLD fMRI activations with neuro-vascular and anatomical constraints](https://doi.org/10.1093/cercor/bhs001). Cereb Cortex 23(2):255-263.
+[8] **Di X**, Kannurpatti SS, Rypma B, Biswal BB (2013). [Calibrating BOLD fMRI activations with neuro-vascular and anatomical constraints](https://doi.org/10.1093/cercor/bhs001). Cereb Cortex 23(2):255-263.
 
 #### 2012
-[8] **Di X**, Biswal BB, Alzheimer's Disease Neuroimaging Initiative (2012). [Metabolic Brain Covariant Networks as Revealed by FDG-PET with reference to resting-state fMRI networks](https://doi.org/10.1089/brain.2012.0086). Brain Connect 2(5):275-83.
+[7] **Di X**, Biswal BB, Alzheimer's Disease Neuroimaging Initiative (2012). [Metabolic Brain Covariant Networks as Revealed by FDG-PET with reference to resting-state fMRI networks](https://doi.org/10.1089/brain.2012.0086). Brain Connect 2(5):275-83.
 
-[7] **Di X**, Zhu S, Jin H, Wang P, Ye Z, Zhou K, Zhuo Y, Rao H (2012). [Altered resting brain function and structure in professional badminton players](https://doi.org/10.1089/brain.2011.0050). Brain Connect 2(4):225-33.
+[6] **Di X**, Zhu S, Jin H, Wang P, Ye Z, Zhou K, Zhuo Y, Rao H (2012). [Altered resting brain function and structure in professional badminton players](https://doi.org/10.1089/brain.2011.0050). Brain Connect 2(4):225-33.
 
-[6] Taylor P, Gohel SR, **Di X**, Walter M, Biswal B (2012). [Functional covariance networks: obtaining resting state networks from intersubject variability](https://doi.org/10.1089/brain.2012.0095). Brain Connect 2(4):203-17.
+[5] Taylor P, Gohel SR, **Di X**, Walter M, Biswal B (2012). [Functional covariance networks: obtaining resting state networks from intersubject variability](https://doi.org/10.1089/brain.2012.0095). Brain Connect 2(4):203-17.
 
 #### Before 2012
-[5] Qian C, **Di X** (2011). [Phase or amplitude? The relationship between ongoing and evoked neural activity](https://doi.org/10.1523/JNEUROSCI.2197-11.2011). J Neurosci 31(29):10425-10426.
+
 
 [4] Chan RC, **Di X**, McAlonan GM, Gong QY (2011). [Brain anatomical abnormalities in high-risk individuals, first-episode, and chronic schizophrenia: an activation likelihood estimation meta-analysis of illness progression](https://doi.org/10.1093/schbul/sbp073). Schizophr Bull 37(1):177-88.
 
