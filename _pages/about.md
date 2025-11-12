@@ -20,8 +20,8 @@ If you're interested in my academic background and professional journey, please 
 * **Functional brain developments during movie watching and resting-state in autism spectrum disorder**: This is a NIH funded project to study the developments of brain dynamic and stable connectivity in individuals with autism spectrum disorder and typically developing controls. Undergraduate research opportunities are available. Please contact me if you are interested. 
 
 ### Latest publications
-* <span style="color:red">Accepted:</span> [Comparing Intra- and Inter-individual Correlational Brain Connectivity from Functional and Structural Neuroimaging Data](https://doi.org/10.1007/s00429-025-02972-y)
-* <span style="color:red">Accepted:</span> [Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data](https://doi.org/10.1089/brain.2024.0044)
-* <span style="color:red">New:</span> [Explorations of using a convolutional neural network to understand brain activations during movie watching](http://dx.doi.org/10.1093/psyrad/kkae021)
+* <span style="color:red">Preprint:</span> [Timing Is Everything: Temporal Dynamics of BOLD Responses to Naturalistic Features in Movie Watching](https://doi.org/10.1101/2025.11.07.687226)
+* <span style="color:red">New:</span> [Comparing Intra- and Inter-individual Correlational Brain Connectivity from Functional and Structural Neuroimaging Data](https://doi.org/10.1007/s00429-025-02972-y)
+* <span style="color:red">New:</span> [Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data](https://doi.org/10.1089/brain.2024.0044)
 
 Click [here](https://www.dixin.info/publications/) for a full list of my publications
