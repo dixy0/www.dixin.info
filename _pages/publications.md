@@ -6,9 +6,11 @@ author_profile: true
 ---
 
 ------
-For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en) and [Scopus](https://www.scopus.com/authid/detail.uri?authorId=44061081500).
+For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en).
 
 ### Working papers
+[4] Gao L, Wei Z, Biswal BB, **Di X** (2025). fMRI-Based Prediction of Eye Gaze During Naturalistic Movie Viewing Reveals Eye-Movement-Related Brain Activity. [bioRxiv](https://doi.org/10.64898/2026.01.10.698820)
+
 [3] **Di X**, Hanna GB, Biswal BB (2025). Timing Is Everything: Temporal Dynamics of BOLD Responses to Naturalistic Features in Movie Watching. [bioRxiv](https://doi.org/10.1101/2025.11.07.687226)
 
 [2] Chen DY, **Di X**, Karunakaran KD, Sun H, Pal S, Biswal BB (2024). Delayed cerebrovascular reactivity in individuals with spinal cord injury in the right inferior parietal lobe: a breath-hold functional near-infrared spectroscopy study. [medRxiv](https://doi.org/10.1101/2024.06.03.24307819)
