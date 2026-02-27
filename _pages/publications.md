@@ -9,6 +9,8 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en).
 
 ### Working papers
+[5] **Di X**, Xu T, Castellanos FX, Biswal BB (2025). Unique Amygdala Signatures and Shared Prefrontal Deficits in Autism: Mapping Social Heterogeneity via Naturalistic functional Magnetic Resonance Imaging. [bioRxiv](https://doi.org/10.64898/2026.02.26.708280)
+
 [4] Gao L, Wei Z, Biswal BB, **Di X** (2025). fMRI-Based Prediction of Eye Gaze During Naturalistic Movie Viewing Reveals Eye-Movement-Related Brain Activity. [bioRxiv](https://doi.org/10.64898/2026.01.10.698820)
 
 [3] **Di X**, Hanna GB, Biswal BB (2025). Timing Is Everything: Temporal Dynamics of BOLD Responses to Naturalistic Features in Movie Watching. [bioRxiv](https://doi.org/10.1101/2025.11.07.687226)
