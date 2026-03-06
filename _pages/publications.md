@@ -20,6 +20,8 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 [1] Chen DY, **Di X**, Amaya N, Sun H, Pal S, Biswal BB (2024). Brain activation during the N-back working memory task in individuals with spinal cord injury: a functional near-infrared spectroscopy study. [bioRxiv](htComtps://doi.org/10.1101/2024.02.09.579655)
 
 ### Reviews and Comentaries
+[6] Cavaliere C, et al. (2026). [Molecular connectivity studies of cerebral glucose metabolism and blood flow: a scoping review](https://doi.org/10.1016/j.neubiorev.2026.106623). Neurosci Biobehav Rev 106623. 
+
 [5] **Di X**, Xu T, Miao X (2026). [Future perspectives of functional connectivity: Advances in data acquisition and analysis](https://doi.org/10.1016/B978-0-443-19099-5.00020-9). In Functional Connectivity of the Human Brain (pp. 281-309). Academic Press.
 
 [4] Severino M, et al. (2025). [Molecular connectivity studies in neurotransmission: a scoping review](https://doi.org/10.1162/imag_a_00530). Imaging Neuroscience 3:imag_a_00530.  
