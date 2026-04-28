@@ -71,6 +71,8 @@ I am also grateful for all the open-source software and open-access datasets tha
 * [Movie watching (Partly Cloudy)](https://openneuro.org/datasets/ds000228)
 * [Healthy Brain Network Serial Scanning Initiative (HBN-SSI)](https://fcon_1000.projects.nitrc.org/indi/hbn_ssi/)
 * [Healthy Brain Network](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/)
+* [SIMON Dataset](https://fcon_1000.projects.nitrc.org/indi/retro/SIMON.html)
+* [EEG/FMRI Naturalistic Viewing](https://fcon_1000.projects.nitrc.org/indi/retro/nat_view.html)
 
 ### Open science platforms
 * [Open Science Framework](https://osf.io/)
