@@ -9,6 +9,8 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en).
 
 ### Working papers
+[6] **Di X**, Biswal BB (2026). Context-Specific Decoupling and Competing Phenotypes: Transdiagnostic Eye-Tracking Biomarkers of ASD and ADHD During Naturalistic Viewing in a Large Pediatric Cohort. [bioRxiv](https://doi.org/10.64898/2026.05.11.724367)
+
 [5] **Di X**, Xu T, Castellanos FX, Biswal BB (2026). Unique Amygdala Signatures and Shared Prefrontal Deficits in Autism: Mapping Social Heterogeneity via Naturalistic functional Magnetic Resonance Imaging. [bioRxiv](https://doi.org/10.64898/2026.02.26.708280)
 
 [4] Gao L, Wei Z, Biswal BB, **Di X** (2025). fMRI-Based Prediction of Eye Gaze During Naturalistic Movie Viewing Reveals Eye-Movement-Related Brain Activity. [bioRxiv](https://doi.org/10.64898/2026.01.10.698820)
