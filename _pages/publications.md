@@ -9,13 +9,11 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en).
 
 ### Working papers
-[7] **Di X**, Biswal BB (2026). Dimensional Arousal and Categorical Gaze Instability: Uncoupling the Baseline Oculomotor Phenotypes of Autism and ADHD. [bioRxiv](https://doi.org/10.64898/2026.05.27.728181)
+[6] **Di X**, Biswal BB (2026). Dimensional Arousal and Categorical Gaze Instability: Uncoupling the Baseline Oculomotor Phenotypes of Autism and ADHD. [bioRxiv](https://doi.org/10.64898/2026.05.27.728181)
 
-[6] **Di X**, Biswal BB (2026). Domain-General Decoupling and Context-Specific Buffering: Transdiagnostic Eye-Tracking Biomarkers of ASD and ADHD During Naturalistic Viewing. [bioRxiv](https://doi.org/10.64898/2026.05.11.724367)
+[5] **Di X**, Biswal BB (2026). Domain-General Decoupling and Context-Specific Buffering: Transdiagnostic Eye-Tracking Biomarkers of ASD and ADHD During Naturalistic Viewing. [bioRxiv](https://doi.org/10.64898/2026.05.11.724367)
 
-[5] **Di X**, Xu T, Castellanos FX, Biswal BB (2026). Unique Amygdala Signatures and Shared Prefrontal Deficits in Autism: Mapping Social Heterogeneity via Naturalistic functional Magnetic Resonance Imaging. [bioRxiv](https://doi.org/10.64898/2026.02.26.708280)
-
-[4] Gao L, Wei Z, Biswal BB, **Di X** (2025). fMRI-Based Prediction of Eye Gaze During Naturalistic Movie Viewing Reveals Eye-Movement-Related Brain Activity. [bioRxiv](https://doi.org/10.64898/2026.01.10.698820)
+[4] **Di X**, Xu T, Castellanos FX, Biswal BB (2026). Unique Amygdala Signatures and Shared Prefrontal Deficits in Autism: Mapping Social Heterogeneity via Naturalistic functional Magnetic Resonance Imaging. [bioRxiv](https://doi.org/10.64898/2026.02.26.708280)
 
 [3] **Di X**, Hanna GB, Biswal BB (2025). Beyond the Canonical HRF: Flexible Temporal Modeling Reveals Feature-Specific BOLD Profiles During Naturalistic Viewing. [bioRxiv](https://doi.org/10.1101/2025.11.07.687226)
 
@@ -37,6 +35,9 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 [1] Qian C, **Di X** (2011). [Phase or amplitude? The relationship between ongoing and evoked neural activity](https://doi.org/10.1523/JNEUROSCI.2197-11.2011). J Neurosci 31(29):10425-10426.
 
 ### Research articles
+#### Forthcoming
+[69] Gao L, Wei Z, Biswal BB, **Di X** (accepted). fMRI-Based Prediction of Eye Gaze During Naturalistic Movie Viewing Reveals Eye-Movement-Related Brain Activity. Psychoradiology, doi:[10.1093/psyrad/kkag026](https://doi.org/10.1093/psyrad/kkag026)
+
 #### 2025
 [68] **Di X**, Biswal BB, ADNI (2025). [Comparing Intra- and Inter-individual Correlational Brain Connectivity from Functional and Structural Neuroimaging Data](https://doi.org/10.1007/s00429-025-02972-y). Brain Struct Funct 230:113.
 
