@@ -9,13 +9,11 @@ author_profile: true
 For citations, see [Google Scholar](https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en).
 
 ### Working papers
-[6] **Di X**, Biswal BB (2026). Dimensional Arousal and Categorical Gaze Instability: Uncoupling the Baseline Oculomotor Phenotypes of Autism and ADHD. [bioRxiv](https://doi.org/10.64898/2026.05.27.728181)
+[5] **Di X**, Biswal BB (2026). Dimensional Arousal and Categorical Gaze Instability: Uncoupling the Baseline Oculomotor Phenotypes of Autism and ADHD. [bioRxiv](https://doi.org/10.64898/2026.05.27.728181)
 
-[5] **Di X**, Biswal BB (2026). Domain-General Decoupling and Context-Specific Buffering: Transdiagnostic Eye-Tracking Biomarkers of ASD and ADHD During Naturalistic Viewing. [bioRxiv](https://doi.org/10.64898/2026.05.11.724367)
+[4] **Di X**, Biswal BB (2026). Domain-General Decoupling and Context-Specific Buffering: Transdiagnostic Eye-Tracking Biomarkers of ASD and ADHD During Naturalistic Viewing. [bioRxiv](https://doi.org/10.64898/2026.05.11.724367)
 
-[4] **Di X**, Xu T, Castellanos FX, Biswal BB (2026). Unique Amygdala Signatures and Shared Prefrontal Deficits in Autism: Mapping Social Heterogeneity via Naturalistic functional Magnetic Resonance Imaging. [bioRxiv](https://doi.org/10.64898/2026.02.26.708280)
-
-[3] **Di X**, Hanna GB, Biswal BB (2025). Beyond the Canonical HRF: Flexible Temporal Modeling Reveals Feature-Specific BOLD Profiles During Naturalistic Viewing. [bioRxiv](https://doi.org/10.1101/2025.11.07.687226)
+[3] **Di X**, Xu T, Castellanos FX, Biswal BB (2026). Unique Amygdala Signatures and Shared Prefrontal Deficits in Autism: Mapping Social Heterogeneity via Naturalistic functional Magnetic Resonance Imaging. [bioRxiv](https://doi.org/10.64898/2026.02.26.708280)
 
 [2] Chen DY, **Di X**, Karunakaran KD, Sun H, Pal S, Biswal BB (2024). Delayed cerebrovascular reactivity in individuals with spinal cord injury in the right inferior parietal lobe: a breath-hold functional near-infrared spectroscopy study. [medRxiv](https://doi.org/10.1101/2024.06.03.24307819)
 
@@ -36,7 +34,9 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Research articles
 #### Forthcoming
-[69] Gao L, Wei Z, Biswal BB, **Di X** (accepted). fMRI-Based Prediction of Eye Gaze During Naturalistic Movie Viewing Reveals Eye-Movement-Related Brain Activity. Psychoradiology, doi:[10.1093/psyrad/kkag026](https://doi.org/10.1093/psyrad/kkag026)
+[70] **Di X**, Hanna GB, Biswal BB (accepted). Beyond the Canonical HRF: Flexible Temporal Modeling Reveals Feature-Specific BOLD Profiles During Naturalistic Viewing. Imaging Neuroscience [bioRxiv](https://doi.org/10.1101/2025.11.07.687226)
+
+[69] Gao L, Wei Z, Biswal BB, **Di X** (accepted). [fMRI-Based Prediction of Eye Gaze During Naturalistic Movie Viewing Reveals Eye-Movement-Related Brain Activity](https://doi.org/10.1093/psyrad/kkag026). Psychoradiology.
 
 #### 2025
 [68] **Di X**, Biswal BB, ADNI (2025). [Comparing Intra- and Inter-individual Correlational Brain Connectivity from Functional and Structural Neuroimaging Data](https://doi.org/10.1007/s00429-025-02972-y). Brain Struct Funct 230:113.
