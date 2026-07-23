@@ -17,7 +17,7 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 [2] Chen DY, **Di X**, Karunakaran KD, Sun H, Pal S, Biswal BB (2024). Delayed cerebrovascular reactivity in individuals with spinal cord injury in the right inferior parietal lobe: a breath-hold functional near-infrared spectroscopy study. [medRxiv](https://doi.org/10.1101/2024.06.03.24307819)
 
-[1] Chen DY, **Di X**, Amaya N, Sun H, Pal S, Biswal BB (2024). Brain activation during the N-back working memory task in individuals with spinal cord injury: a functional near-infrared spectroscopy study. [bioRxiv](htComtps://doi.org/10.1101/2024.02.09.579655)
+[1] Chen DY, **Di X**, Amaya N, Sun H, Pal S, Biswal BB (2024). Brain activation during the N-back working memory task in individuals with spinal cord injury: a functional near-infrared spectroscopy study. [bioRxiv](https://doi.org/10.1101/2024.02.09.579655)
 
 ### Reviews and Comentaries
 [6] Cavaliere C, et al. (2026). [Molecular connectivity studies of cerebral glucose metabolism and blood flow: a scoping review](https://doi.org/10.1016/j.neubiorev.2026.106623). Neurosci Biobehav Rev 106623. 
@@ -34,7 +34,7 @@ For citations, see [Google Scholar](https://scholar.google.com/citations?user=wD
 
 ### Research articles
 #### Forthcoming
-[70] **Di X**, Hanna GB, Biswal BB (accepted). Beyond the Canonical HRF: Flexible Temporal Modeling Reveals Feature-Specific BOLD Profiles During Naturalistic Viewing. Imaging Neuroscience [bioRxiv](https://doi.org/10.1101/2025.11.07.687226)
+[70] **Di X**, Hanna GB, Biswal BB (accepted). [Beyond the Canonical HRF: Flexible Temporal Modeling Reveals Feature-Specific BOLD Profiles During Naturalistic Viewing](https://doi.org/10.1162/IMAG.a.1331). Imaging Neuroscience
 
 [69] Gao L, Wei Z, Biswal BB, **Di X** (accepted). [fMRI-Based Prediction of Eye Gaze During Naturalistic Movie Viewing Reveals Eye-Movement-Related Brain Activity](https://doi.org/10.1093/psyrad/kkag026). Psychoradiology.
 
