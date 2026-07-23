@@ -20,7 +20,7 @@ If you're interested in my academic background and professional journey, please 
 * **Functional brain developments during movie watching and resting-state in autism spectrum disorder**: This is a NIH funded project to study the developments of brain dynamic and stable connectivity in individuals with autism spectrum disorder and typically developing controls. Undergraduate research opportunities are available. Please contact me if you are interested. 
 
 ### Latest publications
-* <span style="color:red">Accepted:</span> [Beyond the Canonical HRF: Flexible Temporal Modeling Reveals Feature-Specific BOLD Profiles During Naturalistic Viewing](https://doi.org/10.1101/2025.11.07.687226)
+* <span style="color:red">Accepted:</span> [Beyond the Canonical HRF: Flexible Temporal Modeling Reveals Feature-Specific BOLD Profiles During Naturalistic Viewing](https://doi.org/10.1162/IMAG.a.1331)
 * <span style="color:red">Accepted:</span> [fMRI-Based Prediction of Eye Gaze During Naturalistic Movie Viewing Reveals Eye-Movement-Related Brain Activity](https://doi.org/10.1093/psyrad/kkag026)
 * <span style="color:red">Preprint:</span> [Dimensional Arousal and Categorical Gaze Instability: Uncoupling the Baseline Oculomotor Phenotypes of Autism and ADHD](https://doi.org/10.64898/2026.05.27.728181)
 * <span style="color:red">Preprint:</span> [Domain-General Decoupling and Context-Specific Buffering: Transdiagnostic Eye-Tracking Biomarkers of ASD and ADHD During Naturalistic Viewing](https://doi.org/10.64898/2026.05.11.724367)
