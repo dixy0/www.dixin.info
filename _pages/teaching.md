@@ -10,10 +10,10 @@ redirect_from:
 
 ------
 ### Undergraduate Courses at NJIT
-- **2025 Fall**: BME 210 - *Processing Foundamentals for Biological Signals*
-- **2025 Spring**: BME 210 - *Processing Foundamentals for Biological Signals*
-- **2024 Fall**: BME 210 - *Processing Foundamentals for Biological Signals*
-- **2023 Fall**: BME 471 - *Principles of Medical Imaging*
+- **BME 210**: *Processing Fundamentals for Biological Signals*
+  - Fall 2026, Fall 2025, Spring 2025, Fall 2024
+- **BME 471**: *Principles of Medical Imaging*
+  - Fall 2023
 
 ### Educational Courses at Conferences
 - **[FDG-PET: Data Processing and Analysis Using SPM](https://www.youtube.com/watch?v=ZA3rXMfXu1Y&t=1635s)**\
