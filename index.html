@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Xin Di, PhD · Brain connectivity research</title>
+<meta name="description" content="Xin Di, Research Assistant Professor of Biomedical Engineering at NJIT, studies brain connectivity and network organization with fMRI.">
+<link rel="stylesheet" href="style.css"></head>
+<body><main id="main" class="wrap">
+<section class="hero">
+  <img src="images/profile_small.jpg" alt="Portrait of Xin Di" width="200" height="200">
+  <div>
+    <h1>Xin Di, PhD</h1>
+    <p class="role">Research Assistant Professor · Department of Biomedical Engineering · New Jersey Institute of Technology</p>
+    <p class="lede">I study how the brain works as a network: how regions interact during movies and tasks, across development, and in autism. My work combines fMRI, eye tracking and PET, and develops open methods for measuring connectivity reliably.</p>
+    <div class="btns">
+      <a class="btn primary" href="files/CV_XinDi.pdf">Download CV</a>
+      <a class="btn" href="research.html">Research</a>
+      <a class="btn" href="publications.html">Publications</a>
+    </div>
+    <div class="social">
+      <a href="mailto:xin.di@njit.edu">Email</a>
+      <a href="https://scholar.google.com/citations?user=wDjD46gAAAAJ&amp;hl=en">Google Scholar</a>
+      <a href="https://github.com/dixy0">GitHub</a>
+      <a href="https://people.njit.edu/faculty/dixin">NJIT profile</a>
+      <a href="https://www.dixin.info/">Personal website</a>
+      <a href="https://www.researchgate.net/profile/Xin_Di2">ResearchGate</a>
+    </div>
+    <p class="pron">Pronounced “Seen Dee” · 邸新</p>
+  </div>
+</section>
+
+<h2>Research focus</h2>
+<div class="cards">
+  <article class="card"><h3>Naturalistic connectivity &amp; autism</h3>
+    <p>Movie watching and eye tracking reveal how brain networks develop and how they differ across individuals with autism and ADHD.</p></article>
+  <article class="card"><h3>Methods for connectivity</h3>
+    <p>Task-based connectivity (PPI, beta series), flexible hemodynamic modeling, and open preprocessing and quality-control protocols.</p></article>
+  <article class="card"><h3>Molecular &amp; metabolic connectivity</h3>
+    <p>PET-based connectivity of glucose metabolism and neurotransmission, and shared data standards for molecular imaging.</p></article>
+</div>
+
+<h2>Current projects</h2>
+<div class="cards">
+  <article class="card"><span class="tag">NJ ACTS · 2026–2027</span>
+    <h3>Standardized data access for molecular imaging</h3>
+    <p>Establishing a Standardized Data Access Protocol (SDAP) to resolve data fragmentation in the US molecular imaging ecosystem.</p></article>
+  <article class="card"><span class="tag">NJDOH · 2024–2026</span>
+    <h3>Eye movements and brain activity in autism</h3>
+    <p>Validating deep neural network models that extract eye-gaze information directly from fMRI data, then testing how gaze and brain activity differ in autism spectrum disorder.</p></article>
+</div>
+<p><strong>Undergraduate research opportunities are available.</strong> <a href="mailto:xin.di@njit.edu">Get in touch</a> if you're interested.</p>
+
+<h2>Community</h2>
+<div class="cards">
+  <article class="card"><span class="tag">Chair, Outreach Council</span>
+    <h3>Molecular Connectivity Working Group</h3>
+    <p>An international initiative evaluating molecular imaging, such as PET, for studying brain connectivity. I chair its Outreach Council and organize the Molecular Connectivity Online Series (MCOS), a free monthly seminar series.</p>
+    <p><a href="https://molecularconnectivity.com/">MCWG website</a> · <a href="https://molecularconnectivity.com/events/">Events</a> · <a href="https://www.youtube.com/@molecularconnectivity">MCOS recordings on YouTube</a></p></article>
+</div>
+
+<h2>Latest publications</h2>
+<ul class="plain" id="latest"></ul>
+<p><a href="publications.html">See all publications →</a></p>
+</main>
+<script src="pubs.js"></script>
+<script src="site.js"></script>
+<script>
+document.getElementById("latest").innerHTML=PUBS.filter(function(p){return p[0]===2026&&(p[1]==="article"||p[1]==="preprint")})
+ .slice(0,5).map(function(p){
+  return '<li><span class="tag'+(p[1]==="preprint"?" alt":"")+'">'+(p[1]==="preprint"?"Preprint":"Published")+'</span><br><a href="'+p[5]+'">'+p[3]+'</a><br><span class="when">'+p[4]+'</span></li>';
+ }).join("");
+</script></body></html>
