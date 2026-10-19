@@ -21,7 +21,9 @@
     ' Xin Di · Biomedical Engineering, NJIT</span>' +
     '<span><a href="mailto:xin.di@njit.edu">Email</a> · ' +
     '<a href="https://scholar.google.com/citations?user=wDjD46gAAAAJ&hl=en">Google Scholar</a> · ' +
-    '<a href="https://github.com/dixy0">GitHub</a></span></div></footer>');
+    '<a href="https://www.researchgate.net/profile/Xin_Di2">ResearchGate</a> · ' +
+    '<a href="https://github.com/dixy0">GitHub</a> · ' +
+    '<a href="https://people.njit.edu/faculty/dixin">NJIT profile</a></span></div></footer>');
   document.querySelector(".theme").addEventListener("click", function () {
     var dark = document.documentElement.getAttribute("data-theme") === "dark" ||
       (!document.documentElement.getAttribute("data-theme") && matchMedia("(prefers-color-scheme: dark)").matches);
