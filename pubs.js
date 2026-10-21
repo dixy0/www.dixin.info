@@ -3,9 +3,10 @@
 var D = "https://doi.org/";
 window.PUBS = [
 // ---- preprints / working papers
-[2026,"preprint","Di X, Biswal BB","Sub-Additive Effects of Autism-ADHD Comorbidity on Resting-State Pupillary and Oculomotor Phenotypes","bioRxiv",D+"10.64898/2026.05.27.728181"],
-[2026,"preprint","Di X, Biswal BB","Domain-General Decoupling and Context-Specific Buffering: Transdiagnostic Eye-Tracking Biomarkers of ASD and ADHD During Naturalistic Viewing","bioRxiv",D+"10.64898/2026.05.11.724367"],
-[2026,"preprint","Di X, Xu T, Castellanos FX, Biswal BB","Unique Amygdala Signatures and Shared Prefrontal Deficits in Autism: Mapping Social Heterogeneity via Naturalistic functional Magnetic Resonance Imaging","bioRxiv",D+"10.64898/2026.02.26.708280"],
+[2026,"preprint","Huang Y, Zhang Z, Biswal B, Di X, Xu M","Brain-Aligned Multimodal LLMs for Social and Emotional Understanding of Cartoon Movies","arXiv:2610.22706 [cs.AI]","https://doi.org/10.48550/arXiv.2610.22706",1],
+[2026,"preprint","Di X, Biswal BB","Sub-Additive Effects of Autism-ADHD Comorbidity on Resting-State Pupillary and Oculomotor Phenotypes","bioRxiv",D+"10.64898/2026.05.27.728181",2],
+[2026,"preprint","Di X, Biswal BB","Domain-General Decoupling and Context-Specific Buffering: Transdiagnostic Eye-Tracking Biomarkers of ASD and ADHD During Naturalistic Viewing","bioRxiv",D+"10.64898/2026.05.11.724367",4],
+[2026,"preprint","Di X, Xu T, Castellanos FX, Biswal BB","Unique Amygdala Signatures and Shared Prefrontal Deficits in Autism: Mapping Social Heterogeneity via Naturalistic functional Magnetic Resonance Imaging","bioRxiv",D+"10.64898/2026.02.26.708280",5],
 [2024,"preprint","Chen DY, Di X, Karunakaran KD, Sun H, Pal S, Biswal BB","Delayed cerebrovascular reactivity in individuals with spinal cord injury in the right inferior parietal lobe: a breath-hold functional near-infrared spectroscopy study","medRxiv",D+"10.1101/2024.06.03.24307819"],
 [2024,"preprint","Chen DY, Di X, Amaya N, Sun H, Pal S, Biswal BB","Brain activation during the N-back working memory task in individuals with spinal cord injury: a functional near-infrared spectroscopy study","bioRxiv",D+"10.1101/2024.02.09.579655"],
 // ---- reviews
@@ -16,7 +17,7 @@ window.PUBS = [
 [2023,"review","Hu Z, Di X, Yang Z","Editorial: Shared responses and individual differences in the human brain during naturalistic stimulations","Front Hum Neurosci 17:1201728",D+"10.3389/fnhum.2023.1201728"],
 [2011,"review","Qian C, Di X","Phase or amplitude? The relationship between ongoing and evoked neural activity","J Neurosci 31(29):10425-10426",D+"10.1523/JNEUROSCI.2197-11.2011"],
 // ---- articles
-[2026,"article","Di X, Hanna GB, Biswal BB","Beyond the Canonical HRF: Flexible Temporal Modeling Reveals Feature-Specific BOLD Profiles During Naturalistic Viewing","Imaging Neuroscience 4:IMAG.a.1331",D+"10.1162/IMAG.a.1331"],
+[2026,"article","Di X, Hanna GB, Biswal BB","Beyond the Canonical HRF: Flexible Temporal Modeling Reveals Feature-Specific BOLD Profiles During Naturalistic Viewing","Imaging Neuroscience 4:IMAG.a.1331",D+"10.1162/IMAG.a.1331",3],
 [2026,"article","Gao L, Wei Z, Biswal BB, Di X","fMRI-Based Prediction of Eye Gaze During Naturalistic Movie Viewing Reveals Eye-Movement-Related Brain Activity","Psychoradiology 6:kkag026",D+"10.1093/psyrad/kkag026"],
 [2025,"article","Di X, Biswal BB, ADNI","Comparing Intra- and Inter-individual Correlational Brain Connectivity from Functional and Structural Neuroimaging Data","Brain Struct Funct 230:113",D+"10.1007/s00429-025-02972-y"],
 [2025,"article","Di X, Jain P, Biswal BB","Effects of Tasks on Functional Brain Connectivity Derived from Inter-Individual Correlations: Insights from Regional Homogeneity of Functional MRI Data","Brain Connectivity 15(6):207-216",D+"10.1089/brain.2024.0044"],

@@ -53,8 +53,8 @@
 <script src="pubs.js"></script>
 <script src="site.js"></script>
 <script>
-document.getElementById("latest").innerHTML=PUBS.filter(function(p){return p[0]===2026&&(p[1]==="article"||p[1]==="preprint")})
- .slice(0,5).map(function(p){
+document.getElementById("latest").innerHTML=PUBS.filter(function(p){return p[6]})
+ .sort(function(a,b){return a[6]-b[6]}).map(function(p){
   return '<li><span class="tag'+(p[1]==="preprint"?" alt":"")+'">'+(p[1]==="preprint"?"Preprint":"Published")+'</span><br><a href="'+p[5]+'">'+p[3]+'</a><br><span class="when">'+p[4]+'</span></li>';
  }).join("");
 </script></body></html>
