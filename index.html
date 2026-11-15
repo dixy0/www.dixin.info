@@ -10,43 +10,29 @@
   <img src="images/profile_small.jpg" alt="Portrait of Xin Di" width="200" height="200">
   <div>
     <h1>Xin Di, PhD</h1>
+    <p class="pron">Pronounced “Seen Dee” · 邸新</p>
     <p class="role">Research Assistant Professor · Department of Biomedical Engineering · New Jersey Institute of Technology</p>
-    <p class="lede">I study how the brain works as a network: how regions interact during movies and tasks, across development, and in autism. My work combines fMRI, eye tracking and PET, and develops open methods for measuring connectivity reliably.</p>
+    <p class="lede">I study how the brain works as a network: during movies and tasks, across development, and in autism. My work combines fMRI, eye tracking and PET with open methods for measuring connectivity.</p>
     <div class="btns">
       <a class="btn primary" href="files/CV_XinDi.pdf">Download CV</a>
     </div>
-    <p class="pron">Pronounced “Seen Dee” · 邸新</p>
+    <p class="note">Undergraduate research opportunities are available. <a href="mailto:xin.di@njit.edu">Get in touch</a>.</p>
   </div>
 </section>
 
-<h2>Research focus</h2>
+<h2>Research</h2>
 <div class="cards">
   <article class="card"><h3>Naturalistic connectivity &amp; autism</h3>
-    <p>Movie watching and eye tracking reveal how brain networks develop and how they differ across individuals with autism and ADHD.</p></article>
+    <p>Movie watching and eye tracking reveal how brain networks develop and how they differ across individuals with autism and ADHD.</p>
+    <p class="now"><span class="tag">NJDOH · 2024–2026</span><br>Decoding eye gaze from fMRI to study gaze and brain activity in autism.</p></article>
   <article class="card"><h3>Methods for connectivity</h3>
-    <p>Task-based connectivity (PPI, beta series), flexible hemodynamic modeling, and open preprocessing and quality-control protocols.</p></article>
+    <p>Task-based connectivity (PPI, beta series), flexible hemodynamic modeling, and open preprocessing and quality-control protocols.</p>
+    <p class="now"><span class="tag alt">Recent</span><br>Testing multimodal AI models as annotators of movie content for fMRI.</p></article>
   <article class="card"><h3>Molecular &amp; metabolic connectivity</h3>
-    <p>PET-based connectivity of glucose metabolism and neurotransmission, and shared data standards for molecular imaging.</p></article>
+    <p>PET-based connectivity of glucose metabolism and neurotransmission. I chair the Outreach Council of the <a href="https://molecularconnectivity.com/">Molecular Connectivity Working Group</a>.</p>
+    <p class="now"><span class="tag">NJ ACTS · 2026–2027</span><br>A standardized data access protocol for US molecular imaging.</p></article>
 </div>
-
-<h2>Current projects</h2>
-<div class="cards">
-  <article class="card"><span class="tag">NJ ACTS · 2026–2027</span>
-    <h3>Standardized data access for molecular imaging</h3>
-    <p>Establishing a Standardized Data Access Protocol (SDAP) to resolve data fragmentation in the US molecular imaging ecosystem.</p></article>
-  <article class="card"><span class="tag">NJDOH · 2024–2026</span>
-    <h3>Eye movements and brain activity in autism</h3>
-    <p>Validating deep neural network models that extract eye-gaze information directly from fMRI data, then testing how gaze and brain activity differ in autism spectrum disorder.</p></article>
-</div>
-<p><strong>Undergraduate research opportunities are available.</strong> <a href="mailto:xin.di@njit.edu">Get in touch</a> if you're interested.</p>
-
-<h2>Community</h2>
-<div class="cards">
-  <article class="card"><span class="tag">Chair, Outreach Council</span>
-    <h3>Molecular Connectivity Working Group</h3>
-    <p>An international initiative evaluating molecular imaging, such as PET, for studying brain connectivity. I chair its Outreach Council and organize the Molecular Connectivity Online Series (MCOS), a free monthly seminar series.</p>
-    <p><a href="https://molecularconnectivity.com/">MCWG website</a> · <a href="https://molecularconnectivity.com/events/">Events</a> · <a href="https://www.youtube.com/@molecularconnectivity">MCOS recordings on YouTube</a></p></article>
-</div>
+<p><a href="research.html">More about my research →</a></p>
 
 <h2>Latest publications</h2>
 <ul class="plain" id="latest"></ul>
@@ -56,7 +42,7 @@
 <script src="site.js"></script>
 <script>
 document.getElementById("latest").innerHTML=PUBS.filter(function(p){return p[6]})
- .sort(function(a,b){return a[6]-b[6]}).map(function(p){
-  return '<li><span class="tag'+(p[1]==="preprint"?" alt":"")+'">'+(p[1]==="preprint"?"Preprint":"Published")+'</span><br><a href="'+p[5]+'">'+p[3]+'</a><br><span class="when">'+p[4]+'</span></li>';
+ .sort(function(a,b){return a[6]-b[6]}).slice(0,4).map(function(p){
+  return '<li><a href="'+p[5]+'">'+p[3]+'</a><br><span class="when">'+(p[1]==="preprint"?"Preprint · ":"")+p[4]+'</span></li>';
  }).join("");
 </script></body></html>
