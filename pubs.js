@@ -3,7 +3,8 @@
 var D = "https://doi.org/";
 window.PUBS = [
 // ---- preprints / working papers
-[2026,"preprint","Huang Y, Zhang Z, Biswal B, Di X, Xu M","Brain-Aligned Multimodal LLMs for Social and Emotional Understanding of Cartoon Movies","arXiv:2610.22706 [cs.AI]","https://doi.org/10.48550/arXiv.2610.22706",1],
+[2026,"preprint","Huang Y, Zhang Z, Rahman R, Biswal B, Di X, Xu M","Human and Machine Annotations Predict Brain Responses to Naturalistic Movies Across Development","arXiv:2611.13637 [q-bio.NC]","https://doi.org/10.48550/arXiv.2611.13637",1],
+[2026,"preprint","Huang Y, Zhang Z, Biswal B, Di X, Xu M","Brain-Aligned Multimodal LLMs for Social and Emotional Understanding of Cartoon Movies","arXiv:2610.22706 [cs.AI]","https://doi.org/10.48550/arXiv.2610.22706"],
 [2026,"preprint","Di X, Biswal BB","Sub-Additive Effects of Autism-ADHD Comorbidity on Resting-State Pupillary and Oculomotor Phenotypes","bioRxiv",D+"10.64898/2026.05.27.728181",2],
 [2026,"preprint","Di X, Biswal BB","Domain-General Decoupling and Context-Specific Buffering: Transdiagnostic Eye-Tracking Biomarkers of ASD and ADHD During Naturalistic Viewing","bioRxiv",D+"10.64898/2026.05.11.724367",4],
 [2026,"preprint","Di X, Xu T, Castellanos FX, Biswal BB","Unique Amygdala Signatures and Shared Prefrontal Deficits in Autism: Mapping Social Heterogeneity via Naturalistic functional Magnetic Resonance Imaging","bioRxiv",D+"10.64898/2026.02.26.708280",5],
