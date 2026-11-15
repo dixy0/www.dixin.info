@@ -3,17 +3,18 @@
     ["index.html", "Home"], ["research.html", "Research"], ["publications.html", "Publications"],
     ["openscience.html", "Open science"], ["teaching.html", "Teaching"], ["service.html", "Service"]
   ];
+  var base = ((document.currentScript && document.currentScript.src) || "").replace(/[^/]*$/, "");
   var cur = location.pathname.split("/").pop() || "index.html";
   var saved = null;
   try { saved = localStorage.getItem("theme"); } catch (e) {}
   if (saved) document.documentElement.setAttribute("data-theme", saved);
 
   var nav = pages.map(function (p) {
-    return '<a href="' + p[0] + '"' + (p[0] === cur ? ' aria-current="page"' : "") + ">" + p[1] + "</a>";
+    return '<a href="' + base + (p[0] === "index.html" ? "" : p[0]) + '"' + (p[0] === cur ? ' aria-current="page"' : "") + ">" + p[1] + "</a>";
   }).join("");
   document.body.insertAdjacentHTML("afterbegin",
     '<a class="skip" href="#main">Skip to content</a>' +
-    '<header class="site"><div class="wrap"><a class="brand" href="index.html">Xin Di</a>' +
+    '<header class="site"><div class="wrap"><a class="brand" href="' + (base || "index.html") + '">Xin Di</a>' +
     '<nav class="main" aria-label="Main">' + nav + "</nav>" +
     '<button class="theme" aria-label="Toggle dark mode" title="Toggle dark mode">◐</button></div></header>');
   document.body.insertAdjacentHTML("beforeend",
