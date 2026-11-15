@@ -49,7 +49,11 @@ main{padding:40px 0 70px}
   box-shadow:0 0 0 1px var(--line),0 8px 24px rgba(0,0,0,.08)}
 .hero .role{color:var(--muted);margin:0 0 14px}
 .hero .lede{font-size:1.1rem;margin:0 0 16px}
-.pron{color:var(--muted);font-size:.9rem}
+.pron{color:var(--muted);font-size:.9rem;margin:-.5em 0 .8em}
+.note{color:var(--muted);font-size:.93rem;margin:14px 0 0}
+.card{display:flex;flex-direction:column}
+.card>.tag{align-self:flex-start}
+.card .now{margin-top:auto;padding-top:12px;border-top:1px solid var(--line);color:var(--text)}
 @media(max-width:720px){.hero{grid-template-columns:1fr;text-align:center;justify-items:center}}
 .btns{display:flex;gap:10px;flex-wrap:wrap}
 @media(max-width:720px){.btns{justify-content:center}}
